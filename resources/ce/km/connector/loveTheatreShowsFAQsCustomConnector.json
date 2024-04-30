@@ -1,0 +1,88 @@
+{
+  "$id": "loveTheatreShowsFAQsCustomConnector",
+  "$schema": "https://schema.yext.com/config/km/connector/v5",
+  "displayName": "Love Theatre Shows FAQs - Custom connector",
+  "entityTypes": [
+    "faq"
+  ],
+  "source": {
+    "sourceConfig": {
+      "apiPullConfig": {
+        "requestType": "GET",
+        "url": "https://lovetheatre.akaagencies.com/wp-json/yext/faqs",
+        "headers": {},
+        "queryParams": {},
+        "dataFormat": "JSON"
+      }
+    },
+    "baseSelector": {
+      "type": "JSON",
+      "header": "Entity Container",
+      "path": "[*]"
+    },
+    "selectors": [
+      {
+        "type": "JSON",
+        "header": "show_id",
+        "path": "show_id"
+      },
+      {
+        "type": "JSON",
+        "header": "question",
+        "path": "question"
+      },
+      {
+        "type": "JSON",
+        "header": "answer",
+        "path": "answer"
+      },
+      {
+        "type": "JSON",
+        "header": "type",
+        "path": "type"
+      },
+      {
+        "type": "JSON",
+        "header": "faq_id",
+        "path": "faq_id"
+      }
+    ]
+  },
+  "mappings": [
+    {
+      "header": "question",
+      "field": "question",
+      "subfieldPath": [],
+      "clearValueIfBlank": false
+    },
+    {
+      "header": "answer",
+      "field": "c_answer2",
+      "subfieldPath": [],
+      "clearValueIfBlank": false
+    },
+    {
+      "header": "show_id",
+      "field": "c_show",
+      "subfieldPath": [],
+      "clearValueIfBlank": false,
+      "listSettings": "REPLACE_EXISTING"
+    },
+    {
+      "header": "type",
+      "field": "c_type",
+      "subfieldPath": [],
+      "clearValueIfBlank": false
+    },
+    {
+      "header": "faq_id",
+      "field": "entityId",
+      "subfieldPath": [],
+      "clearValueIfBlank": false
+    }
+  ],
+  "comprehensiveModeConfig": {
+    "comprehensiveSet": "ENTITIES_CREATED_BY_THIS_CONNECTOR",
+    "actionOnMissingEntities": "DELETE"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "$id": "LoveTheatreShowsCustomConnector",
+  "$schema": "https://schema.yext.com/config/km/connector/v5",
+  "displayName": "Love Theatre Shows - Custom connector",
+  "entityTypes": [
+    "ce_show"
+  ],
+  "source": {
+    "sourceConfig": {
+      "apiPullConfig": {
+        "requestType": "GET",
+        "url": "https://lovetheatre.akaagencies.com/wp-json/yext/shows",
+        "headers": {},
+        "queryParams": {},
+        "dataFormat": "JSON"
+      }
+    },
+    "baseSelector": {
+      "type": "JSON",
+      "header": "Entity Container",
+      "path": "[*]"
+    },
+    "selectors": [
+      {
+        "type": "JSON",
+        "header": "id",
+        "path": "id"
+      },
+      {
+        "type": "JSON",
+        "header": "title",
+        "path": "title"
+      },
+      {
+        "type": "JSON",
+        "header": "link",
+        "path": "link"
+      },
+      {
+        "type": "JSON",
+        "header": "image",
+        "path": "image"
+      },
+      {
+        "type": "JSON",
+        "header": "desc",
+        "path": "desc"
+      },
+      {
+        "type": "JSON",
+        "header": "price",
+        "path": "price"
+      },
+      {
+        "type": "JSON",
+        "header": "currency",
+        "path": "currency"
+      },
+      {
+        "type": "JSON",
+        "header": "offer",
+        "path": "offer"
+      },
+      {
+        "type": "JSON",
+        "header": "type",
+        "path": "type"
+      },
+      {
+        "type": "JSON",
+        "header": "running time",
+        "path": "running_time"
+      },
+      {
+        "type": "JSON",
+        "header": "venue name",
+        "path": "venue_name"
+      },
+      {
+        "type": "JSON",
+        "header": "venue address",
+        "path": "venue_address"
+      },
+      {
+        "type": "JSON",
+        "header": "tags",
+        "path": "tags"
+      }
+    ]
+  },
+  "mappings": [
+    {
+      "header": "image",
+      "field": "primaryPhoto",
+      "subfieldPath": [
+        {
+          "name": "image"
+        },
+        {
+          "name": "url"
+        }
+      ],
+      "clearValueIfBlank": false
+    },
+    {
+      "header": "link",
+      "field": "landingPageUrl",
+      "subfieldPath": [],
+      "clearValueIfBlank": false
+    },
+    {
+      "header": "title",
+      "field": "name",
+      "subfieldPath": [],
+      "clearValueIfBlank": false
+    },
+    {
+      "header": "type",
+      "field": "c_showType",
+      "subfieldPath": [],
+      "clearValueIfBlank": false
+    },
+    {
+      "header": "venue address",
+      "field": "c_venueAddress",
+      "subfieldPath": [],
+      "clearValueIfBlank": false
+    },
+    {
+      "header": "tags",
+      "field": "c_tags",
+      "fieldFormatConfig": {
+        "listDelimiter": ","
+      },
+      "subfieldPath": [],
+      "clearValueIfBlank": false,
+      "listSettings": "REPLACE_EXISTING"
+    },
+    {
+      "header": "offer",
+      "field": "c_offer",
+      "subfieldPath": [],
+      "clearValueIfBlank": true
+    },
+    {
+      "header": "running time",
+      "field": "c_runningTime",
+      "subfieldPath": [],
+      "clearValueIfBlank": true
+    },
+    {
+      "header": "price",
+      "field": "price",
+      "subfieldPath": [
+        {
+          "name": "value"
+        }
+      ],
+      "clearValueIfBlank": true
+    },
+    {
+      "header": "venue name",
+      "field": "c_venueName",
+      "subfieldPath": [],
+      "clearValueIfBlank": false
+    },
+    {
+      "header": "currency",
+      "field": "price",
+      "subfieldPath": [
+        {
+          "name": "currencyCode"
+        }
+      ],
+      "clearValueIfBlank": false
+    },
+    {
+      "header": "id",
+      "field": "entityId",
+      "subfieldPath": [],
+      "clearValueIfBlank": false
+    },
+    {
+      "header": "desc",
+      "field": "primaryPhoto",
+      "subfieldPath": [
+        {
+          "name": "description"
+        }
+      ],
+      "clearValueIfBlank": false
+    }
+  ],
+  "comprehensiveModeConfig": {
+    "comprehensiveSet": "ENTITIES_CREATED_BY_THIS_CONNECTOR",
+    "actionOnMissingEntities": "DELETE"
+  }
+}
