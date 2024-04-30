@@ -1,0 +1,16 @@
+{
+  "$id": "1611",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Tina Turner musical has a running time of 2 hour 45 minutes including one interval.",
+    "c_show": [
+      "161"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the running time of Tina Turner the musical?",
+    "question": "What is the running time of Tina Turner the musical?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

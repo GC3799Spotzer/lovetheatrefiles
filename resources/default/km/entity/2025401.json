@@ -1,0 +1,16 @@
+{
+  "$id": "2025401",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Why Am I So Single? \\- A Big Fancy Musical is playing at the Garrick Theatre.",
+    "c_show": [
+      "202540"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Why Am I So Single? - A Big Fancy Musical playing?",
+    "question": "Where is Why Am I So Single? - A Big Fancy Musical playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

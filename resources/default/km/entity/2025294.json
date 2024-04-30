@@ -1,0 +1,16 @@
+{
+  "$id": "2025294",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Terrible Thames is written by Terry Deary and Neal Foster",
+    "c_show": [
+      "202529"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Terrible Thames?",
+    "question": "Who wrote Terrible Thames?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

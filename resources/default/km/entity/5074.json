@@ -1,0 +1,16 @@
+{
+  "$id": "5074",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Phantom of the Opera is written by Andrew Lloyd Webber and is directed by Harold Prince.",
+    "c_show": [
+      "507"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote The Phantom of the Opera?",
+    "question": "Who wrote The Phantom of the Opera?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

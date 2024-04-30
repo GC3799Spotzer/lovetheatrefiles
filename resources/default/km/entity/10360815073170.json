@@ -1,0 +1,17 @@
+{
+  "$id": "10360815073170",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003e\u003cem\u003e\u003cspan class\u003d\"wysiwyg-underline\"\u003e\u003ca href\u003d\"https://www.lovetheatre.com/shows/stranger-things-the-first-shadow-tickets/\" target\u003d\"_self\"\u003eStranger Things: The First Shadow\u003c/a\u003e\u003c/span\u003e \u003c/em\u003efeatures an original script by the Duffer Brothers, Kate Trefry and Jack Thorne. \u003c/p\u003e\n\u003cdiv class\u003d\"wysiwyg-text-align-center\"\u003e\u003ca class\u003d\"btn\" href\u003d\"https://www.lovetheatre.com/shows/stranger-things-the-first-shadow-tickets/?utm_source\u003dzendesk\u0026amp;utm_medium\u003dST\u0026amp;utm_campaign\u003dbook_tickets\"\u003eBook Tickets\u003c/a\u003e\u003c/div\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/10360815073170-Who-wrote-Stranger-Things-The-First-Shadow",
+    "name": "Who wrote Stranger Things: The First Shadow?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

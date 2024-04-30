@@ -1,0 +1,16 @@
+{
+  "$id": "1635773",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "LOVEtheatre has not been made aware of age guidance for this show.",
+    "c_show": [
+      "163577"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for The Curious Case Of Benjamin Button?",
+    "question": "What is the age guidance for The Curious Case Of Benjamin Button?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

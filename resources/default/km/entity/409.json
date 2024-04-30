@@ -1,0 +1,61 @@
+{
+  "$id": "409",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "80mins (no interval)",
+    "c_showType": "Musical",
+    "c_tags": [
+      "critically acclaimed",
+      "family friendly",
+      "half term",
+      "kids",
+      "last minute theatre tickets",
+      "matinee",
+      "sunday shows",
+      "valentines",
+      "musicals"
+    ],
+    "c_venueAddress": "404 Strand, Charing Cross, London WC2R 0NH",
+    "c_venueName": "Vaudeville Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/six-tickets/",
+    "name": "Six",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "36.8"
+    },
+    "primaryPhoto": {
+      "description": "Nominated for the WhatsOnStage Awards 2024 for Best West End Show\nCrowning glory of the West End, Broadway and beyond SIX is holding court at the Vaudeville Theatre in London. Prepare to Lose Ur Head at ‘the most uplifting piece of new British musical theatre,’ (Evening Standard).\nThink you know the six wives of Henry VIII? Think again…\nCreated by Toby Marlow and Lucy Moss, prepare to experience the Tudor Wives’ lives as they turn back the clock and take to the stage to reclaim their crowns. Hear them retell their stories of love, loss and the infamous ex they all have in common in this Tony Award-winning musical.\nJoin Aragon, Boleyn, Seymour, Cleves, Howard and Parr in a royal retelling of the sassiest story in British Her-story. Backed by their fiercely all-female band, the Ladies in Waiting, thre’s No Way you want to miss this!\nBook your SIX musical tickets and Get Down with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/02/SIX22049_Lovetheatre_1080x1080pxls.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/p1YD1gGmw1fJouQr_Qweltquqz7hcveYqPy9jXUy054/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/p1YD1gGmw1fJouQr_Qweltquqz7hcveYqPy9jXUy054/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/p1YD1gGmw1fJouQr_Qweltquqz7hcveYqPy9jXUy054/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/p1YD1gGmw1fJouQr_Qweltquqz7hcveYqPy9jXUy054/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/p1YD1gGmw1fJouQr_Qweltquqz7hcveYqPy9jXUy054/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

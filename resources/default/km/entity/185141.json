@@ -1,0 +1,59 @@
+{
+  "$id": "185141",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs (incl. 50min guided tour \u0026 self-guided exhibition space)",
+    "c_showType": "Event",
+    "c_tags": [
+      "events",
+      "family friendly",
+      "half term",
+      "kids",
+      "matinee",
+      "shakespeare",
+      "sunday shows"
+    ],
+    "c_venueAddress": "21 New Globe Walk, London SE1 9DT",
+    "c_venueName": "Globe Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/globe-story-and-guided-tours-tickets/",
+    "name": "Globe Story and Guided Tours",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "20"
+    },
+    "primaryPhoto": {
+      "description": "If you want to know more about the history of London’s most famous theatre, GLOBE STORY AND GUIDED TOURS at the Globe Theatre is the perfect opportunity to learn about centuries of history of one of the most famous stages in the world.\nIn our brand-new, walk-through exhibition space, you’ll be immersed in the sights, sounds, and secrets of Shakespeare’s London, travelling through over 400 years of fascinating history. You’ll be able to relive some of our most iconic shows with seasonally curated displays, and even have the chance to get ready for the stage yourself with interactive costumes and props.\nVenture into the Globe Theatre itself where our expert Guides bring to life the thrilling story of our iconic wooden ‘O’. Hear how the original 1599 theatre survived the plague, fire and political oppression and rose again in the 1990s as part of one man’s radical vision. Wonder at its craftsmanship and imagine how thousands of Londoners once packed in to see the greatest actors of the day.\nAll tours are in English and suitable for all ages. Information sheets are available in a number of languages. We are an open-air theatre and tours go ahead in all conditions so dress for the weather.\nBook your GLOBE STORY AND GUIDED TOURS tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1440,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/12/Globe_StoryTour_1080x1080_Logo.jpg",
+        "thumbnails": [
+          {
+            "height": 1440,
+            "url": "http://a.mktgcdn.com/p-sandbox/dqucJLWjwWWCImu3SgSgQJKQsQQsVTE2gFjocOBuMb8/1440x1440.jpg",
+            "width": 1440
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/dqucJLWjwWWCImu3SgSgQJKQsQQsVTE2gFjocOBuMb8/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/dqucJLWjwWWCImu3SgSgQJKQsQQsVTE2gFjocOBuMb8/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/dqucJLWjwWWCImu3SgSgQJKQsQQsVTE2gFjocOBuMb8/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/dqucJLWjwWWCImu3SgSgQJKQsQQsVTE2gFjocOBuMb8/1440x1440.jpg",
+        "width": 1440
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

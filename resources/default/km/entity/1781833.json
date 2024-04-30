@@ -1,0 +1,16 @@
+{
+  "$id": "1781833",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Priscilla The Party! age guidance is 14+. Under 16s must be accompanied by an adult 18+",
+    "c_show": [
+      "178183"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Priscilla The Party!?",
+    "question": "What is the age guidance for Priscilla The Party!?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

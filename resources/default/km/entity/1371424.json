@@ -1,0 +1,16 @@
+{
+  "$id": "1371424",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "A View From the Bridge is written by Arthur Miller and is directed by Lindsay Posner.",
+    "c_show": [
+      "137142"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote A View From the Bridge?",
+    "question": "Who wrote A View From the Bridge?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

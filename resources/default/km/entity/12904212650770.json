@@ -1,0 +1,17 @@
+{
+  "$id": "12904212650770",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eCurrently, you can only redeem one voucher on a booking. \u003c/p\u003e\n\u003cp\u003eIf you have multiple vouchers you wish to use, please contact us via our \u003cstrong\u003e\u003ca href\u003d\"https://help.lovetheatre.com/hc/en-gb/requests/new\" target\u003d\"_blank\" rel\u003d\"noopener\"\u003eHelp Centre\u003c/a\u003e\u003c/strong\u003e with all the voucher details you wish to use. Our dedicated team will then merge your current vouchers into one single voucher for you to redeem on your booking. \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/12904212650770-I-have-more-than-one-voucher-I-want-to-use-for-a-booking-how-can-I-do-this",
+    "name": "I have more than one voucher I want to use for a booking, how can I do this? ",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "3856",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Wicked is suitable for a general audience. As a guide to parents and guardians, it is recommended for ages 7 and over. Children under 5 years of age will not be admitted.",
+    "c_show": [
+      "385"
+    ],
+    "c_type": "SHOW",
+    "name": "What age is Wicked appropriate for?",
+    "question": "What age is Wicked appropriate for?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "5072",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Phantom of the Opera is 2 hours 30 minutes (incl. interval). Performances starting at 2:30pm finish at approx. 5pm, and performances starting at 7:30pm finish at approx. 10pm",
+    "c_show": [
+      "507"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is The Phantom of the Opera and when does it finish?",
+    "question": "How long is The Phantom of the Opera and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,51 @@
+{
+  "$id": "41689",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Event",
+    "c_tags": [
+      "events"
+    ],
+    "c_venueAddress": "100 Charing Cross Road, London, WC2H 0JG",
+    "c_venueName": "The Art of Banksy",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-art-of-banksy-tickets/",
+    "name": "The Art of Banksy",
+    "price": {
+      "currencyCode": "GBP"
+    },
+    "primaryPhoto": {
+      "description": "Following unprecedented public demand, THE ART OF BANKSY – the major exhibition which has brought Banksy’s era defining works to over 1.5 million visitors in 15 cities across the globe – is extending its London run following hugely successful residencies in Covent Garden and Regent Street.\nSee the iconic pieces that brought the anonymous artist international acclaim – ‘Girl With Balloon’, in three colour variations, ‘Flower Thrower’ and ‘Rude Copper’ alongside unique works including hand drawn sketches and personal artworks which Banksy created for friends, colleagues and lovers. The exhibition also focuses on Banksy’s Dismaland, the Walled Off Hotel in Bethlehem and recent artworks which acknowledge the ongoing war in Ukraine. New audio and visual elements bring the Banksy story to life as well as a brand-new café and museum shop plus some extra special new Banksy pieces to be announced.\nVisit THE ART OF BANKSY’s new 1,300 sqm Soho home to discover the iconic works of one of the world’s most important current artists and what their work reveals today; the power of art to affect social change, inspire the public and lay bare the undercurrents of social issues.\nBook your THE ART OF BANKSY tickets with LOVEtheatre today!\nThe Art of Banksy is not curated or authorised by the artist.",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/03/TAOB-SOHO-LT-1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/L59kIRoFIb5Y3AKm4KVALfiaRrZamB3zxcHXrBOwlEM/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/L59kIRoFIb5Y3AKm4KVALfiaRrZamB3zxcHXrBOwlEM/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/L59kIRoFIb5Y3AKm4KVALfiaRrZamB3zxcHXrBOwlEM/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/L59kIRoFIb5Y3AKm4KVALfiaRrZamB3zxcHXrBOwlEM/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/L59kIRoFIb5Y3AKm4KVALfiaRrZamB3zxcHXrBOwlEM/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "1698834",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Othello is written by William Shakespeare, and is directed by Ola Ince",
+    "c_show": [
+      "169883"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Othello?",
+    "question": "Who wrote Othello?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

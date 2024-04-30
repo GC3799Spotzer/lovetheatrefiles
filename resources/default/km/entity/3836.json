@@ -1,0 +1,16 @@
+{
+  "$id": "3836",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "There is no dress code at the theatre. For all performances...[...read more](https://help.lovetheatre.com/hc/en\\-gb/articles/360019738039\\-Is\\-there\\-a\\-dress\\-code\\-for\\-the\\-Lyceum\\-Theatre\\-)",
+    "c_show": [
+      "383"
+    ],
+    "c_type": "SHOW",
+    "name": "Is there a dress code for the Lyceum Theatre?",
+    "question": "Is there a dress code for the Lyceum Theatre?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

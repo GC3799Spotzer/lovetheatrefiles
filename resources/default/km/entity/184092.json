@@ -1,0 +1,53 @@
+{
+  "$id": "184092",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Musical",
+    "c_tags": [
+      "concert",
+      "limited run",
+      "musicals"
+    ],
+    "c_venueAddress": "Catherine Street, West End, London WC2B 5JF",
+    "c_venueName": "Theatre Royal Drury Lane",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/wild-about-you-tickets/",
+    "name": "Wild About You",
+    "price": {
+      "currencyCode": "GBP"
+    },
+    "primaryPhoto": {
+      "description": "WILD ABOUT YOU is playing at the West End’s Theatre Royal, Drury Lane for two nights only in March 2024!\nWILD ABOUT YOU, a New Musical in Concert with music and lyrics by Broadway star, Chilina Kennedy (Paradise Square, Beautiful: The Carole King Musical), is coming to the West End. With a book written by Eric Holmes and musical direction, orchestrations, and arrangements by Daniel Edmonds, it is produced by two-time Tony Award® winner, Brian Spector.\nThis world premiere concert will feature Eric McCormack (The Cottage, Will and Grace), Rachel Tucker (Sunset Boulevard, Come from Away), Todrick Hall (Burlesque the Musical, RuPaul’s Drag Race), Jamie Muscato (Moulin Rouge!, Heathers), Oliver Tompsett (Pretty Woman, \u0026Juliet), Tori Allen Martin (BBC 1 comedy Here We Go), among its stellar cast.\nBook your WILD ABOUT YOU theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/11/wildaboutyou-agentassets-6xcast_1080-x-1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/3xWDPAP_NhPZJqR8R20wms-skps1VwhxlauAJwf5BXo/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/3xWDPAP_NhPZJqR8R20wms-skps1VwhxlauAJwf5BXo/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/3xWDPAP_NhPZJqR8R20wms-skps1VwhxlauAJwf5BXo/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/3xWDPAP_NhPZJqR8R20wms-skps1VwhxlauAJwf5BXo/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/3xWDPAP_NhPZJqR8R20wms-skps1VwhxlauAJwf5BXo/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

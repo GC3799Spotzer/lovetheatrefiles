@@ -1,0 +1,55 @@
+{
+  "$id": "184712",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Event",
+    "c_tags": [
+      "concert",
+      "events",
+      "limited run",
+      "sunday shows"
+    ],
+    "c_venueAddress": "5 Sloane Terrace, Belgravia, London SW1X 9DQ",
+    "c_venueName": "Cadogan Hall",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/lucie-jones-in-concert-tickets/",
+    "name": "Lucie Jones in Concert",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "25.08"
+    },
+    "primaryPhoto": {
+      "description": "For one night only LUCIE JONES IN CONCERT will be at London’s Cadogan Hall.\nIn 2023, Lucie completed a UK tour with the 50 piece Fulltone Orchestra. She has now returned to the West End cast of Les Miserables, where she is currently playing Fantine at the Sondheim Theatre.\nIn 2017, Lucie represented the United Kingdom at the Eurovision Song Contest in Ukraine, and subsequently released her first solo single and music video for her song ‘Never give up on you’. Lucie performed this track at the live final to a worldwide audience of over 300 million viewers, garnering the best result for the UK in many years.\nIn 2020, Lucie performed a live solo concert to a sell-out audience at London’s Adelphi Theatre, accompanied by the London Musical Theatre Orchestra. The concert was recorded for a self-titled live album released in 2020. Lucie toured in late 2021 with her live band concluding in another sell-out house at His Majesty’s Theatre, London.\nBook your LUCIE JONES IN CONCERT theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/12/LucieJonesInConcert_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/jAe6DOM9dyHZwGsz1jzgPtERSrqxzlgS7JRSOQ7kTuM/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/jAe6DOM9dyHZwGsz1jzgPtERSrqxzlgS7JRSOQ7kTuM/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/jAe6DOM9dyHZwGsz1jzgPtERSrqxzlgS7JRSOQ7kTuM/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/jAe6DOM9dyHZwGsz1jzgPtERSrqxzlgS7JRSOQ7kTuM/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/jAe6DOM9dyHZwGsz1jzgPtERSrqxzlgS7JRSOQ7kTuM/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

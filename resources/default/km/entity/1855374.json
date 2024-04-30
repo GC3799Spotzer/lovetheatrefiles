@@ -1,0 +1,16 @@
+{
+  "$id": "1855374",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Merchant of Venice 1936 is based on the play by William Shakespeare.",
+    "c_show": [
+      "185537"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote The Merchant of Venice 1936?",
+    "question": "Who wrote The Merchant of Venice 1936?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

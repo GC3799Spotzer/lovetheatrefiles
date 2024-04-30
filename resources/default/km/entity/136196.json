@@ -1,0 +1,42 @@
+{
+  "$id": "136196",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/shirley-valentine-tickets/",
+    "name": "Shirley Valentine",
+    "primaryPhoto": {
+      "description": "SHIRLEY VALENTINE is playing at the Duke of York\u0026#8217;s Theatre for a limited 15 week run in early 2023!\nSHIRLEY VALENTINE is the celebrated one-woman play written by Willy Russell, winning him his third Olivier Award. Sheridan Smith is a multi-award-winning actress with two Olivier Awards and a BAFTA. Matthew Dunster is a three-time Olivier Award nominated director whose work most recently has been seen on Broadway with Martin McDonagh’s Hangmen and in the West End with 2:22 by Danny Robins.\nBook your SHIRLEY VALENTINE theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/10/SV_SOCIAL_15-WEEKS_1080-x-1080-Instagram.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/FWJvnmvqJUkHRmMpQJmlj-ieaa8oXAZw2wxUa93ADJU/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/FWJvnmvqJUkHRmMpQJmlj-ieaa8oXAZw2wxUa93ADJU/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/FWJvnmvqJUkHRmMpQJmlj-ieaa8oXAZw2wxUa93ADJU/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/FWJvnmvqJUkHRmMpQJmlj-ieaa8oXAZw2wxUa93ADJU/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/FWJvnmvqJUkHRmMpQJmlj-ieaa8oXAZw2wxUa93ADJU/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

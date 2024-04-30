@@ -1,0 +1,16 @@
+{
+  "$id": "2093473",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "LOVEtheatre has not been informed of age guidance for this show.",
+    "c_show": [
+      "209347"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for With All Our Hearts?",
+    "question": "What is the age guidance for With All Our Hearts?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

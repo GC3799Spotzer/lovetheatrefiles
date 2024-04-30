@@ -1,0 +1,16 @@
+{
+  "$id": "2030633",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Believe: My Life on Stage is not suitable for under 5s.",
+    "c_show": [
+      "203063"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Believe: My Life on Stage?",
+    "question": "What is the age guidance for Believe: My Life on Stage?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

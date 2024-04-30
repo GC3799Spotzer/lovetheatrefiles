@@ -1,0 +1,19 @@
+{
+  "$id": "ce_show.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Show-default",
+  "entityType": "ce_show",
+  "fields": [
+    "c_introduction",
+    "c_offer",
+    "c_runningTime",
+    "c_showType",
+    "c_tags",
+    "c_venueAddress",
+    "c_venueName",
+    "landingPageUrl",
+    "price",
+    "primaryPhoto"
+  ],
+  "required": []
+}

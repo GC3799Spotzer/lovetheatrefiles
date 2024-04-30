@@ -1,0 +1,16 @@
+{
+  "$id": "215911",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Moulin Rouge! The Musical is currently playing at the Piccadilly Theatre.",
+    "c_show": [
+      "21591"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Moulin Rouge! The Musical playing?",
+    "question": "Where is Moulin Rouge! The Musical playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

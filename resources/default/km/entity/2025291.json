@@ -1,0 +1,16 @@
+{
+  "$id": "2025291",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Terrible Thames is playing at Tower Bridge Quay",
+    "c_show": [
+      "202529"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Terrible Thames playing?",
+    "question": "Where is Terrible Thames playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

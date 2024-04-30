@@ -1,0 +1,16 @@
+{
+  "$id": "1705281",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Elvis Years is playing at the Dominion Theatre.",
+    "c_show": [
+      "170528"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is The Elvis Years playing?",
+    "question": "Where is The Elvis Years playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "2093471",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "With All Our Hearts is playing at Adelphi Theatre",
+    "c_show": [
+      "209347"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is With All Our Hearts playing?",
+    "question": "Where is With All Our Hearts playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

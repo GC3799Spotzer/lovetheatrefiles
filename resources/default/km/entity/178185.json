@@ -1,0 +1,57 @@
+{
+  "$id": "178185",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "a list star",
+      "drama",
+      "hot tickets",
+      "limited run",
+      "shakespeare",
+      "plays"
+    ],
+    "c_venueAddress": "85-88 St Martin\u0027s Ln, Charing Cross, London WC2N 4AP",
+    "c_venueName": "Noël Coward Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/player-kings-tickets/",
+    "name": "Player Kings",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "32.7"
+    },
+    "primaryPhoto": {
+      "description": "Bringing together Shakespeare’s two great history plays (Henry IV, parts 1 and 2) into the theatrical event of the season, PLAYER KINGS will reign over the West End’s Noël Coward Theatre from the 1st April to the 22nd June 2024.\nIan McKellen – ‘one of the world’s greatest actors’ (Times) – plays Falstaff in a new version of Shakespeare’s Henry IV, adapted by the award-winning writer and director Robert Icke.\n\n\n\n\nA divided country, leadership crumbling, corruption in the air. Welcome to England.\n\n\n\n\n\n\n\nBook your PLAYER KINGS theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/11/PK23_Q4_003_PressAssets_1080x1080_1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/eR9MXuu4gn6lBM_Oy-M7QmdWbKETgzBA2KLRqukh6ps/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/eR9MXuu4gn6lBM_Oy-M7QmdWbKETgzBA2KLRqukh6ps/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/eR9MXuu4gn6lBM_Oy-M7QmdWbKETgzBA2KLRqukh6ps/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/eR9MXuu4gn6lBM_Oy-M7QmdWbKETgzBA2KLRqukh6ps/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/eR9MXuu4gn6lBM_Oy-M7QmdWbKETgzBA2KLRqukh6ps/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

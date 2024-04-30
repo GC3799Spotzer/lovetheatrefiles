@@ -1,0 +1,57 @@
+{
+  "$id": "150991",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "Approx 90 minutes",
+    "c_showType": "Event",
+    "c_tags": [
+      "concert",
+      "critically acclaimed",
+      "hot tickets",
+      "matinee",
+      "sunday shows"
+    ],
+    "c_venueAddress": "1 Pudding Mill Ln, London E15 2RU",
+    "c_venueName": "ABBA Arena",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/abba-voyage-tickets/",
+    "name": "ABBA Voyage",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "57.5"
+    },
+    "primaryPhoto": {
+      "description": "ABBA VOYAGE is a concert like no other, at the purpose-built ABBA Arena located at Queen Elizabeth Olympic Park, London.\nSee ABBA on stage in a concert 40 years in the making!\nBlending cutting-edge technology, spectacular lighting, and some of the most beloved songs ever written, ABBA take to the stage in a whole new way. In a stunning, purpose-built arena, one of the most popular groups in history appear as digital avatars in a ‘ground-breaking’ (Metro) concert that really ‘needs to be seen to be believed’ (BBC).\nBook your ABBA VOYAGE tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/01/GroupLine-1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/E45yv_QNoBnRCn-EGZE4kiZo7mX1jsNBZKi-FQxIkf8/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/E45yv_QNoBnRCn-EGZE4kiZo7mX1jsNBZKi-FQxIkf8/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/E45yv_QNoBnRCn-EGZE4kiZo7mX1jsNBZKi-FQxIkf8/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/E45yv_QNoBnRCn-EGZE4kiZo7mX1jsNBZKi-FQxIkf8/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/E45yv_QNoBnRCn-EGZE4kiZo7mX1jsNBZKi-FQxIkf8/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "4423962572946",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eOur network welcome a huge range of publishers from National and Local Media, to Tourist Boards, Event Guides, Fan Sites, Bloggers and Influencers. \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/4423962572946-Who-can-become-an-Affiliate",
+    "name": "Who can become an Affiliate?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

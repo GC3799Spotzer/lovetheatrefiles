@@ -1,0 +1,56 @@
+{
+  "$id": "178497",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 25mins (incl. interval)",
+    "c_showType": "Musical",
+    "c_tags": [
+      "award winning",
+      "critically acclaimed",
+      "limited run",
+      "musicals"
+    ],
+    "c_venueAddress": "Charing Cross Rd, Charing Cross, London WC2H 0DA",
+    "c_venueName": "Wyndhams Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/next-to-normal-tickets/",
+    "name": "Next to Normal",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "24"
+    },
+    "primaryPhoto": {
+      "description": "Nominated for Best New Musical, Best Actress in a Musical (Caissie Levy), Best Supporting Actor in a Musical (Jack Wolfe), and Best Supporting Actress in a Musical (Eleanor Worthington-Cox) at the Olivier Awards 2024\nCritically acclaimed Broadway musical NEXT TO NORMAL is coming to London’s Wyndham’s Theatre for a limited run of 14 weeks only in 2024, following a successful run at the Donmar Warehouse.\nDonmar Artistic Director Michael Longhurst directs this landmark rock musical, which was the winner of the 2010 Pulitzer Prize for Drama and three Tony Awards including Best Original Score.\nThe NEXT TO NORMAL cast will include Caissie Levy (Frozen, Leopoldstat, Caroline or Change) as Diana Goodman, Jamie Parker (Harry Potter and the Cursed Child, The Crown) as Dan, Jack Wolfe (Next to Normal, Shadow and Bone) as Gabe, Eleanor Worthington-Cox (Jerusalem, Matilda the Musical) as Natalie, Trevor Dion Nicholas (Hamilton, Aladdin) as Dr Madden/Dr Fine, and Jack Ofrecio (The Merry Wives of Windsor) as Henry.\nDescribed as “Brave and breathtaking. It is something much more than a feel-good musical; it is a feel-everything musical.” (New York Times), NEXT TO NORMAL is the winner of 3 Tony Awards, as well as being one of only ten musicals in history to win the Pulitzer Prize for Drama.\nBook your NEXT TO NORMAL theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/11/NTN-MAR24-BBs-ATG-1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/ImxSMha6PJsQsDWrGW2uuVq-yQdBMYjSj5CnZI1k1Ig/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/ImxSMha6PJsQsDWrGW2uuVq-yQdBMYjSj5CnZI1k1Ig/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/ImxSMha6PJsQsDWrGW2uuVq-yQdBMYjSj5CnZI1k1Ig/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/ImxSMha6PJsQsDWrGW2uuVq-yQdBMYjSj5CnZI1k1Ig/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/ImxSMha6PJsQsDWrGW2uuVq-yQdBMYjSj5CnZI1k1Ig/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

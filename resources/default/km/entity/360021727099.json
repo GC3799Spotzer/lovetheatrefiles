@@ -1,0 +1,17 @@
+{
+  "$id": "360021727099",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cul style\u003d\"font-weight: 400;\"\u003e\n\u003cli data-leveltext\u003d\"\" data-font\u003d\"Symbol\" data-listid\u003d\"1\" aria-setsize\u003d\"-1\" data-aria-posinset\u003d\"1\" data-aria-level\u003d\"1\"\u003e\n\u003cspan data-contrast\u003d\"none\"\u003eATG’s \u003c/span\u003e\u003ca href\u003d\"https://www.atgtickets.com/communities/creative-learning-community-partnerships/\"\u003e\u003cspan data-contrast\u003d\"none\"\u003eWest End Work in Theatre\u003c/span\u003e\u003c/a\u003e\u003cspan data-contrast\u003d\"none\"\u003e courses are for people aged 14+. \u003c/span\u003e\u003cspan data-ccp-props\u003d\u0027{\"134233279\":true,\"201341983\":0,\"335559739\":160,\"335559740\":259}\u0027\u003e \u003c/span\u003e\n\u003c/li\u003e\n\u003cli data-leveltext\u003d\"\" data-font\u003d\"Symbol\" data-listid\u003d\"1\" aria-setsize\u003d\"-1\" data-aria-posinset\u003d\"2\" data-aria-level\u003d\"1\"\u003e\u003cspan data-contrast\u003d\"none\"\u003eThe internship scheme is generally for undergraduates or recent graduates, but there is no official age guidance. \u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/360021727099-Do-you-accept-applications-from-school-students-for-work-experience-placements-or-internships",
+    "name": "Do you accept applications from school students for work experience placements or internships?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

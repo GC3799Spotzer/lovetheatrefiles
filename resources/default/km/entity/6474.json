@@ -1,0 +1,16 @@
+{
+  "$id": "6474",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Witness for the Prosecution is written by Agatha Christie and is directed by Lucy Bailey.",
+    "c_show": [
+      "647"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Witness for the Prosecution?",
+    "question": "Who wrote Witness for the Prosecution?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

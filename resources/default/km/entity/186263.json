@@ -1,0 +1,55 @@
+{
+  "$id": "186263",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "1 hour",
+    "c_showType": "Play",
+    "c_tags": [
+      "comedy",
+      "limited run",
+      "sunday shows",
+      "plays"
+    ],
+    "c_venueAddress": "12 Palace Street, London, SW1E 5JA",
+    "c_venueName": "The Other Palace",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/karen-tickets/",
+    "name": "Karen",
+    "price": {
+      "currencyCode": "GBP"
+    },
+    "primaryPhoto": {
+      "description": "Join KAREN at the West End’s The Other Palace theatre for a limited run in Spring 2024.\nKAREN invites you into the uproarious world of our Protagonist. Seamlessly breaking the fourth wall, she’ll whisk you through a chaos-filled narrative that has been described as Fleabag meets The Office with Cameron-West acting described as “the female Peep Show” (The Nerd Party).\nBook your KAREN theatre tickets with LOVETheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2024/01/1080-x-1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/w1iEOWakkAdlcqRhQfLTjx3mh4-7_vm6Y86YgJbhd0w/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/w1iEOWakkAdlcqRhQfLTjx3mh4-7_vm6Y86YgJbhd0w/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/w1iEOWakkAdlcqRhQfLTjx3mh4-7_vm6Y86YgJbhd0w/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/w1iEOWakkAdlcqRhQfLTjx3mh4-7_vm6Y86YgJbhd0w/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/w1iEOWakkAdlcqRhQfLTjx3mh4-7_vm6Y86YgJbhd0w/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

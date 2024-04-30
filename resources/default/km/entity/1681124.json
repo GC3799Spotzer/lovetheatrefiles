@@ -1,0 +1,16 @@
+{
+  "$id": "1681124",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "This adaptation of The Picture of Dorian Gray is by Kip Williams, based on the novel by Oscar Wilde.",
+    "c_show": [
+      "168112"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote The Picture of Dorian Gray?",
+    "question": "Who wrote The Picture of Dorian Gray?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

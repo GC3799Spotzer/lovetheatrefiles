@@ -1,0 +1,56 @@
+{
+  "$id": "185537",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs (incl. interval)",
+    "c_showType": "Play",
+    "c_tags": [
+      "a list star",
+      "drama",
+      "limited run",
+      "shakespeare",
+      "plays"
+    ],
+    "c_venueAddress": "218-223 Piccadilly, St. James\u0027s, London W1V 9LB",
+    "c_venueName": "Criterion Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-merchant-of-venice-1936-tickets/",
+    "name": "The Merchant of Venice 1936",
+    "price": {
+      "currencyCode": "GBP"
+    },
+    "primaryPhoto": {
+      "description": "A new adaptation of Shakespeare‘s THE MERCHANT OF VENICE is coming to the Criterion Theatre for a limited run in 2024.\nAmbition, power and political unrest explode onto the stage in The Merchant of Venice 1936, direct from the RSC. Starring Tracy-Ann Oberman (EastEnders, Doctor Who) as Shylock, Shakespeare’s classic is transported to 1930s Britain in this “striking and impactful” (Guardian) new production that “makes theatre history” (The Telegraph), from acclaimed director Brigid Larmour.\nDon’t miss this unforgettable, electrifying new production of THE MERCHANT OF VENICE, a “fascinating and timely” (Daily Mail) reminder of a key moment in British history.\nBook your THE MERCHANT OF VENICE theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/12/MM_2023142_MOV_LTGL_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/qoOwpeiY0CMNXRRLr-bzJVIRnP9ktq4ExHmznS0yQ1I/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/qoOwpeiY0CMNXRRLr-bzJVIRnP9ktq4ExHmznS0yQ1I/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/qoOwpeiY0CMNXRRLr-bzJVIRnP9ktq4ExHmznS0yQ1I/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/qoOwpeiY0CMNXRRLr-bzJVIRnP9ktq4ExHmznS0yQ1I/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/qoOwpeiY0CMNXRRLr-bzJVIRnP9ktq4ExHmznS0yQ1I/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

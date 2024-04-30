@@ -1,0 +1,42 @@
+{
+  "$id": "130302",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/titus-andronicus-tickets/",
+    "name": "Titus Andronicus",
+    "primaryPhoto": {
+      "description": "Part of the Globe Theatre\u0026#8217;s 2022 Winter Season; TITUS ANDRONICUS.\nGet inside the beating heart of Shakespeare’s first and most deadly revenge tragedy, TITUS ANDRONICUS, performed in the Sam Wanamaker Playhouse for the first time.\nDirector Jude Christian explores the macabre madness that takes us to the edge of humanity. Based on the play by William Shakespeare, this show will run from 19 January – 15 April 2023.\nBook your TITUS ANDRONICUS theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/07/Globe_Titus_LoveTheatre3.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/qBOK1JNQOipfMfnbaHpQUYsryjdbgg5afH1yda_VRo8/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/qBOK1JNQOipfMfnbaHpQUYsryjdbgg5afH1yda_VRo8/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/qBOK1JNQOipfMfnbaHpQUYsryjdbgg5afH1yda_VRo8/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/qBOK1JNQOipfMfnbaHpQUYsryjdbgg5afH1yda_VRo8/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/qBOK1JNQOipfMfnbaHpQUYsryjdbgg5afH1yda_VRo8/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

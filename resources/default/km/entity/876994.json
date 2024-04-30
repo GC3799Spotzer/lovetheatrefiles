@@ -1,0 +1,16 @@
+{
+  "$id": "876994",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Hamilton is written by Lin\\-Manuel Miranda and directed by Thomas Kail.",
+    "c_show": [
+      "87699"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Hamilton?",
+    "question": "Who wrote Hamilton?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

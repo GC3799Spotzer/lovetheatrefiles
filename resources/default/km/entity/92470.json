@@ -1,0 +1,56 @@
+{
+  "$id": "92470",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Musical",
+    "c_tags": [
+      "a list star",
+      "concert",
+      "events",
+      "hot tickets",
+      "limited run"
+    ],
+    "c_venueAddress": "Catherine Street, West End, London WC2B 5JF",
+    "c_venueName": "Theatre Royal Drury Lane",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/pippin-tickets/",
+    "name": "Pippin",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "30"
+    },
+    "primaryPhoto": {
+      "description": "There’s magic to do in the 50th anniversary concert production of PIPPIN at the iconic Theatre Royal Drury Lane\nThe show will star Tony Award winner Alex Newell (Shucked), Olivier Award winner Patricia Hodge (Downton Abbey, Miranda), Lucie Jones (Waitress, Les Misérables, Wicked) Cedric Neal (Guys \u0026 Dolls, Back to the future) Zizi Strallen, (Mary Poppins, Strictly Ballroom, Follies) Jac Yarrow (Joseph and the Amazing Technicolour Dreamcoat, Newsies) and featuring a 20-piece orchestra and 50-strong choir\nWith an infectiously unforgettable score from four-time Grammy winner, three-time Oscar winner and musical theatre giant, Stephen Schwartz, including the classic songs Corner of the Sky and Magic to Do, PIPPIN is a soul-searching exploration of one man’s journey to find himself, his place and purpose in life.\nStephen Schwartz said: “Although there have been some excellent recent productions of Pippin in the UK, the show never gets to be heard with a full live orchestra and choir. This concert, with a cast led by the astonishing Alex Newell and produced under the always first-rate auspices of Katy Lipson’s Aria Entertainment and Carter Dixon McGill, promises to be a once-in-a-blue-moon event. I for one cannot wait to experience it!”\nBook your PIPPIN theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2021/07/7885_04_Pippin_LoveTheatre_1080x1080px.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/RXhq_8O7ZfytjfqGNRL_I509B4FeMwOgGX9BP5LRgYs/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/RXhq_8O7ZfytjfqGNRL_I509B4FeMwOgGX9BP5LRgYs/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/RXhq_8O7ZfytjfqGNRL_I509B4FeMwOgGX9BP5LRgYs/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/RXhq_8O7ZfytjfqGNRL_I509B4FeMwOgGX9BP5LRgYs/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/RXhq_8O7ZfytjfqGNRL_I509B4FeMwOgGX9BP5LRgYs/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

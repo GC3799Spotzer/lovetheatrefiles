@@ -1,0 +1,59 @@
+{
+  "$id": "839",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "55mins (no interval)",
+    "c_showType": "Play",
+    "c_tags": [
+      "family friendly",
+      "half term",
+      "kids",
+      "limited run",
+      "matinee",
+      "sunday shows",
+      "plays"
+    ],
+    "c_venueAddress": "Haymarket, London, SW1Y 4HT",
+    "c_venueName": "Theatre Royal Haymarket",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-tiger-who-came-to-tea-tickets/",
+    "name": "The Tiger Who Came to Tea",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "12"
+    },
+    "primaryPhoto": {
+      "description": "Based on Britain’s best-loved picture book by Judith Kerr, the Olivier Award nominated smash hit show THE TIGER WHO CAME TO TEA returns to the West End’s Theatre Royal Haymarket for Summer 2024. The purrfect summer treat!!\nThe doorbell rings just as Sophie and her mummy are sitting down to tea. Who could it possibly be? What they certainly don’t expect to see at the door is a big, stripy tiger!\nJoin the tea-guzzling tiger in this delightful family show; packed with oodles of magic, sing-a-long songs and clumsy chaos! Don’t miss this stunning stage adaptation of the classic tale of teatime mayhem… expect to be surprised!\nBook your THE TIGER WHO CAME TO TEA tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/02/Tiger-TRH-1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/39ypgkoKxLyPGHNGvTcTIo7yjawl3BW5dYYqYyejaYM/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/39ypgkoKxLyPGHNGvTcTIo7yjawl3BW5dYYqYyejaYM/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/39ypgkoKxLyPGHNGvTcTIo7yjawl3BW5dYYqYyejaYM/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/39ypgkoKxLyPGHNGvTcTIo7yjawl3BW5dYYqYyejaYM/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/39ypgkoKxLyPGHNGvTcTIo7yjawl3BW5dYYqYyejaYM/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

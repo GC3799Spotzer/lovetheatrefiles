@@ -1,0 +1,16 @@
+{
+  "$id": "4724",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Hello, Dolly! is written by Michael Stewart and directed by Dominic Cooke, with music and lyrics by Jerry Herman.",
+    "c_show": [
+      "472"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Hello, Dolly!?",
+    "question": "Who wrote Hello, Dolly!?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "14754144667922",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003e\u003cspan class\u003d\"wysiwyg-underline\"\u003e\u003ca href\u003d\"https://www.lovetheatre.com/shows/only-fools-and-horses-the-musical-tickets/\"\u003e\u003cem\u003eOnly Fools and Horses The Musical\u003c/em\u003e\u003c/a\u003e\u003c/span\u003e is scheduled to run from 17 Dec 2024 - 5 Jan 2025.\u003c/p\u003e\n\u003cdiv class\u003d\"wysiwyg-text-align-center\"\u003e\u003ca class\u003d\"btn\" href\u003d\"https://www.lovetheatre.com/shows/only-fools-and-horses-the-musical-tickets/?utm_source\u003dzendesk\u0026amp;utm_medium\u003dOFH\u0026amp;utm_campaign\u003dbook_tickets\"\u003eBook Tickets\u003c/a\u003e\u003c/div\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/14754144667922-How-long-will-Only-Fools-and-Horses-The-Musical-play-in-London",
+    "name": "How long will Only Fools and Horses The Musical play in London?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

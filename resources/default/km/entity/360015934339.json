@@ -1,0 +1,17 @@
+{
+  "$id": "360015934339",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eIn the instance where you have not received an email confirmation of your booking, please follow the below steps. \u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eCheck your spam or junk folder.\u003c/li\u003e\n\u003cli\u003e\u003cspan class\u003d\"wysiwyg-color-black70\"\u003eCheck the email address provided on the booking order.\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003eBe patient - it can take up to 48 hours for an email confirmation to arrive.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIf you are still unable to retrieve your email confirmation please \u003ca href\u003d\"https://help.lovetheatre.com/hc/en-gb/requests/new?ticket_form_id\u003d360000861259\" target\u003d\"_self\"\u003e\u003cstrong\u003e\u003cspan class\u003d\"wysiwyg-underline\"\u003e\"Submit a request\"\u003c/span\u003e\u003c/strong\u003e\u003c/a\u003e.\u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/360015934339-What-should-I-do-if-I-haven-t-received-my-email-confirmation",
+    "name": "What should I do if I haven\u0027t received my email confirmation?",
+    "promoted": false,
+    "voteCount": 38,
+    "voteSum": -20
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

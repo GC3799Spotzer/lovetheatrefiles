@@ -1,0 +1,17 @@
+{
+  "$id": "14975415776402",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp class\u003d\"MsoNormal\"\u003eLOVEtheatre Week happens every year! This year, it will be held from Saturday 11th to Sunday 19\u003csup\u003eth\u003c/sup\u003e November. During this period, customers can enjoy special offerings across ALL shows in London\u0027s West End.\u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/14975415776402-When-does-LOVEtheatre-Week-take-place",
+    "name": "When does LOVEtheatre Week take place?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "1666311",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Duke Bluebeard\u0027s Castle is playing at the London Coliseum.",
+    "c_show": [
+      "166631"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Duke Bluebeard\u0027s Castle playing?",
+    "question": "Where is Duke Bluebeard\u0027s Castle playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

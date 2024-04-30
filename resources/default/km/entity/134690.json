@@ -1,0 +1,42 @@
+{
+  "$id": "134690",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-unfriend-tickets/",
+    "name": "The Unfriend",
+    "primaryPhoto": {
+      "description": "Steven Moffat\u0026#8216;s (Doctor Who, Sherlock, Dracula) hit comedy THE UNFRIEND is coming to the West End direct from Chichester for a limited run at the Criterion Theatre in 2023.\nTHE UNFRIEND takes a hugely entertaining and satirical look at middle-class England’s disastrous instinct always to appear nice. Manners can be murder.\nThe production is directed by Mark Gatiss (A Christmas Carol), with the show reuniting a cast of Reece Shearsmith (Inside No 9, A Very Expensive Poison), Amanda Abbington (Sherlock, The Son) and Frances Barber (Silk).\nBook your THE UNFRIEND theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/09/TUF004_LoveTheatre_1080x1080px.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/_Lb_zkc8aP-GhlwIl9KYwqHUy9_sqf92dLiti26iqB8/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/_Lb_zkc8aP-GhlwIl9KYwqHUy9_sqf92dLiti26iqB8/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/_Lb_zkc8aP-GhlwIl9KYwqHUy9_sqf92dLiti26iqB8/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/_Lb_zkc8aP-GhlwIl9KYwqHUy9_sqf92dLiti26iqB8/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/_Lb_zkc8aP-GhlwIl9KYwqHUy9_sqf92dLiti26iqB8/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "4567",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "You can expect to hear plenty of ABBA classics in the show such as \u0027The Winner Takes It All\u0027, \u0027Take a Chance on Me\u0027, \u0027Knowing Me, Knowing You\u0027, \u0027Dancing Queen\u0027, \u0027Super Trouper\u0027, \u0027Thank You for the Music\u0027 and of course \u0027Mamma Mia\u0027.",
+    "c_show": [
+      "456"
+    ],
+    "c_type": "SHOW",
+    "name": "What ABBA songs are in Mamma Mia! The Musical?",
+    "question": "What ABBA songs are in Mamma Mia! The Musical?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

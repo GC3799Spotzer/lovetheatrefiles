@@ -1,0 +1,54 @@
+{
+  "$id": "136428",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Event",
+    "c_tags": [
+      "events",
+      "special offers",
+      "sunday shows"
+    ],
+    "c_venueAddress": "268-269 Tottenham Court Rd, Fitzrovia, London W1T 7AQ",
+    "c_venueName": "Dominion Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/queenz-the-show-with-balls-tickets/",
+    "name": "QUEENZ: The Show with BALLS!",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "22.8"
+    },
+    "primaryPhoto": {
+      "description": "The trailblazing, life affirming, live vocal, drag extravaganza QUEENZ: THE SHOW WITH BALLS is taking the UK by storm and coming to the Dominion Theatre for one night only!\nDirect from their smash-hit sell-out UK tour, this sequin-clad pop party serves up ‘mind-blowing’ LIVE vocals and a set list of Britney, Whitney and everything in between.\nThese dragtastic divas will have you feeling fierce and fabulous before you know it as they close their Spring 2024 tour with one final massive party BACK in London’s West End.\nBook your QUEENZ: THE SHOW WITH BALLS theatre tickets with LOVEtheatre today!\n ",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2022/10/Queenz-2023-1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/QIJGuuVU0Kn-gGbnNGsLuzChxb5Th5lhrt73YLccvZ8/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/QIJGuuVU0Kn-gGbnNGsLuzChxb5Th5lhrt73YLccvZ8/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/QIJGuuVU0Kn-gGbnNGsLuzChxb5Th5lhrt73YLccvZ8/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/QIJGuuVU0Kn-gGbnNGsLuzChxb5Th5lhrt73YLccvZ8/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/QIJGuuVU0Kn-gGbnNGsLuzChxb5Th5lhrt73YLccvZ8/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "4414525677458",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eGift vouchers are redeemable for up to 12 months from the day of purchase. \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/4414525677458-When-does-my-gift-voucher-expire",
+    "name": "When does my gift voucher expire?",
+    "promoted": false,
+    "voteCount": 1,
+    "voteSum": 1
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

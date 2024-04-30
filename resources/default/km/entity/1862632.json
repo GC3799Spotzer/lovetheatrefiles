@@ -1,0 +1,16 @@
+{
+  "$id": "1862632",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The running time for this show is 1 hour.",
+    "c_show": [
+      "186263"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Karen and when does it finish?",
+    "question": "How long is Karen and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

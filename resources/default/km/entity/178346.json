@@ -1,0 +1,55 @@
+{
+  "$id": "178346",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Event",
+    "c_tags": [
+      "concert",
+      "hot tickets",
+      "limited run",
+      "sunday shows"
+    ],
+    "c_venueAddress": "5 Sloane Terrace, Belgravia, London SW1X 9DQ",
+    "c_venueName": "Cadogan Hall",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/jamie-muscato-tickets/",
+    "name": "Jamie Muscato",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "22"
+    },
+    "primaryPhoto": {
+      "description": "Due to popular demand, an extra date has been added to see JAMIE MUSCATO at London’s Cadogan Hall in 2024!\nFourth Wall Live with Westway Music are thrilled to present JAMIE MUSCATO, one of the most exciting musical theatre voices in the UK, for a brand new solo concert.\nJamie was recently seen as Christian in Moulin Rouge in the West End, and is widely known for originating the role, in the UK, of JD in Heathers at The Other Palace and The Theatre Royal Haymarket.\nBook your JAMIE MUSCATO tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/11/IN_-JM-1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/_1vEvcnPkPVtEU46ocrc0b7VNqVvBtcc-VhZciI74Yg/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/_1vEvcnPkPVtEU46ocrc0b7VNqVvBtcc-VhZciI74Yg/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/_1vEvcnPkPVtEU46ocrc0b7VNqVvBtcc-VhZciI74Yg/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/_1vEvcnPkPVtEU46ocrc0b7VNqVvBtcc-VhZciI74Yg/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/_1vEvcnPkPVtEU46ocrc0b7VNqVvBtcc-VhZciI74Yg/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

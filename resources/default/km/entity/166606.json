@@ -1,0 +1,60 @@
+{
+  "$id": "166606",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 20mins (incl. interval and one brief pause)",
+    "c_showType": "Play",
+    "c_tags": [
+      "a list star",
+      "critically acclaimed",
+      "hot tickets",
+      "last minute theatre tickets",
+      "limited run",
+      "matinee",
+      "valentines",
+      "plays"
+    ],
+    "c_venueAddress": "Savoy Ct, London WC2R 0ET, UK",
+    "c_venueName": "Savoy Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/plaza-suite-tickets/",
+    "name": "Plaza Suite",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "109.5"
+    },
+    "primaryPhoto": {
+      "description": "Nominated for Best Actress (Sarah Jessica Parker) at the Olivier Awards 2024\nComedy is easy.\nMarriage is hard.\nTHREE COUPLES. PLAYED BY TWO ICONS. IN ONE PERFECT EVENING OF COMEDY\nPLAZA SUITE, written by Neil Simon and directed by John Benjamin Hickey has previously played at the Hudson Theatre on Broadway, and will be transferring to the Savoy Theatre in London’s West End next spring!\nMatthew Broderick (two-time Tony Award® winner) and Sarah Jessica Parker (two-time Emmy Award® winner) perform together in London’s West End for the very first time from January 2024 – in Neil Simon’s smash-hit comedy PLAZA SUITE. A hilarious and razor-sharp look at love and marriage that took Broadway audiences by storm, don’t miss your once-in-a-lifetime chance to see these two world-class actors play three different couples who stay in one iconic hotel room.\nDirected by Tony winner John Benjamin Hickey, this romantic comedy for the ages – PLAZA SUITE – opens at the Savoy Theatre in January 2024 for a strictly limited engagement.\nIn New York, PLAZA SUITE became the must-have ticket for Broadway audiences. The production played to sold-out houses and shattered multiple box-office records at the Hudson Theatre, becoming the third-highest grossing play revival in Broadway history during its limited 19-week engagement.\nMatthew Broderick returns to the West End stage following his acclaimed run in The Starry Messenger in 2019. PLAZA SUITE will mark Sarah Jessica Parker’s West End debut.\nThe creative team includes two-time Tony Award® winner John Lee Beatty (set design), Tony Award® winner Jane Greenwood (costume design), five-time Tony Award® winner Brian MacDevitt (lighting design), Tony Award® winner Scott Lehrer (sound design), Tony Award® winner Marc Shaiman (incidental music), and Jim Carnahan (casting director).\nBook your PLAZA SUITE theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/06/1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/7mA79QslMursaxzyzOD-DqQQocx3wQOATV88qfoEO14/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/7mA79QslMursaxzyzOD-DqQQocx3wQOATV88qfoEO14/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/7mA79QslMursaxzyzOD-DqQQocx3wQOATV88qfoEO14/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/7mA79QslMursaxzyzOD-DqQQocx3wQOATV88qfoEO14/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/7mA79QslMursaxzyzOD-DqQQocx3wQOATV88qfoEO14/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

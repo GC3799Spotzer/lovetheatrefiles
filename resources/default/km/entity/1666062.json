@@ -1,0 +1,16 @@
+{
+  "$id": "1666062",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Plaza Suite running time is 2hrs 20mins (incl. interval and one brief pause)",
+    "c_show": [
+      "166606"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Plaza Suite and when does it finish?",
+    "question": "How long is Plaza Suite and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

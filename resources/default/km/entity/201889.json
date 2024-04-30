@@ -1,0 +1,56 @@
+{
+  "$id": "201889",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "a list star",
+      "comedy",
+      "hot tickets",
+      "matinee",
+      "plays"
+    ],
+    "c_venueAddress": "Shaftesbury Ave, Soho, London W1D 7EZ",
+    "c_venueName": "Apollo Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/fawlty-towers-the-play-tickets/",
+    "name": "Fawlty Towers - The Play",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "24"
+    },
+    "primaryPhoto": {
+      "description": "FAWLTY TOWERS – THE PLAY checks in for it’s London premiere at the West End’s Apollo Theatre in May 2024!\nNearly 50 years since it first hit our TV screens, the ‘Greatest British sitcom of all time’ (Radio Times) is now a brand-new stage play, adapted by comedy legend John Cleese and directed by Caroline Jay Ranger.\nStarring Adam Jackson-Smith as the inimitable Basil, Anna-Jane Casey as the iconic Sybil and Paul Nicholas as the bumbling Major, this 18-strong cast take on the iconic characters at Torquay’s most chaotic hotel – FAWLTY TOWERS!\nBook your FAWLTY TOWERS – THE PLAY theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2024/02/7907_06_FT_Web_LTGL_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/QOyphvN5lR3J31lPjnbB-9QpjhQrneT2TbuV1Ot30no/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/QOyphvN5lR3J31lPjnbB-9QpjhQrneT2TbuV1Ot30no/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/QOyphvN5lR3J31lPjnbB-9QpjhQrneT2TbuV1Ot30no/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/QOyphvN5lR3J31lPjnbB-9QpjhQrneT2TbuV1Ot30no/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/QOyphvN5lR3J31lPjnbB-9QpjhQrneT2TbuV1Ot30no/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

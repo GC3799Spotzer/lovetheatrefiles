@@ -1,0 +1,17 @@
+{
+  "$id": "8563051997458",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eYou can expect to hear plenty of ABBA classics in the show such as \u0027The Winner Takes It All\u0027, \u0027Take a Chance on Me\u0027, \u0027Knowing Me, Knowing You\u0027, \u0027Dancing Queen\u0027, \u0027Super Trouper\u0027, \u0027Thank You for the Music\u0027 and of course \u0027\u003cem\u003e\u003cspan class\u003d\"wysiwyg-underline\"\u003e\u003ca href\u003d\"https://www.lovetheatre.com/shows/mamma-mia-tickets/\" target\u003d\"_self\"\u003eMamma Mia\u003c/a\u003e\u003c/span\u003e\u0027\u003c/em\u003e. \u003c/p\u003e\n\u003cdiv class\u003d\"wysiwyg-text-align-center\"\u003e\u003ca class\u003d\"btn\" href\u003d\"https://www.lovetheatre.com/shows/mamma-mia-tickets/?utm_source\u003dzendesk\u0026amp;utm_medium\u003dMM\u0026amp;utm_campaign\u003dbook_tickets\"\u003eBook Tickets\u003c/a\u003e\u003c/div\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/8563051997458-What-ABBA-songs-are-in-Mamma-Mia-The-Musical",
+    "name": "What ABBA songs are in Mamma Mia! The Musical?",
+    "promoted": false,
+    "voteCount": 3,
+    "voteSum": 3
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

@@ -1,0 +1,53 @@
+{
+  "$id": "185094",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Musical",
+    "c_tags": [
+      "limited run",
+      "musicals"
+    ],
+    "c_venueAddress": "93 The Broadway, Wimbledon, London SW19 1QG",
+    "c_venueName": "New Wimbledon Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/an-officer-and-a-gentleman-the-musical-tickets/",
+    "name": "An Officer and a Gentleman The Musical",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "18.5"
+    },
+    "primaryPhoto": {
+      "description": "Prepare to be swept off your feet with AN OFFICER AND A GENTLEMAN, based on the award-winning 80s movie. This timeless story of love, courage, and redemption will make your heart soar and leave you breathless, longing for more.\nWith every note, every step, and every heartfelt ballad, immerse yourself in this romantic masterpiece. Set to a smash-hit soundtrack featuring the songs of Madonna, Bon Jovi, Cyndi Lauper, Blondie, and many more, the power of music will carry you through the highs and lows of their extraordinary love story, including the award-winning (Love Lift Us) Up Where We Belong. \nAN OFFICER AND A GENTLEMAN THE MUSICAL invites you into a world where dreams and destinies intertwine. Don’t miss your chance to experience this captivating romance brought to life on stage.\nBook your AN OFFICER AND A GENTLEMAN theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/12/OG_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/v3wrMhEUGAK-aSwD3E63SqP0V_elp1iiMWNOfT4DQqY/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/v3wrMhEUGAK-aSwD3E63SqP0V_elp1iiMWNOfT4DQqY/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/v3wrMhEUGAK-aSwD3E63SqP0V_elp1iiMWNOfT4DQqY/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/v3wrMhEUGAK-aSwD3E63SqP0V_elp1iiMWNOfT4DQqY/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/v3wrMhEUGAK-aSwD3E63SqP0V_elp1iiMWNOfT4DQqY/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

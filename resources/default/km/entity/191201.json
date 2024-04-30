@@ -1,0 +1,16 @@
+{
+  "$id": "191201",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Frozen The Musical is currently playing at Theatre Royal Drury Lane. The theatre is located on Catherine Street in London\u0027s West End",
+    "c_show": [
+      "19120"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Frozen The Musical playing?",
+    "question": "Where is Frozen The Musical playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

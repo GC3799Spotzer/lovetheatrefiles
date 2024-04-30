@@ -1,0 +1,17 @@
+{
+  "$id": "10360876733330",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003ePart 1 of \u003cspan class\u003d\"wysiwyg-underline\"\u003e\u003cem\u003e\u003ca href\u003d\"https://www.lovetheatre.com/shows/harry-potter-and-the-cursed-child-tickets/\" target\u003d\"_self\"\u003eHarry Potter and the Cursed Child\u003c/a\u003e\u003c/em\u003e\u003c/span\u003e is 2 hours 40 minutes (incl. interval), and performances starting at 1pm will finish at approx. 3:40pm and performances starting at 2pm finish at approx. 4:40pm. Part 2 of \u003cspan class\u003d\"wysiwyg-underline\"\u003e\u003cem\u003e\u003ca href\u003d\"https://www.lovetheatre.com/shows/harry-potter-and-the-cursed-child-tickets/\" target\u003d\"_self\"\u003eHarry Potter and the Cursed Child\u003c/a\u003e\u003c/em\u003e\u003c/span\u003e is 2 hours 35 minutes (incl. interval), and performances starting at 6pm will finish at approx. 8:35pm and performances starting at 7pm finish at approx. 9:35pm. \u003c/p\u003e\n\u003cdiv class\u003d\"wysiwyg-text-align-center\"\u003e\u003ca class\u003d\"btn\" href\u003d\"https://www.lovetheatre.com/shows/harry-potter-and-the-cursed-child-tickets/?utm_source\u003dzendesk\u0026amp;utm_medium\u003dHP\u0026amp;utm_campaign\u003dbook_tickets\"\u003eBook Tickets\u003c/a\u003e\u003c/div\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/10360876733330-How-long-is-Harry-Potter-and-the-Cursed-Child-and-when-does-it-finish",
+    "name": "How long is Harry Potter and the Cursed Child and when does it finish?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

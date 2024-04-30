@@ -1,0 +1,16 @@
+{
+  "$id": "1699091",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Duchess of Malfi is playing at the Sam Wanamaker Playhouse.",
+    "c_show": [
+      "169909"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is The Duchess of Malfi playing?",
+    "question": "Where is The Duchess of Malfi playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

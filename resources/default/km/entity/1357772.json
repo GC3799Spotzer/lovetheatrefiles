@@ -1,0 +1,16 @@
+{
+  "$id": "1357772",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The running time for Guys \\\u0026 Dolls is 2 hours 50 minutes, including interval.",
+    "c_show": [
+      "135777"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Guys \u0026 Dolls and when does it finish?",
+    "question": "How long is Guys \u0026 Dolls and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

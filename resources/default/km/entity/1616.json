@@ -1,0 +1,16 @@
+{
+  "$id": "1616",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "LOVEtheatre is the home of low price West End theatre tickets, and the Tina Turner musical is no exception. Tickets to the hit show can be found for as little as £12.50 including booking fees.",
+    "c_show": [
+      "161"
+    ],
+    "c_type": "SHOW",
+    "name": "Where can I find the cheapest tickets to Tina Turner the musical?",
+    "question": "Where can I find the cheapest tickets to Tina Turner the musical?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

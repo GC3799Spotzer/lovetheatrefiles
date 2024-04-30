@@ -1,0 +1,58 @@
+{
+  "$id": "176768",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_offer": "No Booking Fees",
+    "c_showType": "Musical",
+    "c_tags": [
+      "a list star",
+      "hot tickets",
+      "limited run",
+      "matinee",
+      "special offers",
+      "musicals"
+    ],
+    "c_venueAddress": "Shaftesbury Ave, Soho, London W1D 6AR",
+    "c_venueName": "Gielgud Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/opening-night-tickets/",
+    "name": "Opening Night",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "20"
+    },
+    "primaryPhoto": {
+      "description": "Based on the 1977 film by John Cassavetes, OPENING NIGHT is coming to the Gielgud Theatre for a limited run in 2024!\nAward-winning actress Sheridan Smith (Shirley Valentine) returns to stage in the world premiere of new musical OPENING NIGHT. This production features music and lyrics by Rufus Wainwright, one of the most acclaimed singer-songwriters of his generation. Book and direction are by Tony and Olivier award-winner Ivo van Hove (A Little Life)\nStarring alongside Sheridan Smith as Myrtle are Hadley Fraser (Les Miserables) as Manny, Shira Haas (Unorthodox) as Nancy, Nicola Hughes (Fosse) as Sarah, Amy Lennox (Cabaret) as Dorothy and John Marquez (Pygmalion) as David.\nJoining them will be Benjamin Walker, Rebecca Thornhill, Cilla Silvia, Ian McLarnon and Jos Slovick. Robert Finlayson, Daniel Forrester, Jennifer Hepburn, Issy Khogali and Chrissie Perkins complete the cast.\nBook your OPENING NIGHT musical theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/11/7818_35_ON_WB_LoveTheatre_1080x1080px.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/JvAf0s55ugOIZnwZbc54-eQjRICBIFMojUDc8StFOx0/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/JvAf0s55ugOIZnwZbc54-eQjRICBIFMojUDc8StFOx0/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/JvAf0s55ugOIZnwZbc54-eQjRICBIFMojUDc8StFOx0/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/JvAf0s55ugOIZnwZbc54-eQjRICBIFMojUDc8StFOx0/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/JvAf0s55ugOIZnwZbc54-eQjRICBIFMojUDc8StFOx0/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

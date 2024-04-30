@@ -1,0 +1,16 @@
+{
+  "$id": "111704",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Much Ado About Nothing is written by William Shakespeare, and is co\\-directed by Sean Holmes and Naeem Hayat",
+    "c_show": [
+      "11170"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Much Ado About Nothing?",
+    "question": "Who wrote Much Ado About Nothing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

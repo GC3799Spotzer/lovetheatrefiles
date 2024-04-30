@@ -1,0 +1,42 @@
+{
+  "$id": "140772",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/stranger-sings-tickets/",
+    "name": "Stranger Sings!",
+    "primaryPhoto": {
+      "description": "Transferring from the US, parody-musical STRANGER SINGS! is playing at the Vaults Theatre for a limited run this winter!\nBased on Netflix\u0026#8217;s hit sci-fi series Stranger Things, this musical spoof trasnports its audience into the show, joining the gang in Hawkins, Indiana and facing the Upside Down and all the horrors that come with it. With pop culture references and mullets galore, this is a perfect night out for fans of the show, or anyone who wants to reminisce about the 80\u0026#8217;s!\nBook your STRANGER SINGS! theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/12/MicrosoftTeams-image-6.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/HmkzFnUzbfEL6DQqu_yHY34HytAtNmTdUJdBhRUObcc/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/HmkzFnUzbfEL6DQqu_yHY34HytAtNmTdUJdBhRUObcc/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/HmkzFnUzbfEL6DQqu_yHY34HytAtNmTdUJdBhRUObcc/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/HmkzFnUzbfEL6DQqu_yHY34HytAtNmTdUJdBhRUObcc/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/HmkzFnUzbfEL6DQqu_yHY34HytAtNmTdUJdBhRUObcc/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

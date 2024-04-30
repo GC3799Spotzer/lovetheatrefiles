@@ -1,0 +1,16 @@
+{
+  "$id": "706524",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Back to the Future The Musical has been adapted for stage by Bob Gale and Robert Zemeckis. The show is directed by John Rando, with music and lyrics by Alan Silvestri and Glen Ballard.",
+    "c_show": [
+      "70652"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Back to the Future The Musical?",
+    "question": "Who wrote Back to the Future The Musical?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

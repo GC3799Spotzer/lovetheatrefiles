@@ -1,0 +1,16 @@
+{
+  "$id": "1685171",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Go Your Own Way will be playing at the Adelphi Theatre",
+    "c_show": [
+      "168517"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Go Your Own Way playing?",
+    "question": "Where is Go Your Own Way playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

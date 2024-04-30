@@ -1,0 +1,16 @@
+{
+  "$id": "5234",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Only Fools and Horses The Musical is written by Paul Whitehouse and Jim Sullivan and is directed by Caroline Jay Ranger.",
+    "c_show": [
+      "523"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Only Fools and Horses The Musical?",
+    "question": "Who wrote Only Fools and Horses The Musical?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

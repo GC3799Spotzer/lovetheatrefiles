@@ -1,0 +1,17 @@
+{
+  "$id": "360019739519",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003e\u003cspan style\u003d\"font-weight: 400;\"\u003eBased on the best‐selling novel by Gregory Maguire that ingeniously re‐imagines the stories and characters created by L. Frank Baum in ‘The Wonderful Wizard of Oz’, \u003c/span\u003e\u003ca href\u003d\"https://www.lovetheatre.com/shows/wicked-tickets/\" target\u003d\"_self\"\u003e\u003cem\u003e\u003cspan style\u003d\"font-weight: 400;\"\u003e\u003cspan class\u003d\"wysiwyg-underline\"\u003eWicked\u003c/span\u003e \u003c/span\u003e\u003c/em\u003e\u003c/a\u003e\u003cspan style\u003d\"font-weight: 400;\"\u003etells the incredible untold story of an unlikely but profound friendship between two young witches. Their extraordinary adventures in Oz will ultimately see them fulfil their destinies as Glinda The Good and the Wicked Witch of the West. \u003c/span\u003e\u003c/p\u003e\n\u003cdiv class\u003d\"wysiwyg-text-align-center\"\u003e\u003ca class\u003d\"btn\" href\u003d\"https://www.lovetheatre.com/shows/wicked-tickets/?utm_source\u003dzendesk\u0026amp;utm_medium\u003dWKD\u0026amp;utm_campaign\u003dbook_tickets\"\u003eBook Tickets\u003c/a\u003e\u003c/div\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/360019739519-What-is-Wicked-about",
+    "name": "What is Wicked about?",
+    "promoted": false,
+    "voteCount": 1,
+    "voteSum": 1
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

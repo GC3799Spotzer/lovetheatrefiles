@@ -1,0 +1,62 @@
+{
+  "$id": "19120",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 15mins (incl. interval)",
+    "c_showType": "Musical",
+    "c_tags": [
+      "christmas",
+      "critically acclaimed",
+      "family friendly",
+      "half term",
+      "kids",
+      "last minute theatre tickets",
+      "matinee",
+      "sunday shows",
+      "valentines",
+      "musicals"
+    ],
+    "c_venueAddress": "Catherine Street, West End, London WC2B 5JF",
+    "c_venueName": "Theatre Royal Drury Lane",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/frozen-the-musical-tickets/",
+    "name": "Frozen The Musical",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "34.22"
+    },
+    "primaryPhoto": {
+      "description": "Frozen Musical London Tickets\nNominated for the WhatsOnStage Awards 2024 for Best Professional Debut Performance\nFROZEN THE MUSICAL has arrived at Theatre Royal Drury Lane in London’s West End with a sensational show that will give you chills. \nStarring all your favourite characters from the hit Disney film, FROZEN THE MUSICAL brings the magical world of Arendelle to London with a heart-warming performance that the whole family will adore.\nAs well as all the cherished songs you know and love like ‘Let It Go’, you’ll get to hear even more toe-tappers written by Grammy® and Academy Award‐winning writers Kristen Anderson‐Lopez and Robert Lopez specifically for this musical production.\nThis is your opportunity to enjoy the beloved Disney tale as you’ve never experienced it before. \nBook your FROZEN THE MUSICAL theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/02/Frozen-FEB24-BBs-ATG-1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/8D8wUYNQXJscfkgWuUbUUuU779BlRuqbV-rEuO9NuPE/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/8D8wUYNQXJscfkgWuUbUUuU779BlRuqbV-rEuO9NuPE/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/8D8wUYNQXJscfkgWuUbUUuU779BlRuqbV-rEuO9NuPE/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/8D8wUYNQXJscfkgWuUbUUuU779BlRuqbV-rEuO9NuPE/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/8D8wUYNQXJscfkgWuUbUUuU779BlRuqbV-rEuO9NuPE/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

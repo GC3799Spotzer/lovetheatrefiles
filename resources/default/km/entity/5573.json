@@ -1,0 +1,16 @@
+{
+  "$id": "5573",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The age guidance for Showstopper! The Improvised Musical is 12+",
+    "c_show": [
+      "557"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Showstopper! The Improvised Musical?",
+    "question": "What is the age guidance for Showstopper! The Improvised Musical?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "781421",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Blood Brothers is currently booking for a UK tour.",
+    "c_show": [
+      "78142"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Blood Brothers playing?",
+    "question": "Where is Blood Brothers playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

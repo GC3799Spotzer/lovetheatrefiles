@@ -1,0 +1,50 @@
+{
+  "$id": "205671",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "Approx. 1 hour 15 minutes (Including interval)",
+    "c_showType": "Event",
+    "c_venueAddress": "6-7 Great Newport Street, Leicester Square, London, WC2H 7JB",
+    "c_venueName": "Arts Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-jungle-club-comedy-lock-in-tickets/",
+    "name": "The Jungle Club Comedy Lock-In",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "17.4"
+    },
+    "primaryPhoto": {
+      "description": "After THE CHOIR OF MAN on Friday and Saturday nights, join us for THE JUNGLE COMEDY LOCK-IN at Arts Theatre!\nStarring some of London’s top stand-up comedians, the show runs from 9:45 to 11:00 PM, filling the theatre with late-night laughter. The Jungle stage bar will be open before the show. Whether you’re coming straight from THE CHOIR OF MAN or just for the comedy, you’re in for a treat!\nBook your THE JUNGLE COMEDY LOCK-IN theatre tickets with LOVEtheatre today!\n\nPlease note: THE JUNGLE COMEDY LOCK-IN requires a separate ticket from THE CHOIR OF MAN. Be sure to purchase your ‘Comedy Lock-In’ ticket if you plan to stay for the comedy after THE CHOIR OF MAN.\n ",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2024/03/TJC_Lock-in_1080-1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/mzu2h_X4a6e81dsZItbcOlIzNV6Rp0pBnSZzjUK_vgg/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/mzu2h_X4a6e81dsZItbcOlIzNV6Rp0pBnSZzjUK_vgg/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/mzu2h_X4a6e81dsZItbcOlIzNV6Rp0pBnSZzjUK_vgg/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/mzu2h_X4a6e81dsZItbcOlIzNV6Rp0pBnSZzjUK_vgg/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/mzu2h_X4a6e81dsZItbcOlIzNV6Rp0pBnSZzjUK_vgg/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

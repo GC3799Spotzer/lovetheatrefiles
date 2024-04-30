@@ -1,0 +1,16 @@
+{
+  "$id": "4564",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Mamma Mia! is currently playing at the Novello Theatre in London\u0027s West End. It has been a fixture at the Novello since 2012, following a successful run at the Prince of Wales theatre. The Novello Theatre is easily accessible from Covent Garden tube station and Charing Cross overground train station.",
+    "c_show": [
+      "456"
+    ],
+    "c_type": "SHOW",
+    "name": "What theatre is Mamma Mia! in London?",
+    "question": "What theatre is Mamma Mia! in London?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

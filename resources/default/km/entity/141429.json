@@ -1,0 +1,49 @@
+{
+  "$id": "141429",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 20mins (incl. interval)",
+    "c_showType": "Musical",
+    "c_venueAddress": "166 Drury Ln, Holborn, London WC2B 5PW",
+    "c_venueName": "Gillian Lynne Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-wizard-of-oz-tickets/",
+    "name": "The Wizard of Oz",
+    "price": {
+      "currencyCode": "GBP"
+    },
+    "primaryPhoto": {
+      "description": "Following a smash-hit season at The London Palladium and a record-breaking UK \u0026 Ireland Tour, THE WIZARD OF OZ returns to the West End’s Gillian Lynne Theatre for four weeks only this August.\nStarring JLS sensation Aston Merrygold as The Tin Man, RuPaul’s Drag Race UK winner and Dancing On Ice star The Vivienne as The Wicked Witch of the West, this spectacular production will be truly magical for all the family.\nFeaturing the iconic original score from the Oscar-winning MGM film including Over The Rainbow, Follow The Yellow Brick Road and We’re Off To See The Wizard with additional songs from Andrew Lloyd Webber and Tim Rice.\nThe wonderful Wizard awaits! Sign up to hear more about THE WIZARD OF OZ theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2022/12/TheWizardofOz_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/PAC2yi8cod-EsSn3A7-hPniAi5BahEzzuK7F-vfDbNI/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/PAC2yi8cod-EsSn3A7-hPniAi5BahEzzuK7F-vfDbNI/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/PAC2yi8cod-EsSn3A7-hPniAi5BahEzzuK7F-vfDbNI/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/PAC2yi8cod-EsSn3A7-hPniAi5BahEzzuK7F-vfDbNI/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/PAC2yi8cod-EsSn3A7-hPniAi5BahEzzuK7F-vfDbNI/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

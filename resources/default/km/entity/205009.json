@@ -1,0 +1,50 @@
+{
+  "$id": "205009",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 20mins (incl. interval)",
+    "c_showType": "Play",
+    "c_venueAddress": "14 Whitehall, Charing Cross, London SW1A 2DY",
+    "c_venueName": "Trafalgar Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/people-places-and-things-tickets/",
+    "name": "People, Places and Things",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "39.9"
+    },
+    "primaryPhoto": {
+      "description": "Don’t miss Denise Gough in PEOPLE, PLACES \u0026 THINGS at the Trafalgar Theatre, in a strictly limited season from 3rd May.\nDuncan Macmillan’s (Lungs, 1984) intoxicating hit play PEOPLE, PLACES \u0026 THINGS, directed by Jeremy Herrin (Best of Enemies, This House) and designed by Tony Award®-winner Bunny Christie (The Curious Incident of the Dog in the Night-Time), makes a triumphant return to London this May.\nDenise Gough reprises her Olivier Award-winning role as Emma, a struggling actress whose life is spinning recklessly out of control. Gough’s ‘explosive and fearless performance’ (Hollywood Reporter) in PEOPLE, PLACES \u0026 THINGS has garnered acclaim in London and New York, with critics hailing her performance as ‘stunning’ (Time Out), ‘ingenious’ (The New York Times) and ‘unmissable’ (Evening Standard).\nBook your PEOPLE, PLACES \u0026 THINGS theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2024/03/PPT008_TicketAgentAssets_OnSale_LOVETHEATRE_1080x1080px_AW.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/v9pEXffKZtgZTossp0oTxBtW-MEsrCPoygsluyq6Cig/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/v9pEXffKZtgZTossp0oTxBtW-MEsrCPoygsluyq6Cig/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/v9pEXffKZtgZTossp0oTxBtW-MEsrCPoygsluyq6Cig/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/v9pEXffKZtgZTossp0oTxBtW-MEsrCPoygsluyq6Cig/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/v9pEXffKZtgZTossp0oTxBtW-MEsrCPoygsluyq6Cig/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

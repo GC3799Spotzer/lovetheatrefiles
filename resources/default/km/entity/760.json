@@ -1,0 +1,57 @@
+{
+  "$id": "760",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "a list star",
+      "drama",
+      "hot tickets",
+      "limited run",
+      "matinee",
+      "shakespeare",
+      "plays"
+    ],
+    "c_venueAddress": "St Martin\u0027s Ln, Charing Cross, London WC2N 4BG",
+    "c_venueName": "Duke of York\u0026#8217;s Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/romeo-and-juliet-tickets/",
+    "name": "ROMEO \u0026 JULIET",
+    "price": {
+      "currencyCode": "GBP"
+    },
+    "primaryPhoto": {
+      "description": "A brand new adaptation of Shakespeare’s most famous tragedy, ROMEO \u0026 JULIET is coming to the Duke of York’s Theatre in London’s West End for a strictly limited run.\nViolent delights have violent ends.\nTom Holland is Romeo in Jamie Lloyd’s pulsating new vision of Shakespeare’s immortal tale of wordsmiths, rhymers, lovers and fighters.\nSign up to hear more about ROMEO \u0026 JULIET theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/01/RomeoJuliet_1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/z5djXwZNcoPkd8vkBOPua9FAg_6Bl6p-L0cCCCY_1bM/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/z5djXwZNcoPkd8vkBOPua9FAg_6Bl6p-L0cCCCY_1bM/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/z5djXwZNcoPkd8vkBOPua9FAg_6Bl6p-L0cCCCY_1bM/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/z5djXwZNcoPkd8vkBOPua9FAg_6Bl6p-L0cCCCY_1bM/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/z5djXwZNcoPkd8vkBOPua9FAg_6Bl6p-L0cCCCY_1bM/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

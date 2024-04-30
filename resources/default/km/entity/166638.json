@@ -1,0 +1,53 @@
+{
+  "$id": "166638",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 35mins",
+    "c_showType": "Dance \u0026 Opera",
+    "c_tags": [
+      "dance opera",
+      "limited run"
+    ],
+    "c_venueAddress": "St Martin\u0027s Ln, Charing Cross, London WC2N 4ES",
+    "c_venueName": "London Coliseum",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/jenufa-tickets/",
+    "name": "Jenufa",
+    "price": {
+      "currencyCode": "GBP"
+    },
+    "primaryPhoto": {
+      "description": "Janáček’s JENUFA is coming to the London Coliseum for a limited run in spring 2024.\nA tale of honour, love and sacrifice, JENUFA explores the stigma of pregnancy out of wedlock against the backdrop of a small community.\nDirected by David Alden, ENO’s Olivier Award-winning staging updates the setting to an isolated 20th century industrial estate in the Eastern Bloc, giving the story a contemporary edge that makes it feel even more relevant for today’s audiences.\nJanáček’s powerfully rich score is conducted by Keri-Lynn Wilson. Soprano Jennifer Davis makes her role debut as Jenůfa, with Susan Bullock as her stepmother Kostelnička and Richard Trey Smagur making his ENO debut as Laca. ENO Harewood Artist, John Findon, sings Steva.\nBook your JENUFA theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/06/1080x1080_jenufa.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/F4HzkU-8pzJBI2OKOFSKBjFuHf9_oUSe14YC3u-TY6k/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/F4HzkU-8pzJBI2OKOFSKBjFuHf9_oUSe14YC3u-TY6k/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/F4HzkU-8pzJBI2OKOFSKBjFuHf9_oUSe14YC3u-TY6k/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/F4HzkU-8pzJBI2OKOFSKBjFuHf9_oUSe14YC3u-TY6k/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/F4HzkU-8pzJBI2OKOFSKBjFuHf9_oUSe14YC3u-TY6k/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

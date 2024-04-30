@@ -1,0 +1,16 @@
+{
+  "$id": "1357773",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Everyone with an immersive\\-standing ticket must be aged 12 and above. Children between the ages of 6 and 11 are welcome to watch the show but must watch from a seat.",
+    "c_show": [
+      "135777"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Guys \u0026 Dolls?",
+    "question": "What is the age guidance for Guys \u0026 Dolls?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

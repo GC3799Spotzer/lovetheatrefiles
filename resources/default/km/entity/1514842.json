@@ -1,0 +1,16 @@
+{
+  "$id": "1514842",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "For Black Boys... is 2hrs 35 mins (incl. interval)",
+    "c_show": [
+      "151484"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is For Black Boys... and when does it finish?",
+    "question": "How long is For Black Boys... and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

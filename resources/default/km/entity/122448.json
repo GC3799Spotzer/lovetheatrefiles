@@ -1,0 +1,58 @@
+{
+  "$id": "122448",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "60mins (no interval)",
+    "c_showType": "Play",
+    "c_tags": [
+      "christmas",
+      "family friendly",
+      "kids",
+      "limited run",
+      "matinee",
+      "sunday shows"
+    ],
+    "c_venueAddress": "Bloomsbury Theatre and Studio, 15 Gordon St, London WC1H 0AH",
+    "c_venueName": "Bloomsbury Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/stick-man-tickets/",
+    "name": "Stick Man",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "27.26"
+    },
+    "primaryPhoto": {
+      "description": "Touching, funny and utterly original, Freckle Productions’ delightful adaptation of Julia Donaldson and Axel Scheffler’s STICK MAN is back in town at Bloomsbury Theatre!\nWhat starts off as a morning jog becomes quite the misadventure for STICK MAN: a dog wants to play fetch with him, a swan builds a nest with him, and he even ends up on a fire! How will STICK MAN ever get back to the family tree?\nThis award-winning production, from the team behind Zog, Zog and the Flying Doctors, Tiddler and other Terrific Tales, and Tabby McTat features a trio of top actors and is packed full of puppetry, songs, live music and funky moves.\nBook your STICK MAN theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2022/03/sm22_1080x108012.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/IGAClm9kM-78EEfYELYvzF0QBi9Fm4vEsZ6LdDx__8Q/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/IGAClm9kM-78EEfYELYvzF0QBi9Fm4vEsZ6LdDx__8Q/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/IGAClm9kM-78EEfYELYvzF0QBi9Fm4vEsZ6LdDx__8Q/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/IGAClm9kM-78EEfYELYvzF0QBi9Fm4vEsZ6LdDx__8Q/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/IGAClm9kM-78EEfYELYvzF0QBi9Fm4vEsZ6LdDx__8Q/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

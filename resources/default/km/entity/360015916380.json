@@ -1,0 +1,17 @@
+{
+  "$id": "360015916380",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eThe quickest way to find the help you need is to use our online articles, most answers can be found \u003cspan class\u003d\"wysiwyg-underline\"\u003e\u003ca href\u003d\"https://help.lovetheatre.com/hc/en-gb\" target\u003d\"_self\"\u003ehere\u003c/a\u003e\u003c/span\u003e. If the Help Centre didn\u0027t answer your question, you can submit your message by following the link below.\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cspan id\u003d\"SPAN1307291967\"\u003e\u003cspan class\u003d\"normal\"\u003eGo to our `\u003ca href\u003d\"https://help.lovetheatre.com/hc/en-gb/requests/new\" target\u003d\"_self\"\u003e\u003cstrong\u003e\u003cspan class\u003d\"wysiwyg-underline\"\u003eSubmit a request\u003c/span\u003e\u003c/strong\u003e\u003c/a\u003e` page\u003c/span\u003e\u003c/span\u003e\u003cspan class\u003d\"normal\"\u003e.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\u003cspan id\u003d\"SPAN1161976180\"\u003e\u003cspan class\u003d\"normal\"\u003eChoose the topic that best match your reason for contacting us.\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan id\u003d\"SPAN1161976180\"\u003e\u003cspan class\u003d\"normal\"\u003eComplete the fields and submit.\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eWe will acknowledge and respond to your correspondence w\u003cspan class\u003d\"wysiwyg-color-black70\"\u003eithin 7 business days. \u003c/span\u003e\u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/360015916380-How-do-I-contact-customer-services",
+    "name": "How do I contact customer services?",
+    "promoted": false,
+    "voteCount": 396,
+    "voteSum": -302
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

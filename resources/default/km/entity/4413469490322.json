@@ -1,0 +1,17 @@
+{
+  "$id": "4413469490322",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eNo, the lead booker will receive everyone’s eTicket. If you need to give the eTickets out to your group, you can split them into different PDF’s and forward to each person. \u003c/p\u003e\n\u003cp\u003eHere\u0027s a tip:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eWe recommend using \u003ca href\u003d\"https://www.ilovepdf.com/split_pdf\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eilovepdf.com\u003c/a\u003e\u003cem\u003e \u003c/em\u003eto split your groups PDF. \u003c/li\u003e\n\u003c/ul\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/4413469490322-Does-everyone-in-my-group-receive-an-eTicket",
+    "name": "Does everyone in my group receive an eTicket?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

@@ -1,0 +1,57 @@
+{
+  "$id": "172215",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "a list star",
+      "drama",
+      "hot tickets",
+      "limited run",
+      "matinee",
+      "plays"
+    ],
+    "c_venueAddress": "Panton St, London SW1Y 4DN",
+    "c_venueName": "Harold Pinter Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-hills-of-california-tickets/",
+    "name": "The Hills of California",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "17.5"
+    },
+    "primaryPhoto": {
+      "description": "Nominated for Best Actress (Laura Donnelly) and Best New Play at the Olivier Awards 2024\nTHE HILLS OF CALIFORNIA plays at Harold Pinter Theatre in London’s West End for a strictly limited season.\nThis house. It’s called “Sea View”.  It’s just I’ve looked out of every window, and you can’t. You can’t see the sea.\nFollowing their multi-award-winning triumph The Ferryman, Jez Butterworth, writer of Jerusalem, resumes his partnership with Sam Mendes, director of The Lehman Trilogy, to bring you THE HILLS OF CALIFORNIA.\nBook your THE HILLS OF CALIFORNIA theatre tickets with LOVEtheatre today!\nPlease note: Latecomers will not be permitted.",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/10/LOVE_1080x1080px_V1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/p4Dcdz_iwffUyjaweQC3nAQ52g1wBbZ3X2qkR3gqpuU/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/p4Dcdz_iwffUyjaweQC3nAQ52g1wBbZ3X2qkR3gqpuU/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/p4Dcdz_iwffUyjaweQC3nAQ52g1wBbZ3X2qkR3gqpuU/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/p4Dcdz_iwffUyjaweQC3nAQ52g1wBbZ3X2qkR3gqpuU/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/p4Dcdz_iwffUyjaweQC3nAQ52g1wBbZ3X2qkR3gqpuU/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

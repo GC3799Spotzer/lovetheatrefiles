@@ -1,0 +1,7 @@
+{
+  "$id": "ce_show",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "This entity type matches the show custom post type on the Love Theatre WordPress site.",
+  "displayName": "Show",
+  "pluralDisplayName": "Shows"
+}

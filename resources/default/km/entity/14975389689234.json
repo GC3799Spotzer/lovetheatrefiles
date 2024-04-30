@@ -1,0 +1,17 @@
+{
+  "$id": "14975389689234",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp class\u003d\"MsoNormal\"\u003eLOVEtheatre Week is an annual celebration of all live entertainment in London. This exciting event offers LOVEtheatre customers exclusive access to great deals and limited offers on a wide range of West End shows.\u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/14975389689234-What-is-LOVEtheatre-Week",
+    "name": "What is LOVEtheatre Week?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

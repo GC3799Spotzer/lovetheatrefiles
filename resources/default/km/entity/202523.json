@@ -1,0 +1,56 @@
+{
+  "$id": "202523",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "50 minutes",
+    "c_showType": "Event",
+    "c_tags": [
+      "a list star",
+      "events",
+      "limited run",
+      "sunday shows"
+    ],
+    "c_venueAddress": "12, Lewis Cubitt Square, London N1C 4DY",
+    "c_venueName": "Lightroom",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-moonwalkers-a-journey-with-tom-hanks-tickets/",
+    "name": "The Moonwalkers - A Journey with Tom Hanks",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "30"
+    },
+    "primaryPhoto": {
+      "description": "American actor and filmmaker Tom Hanks narrates THE MOONWALKERS, an epic experience that offers a unique new perspective on humankind’s past and future voyages to the moon at London’s Lightroom exhibition space for a limited time in 2024!\nTelling the stories of the Apollo missions in intimate detail, THE MOONWALKERS also provides an insight into the impending return of crewed surface missions by going behind-the-scenes of the Artemis programme, including interviews between Hanks and Artemis astronauts.\nLightroom’s powerful projection and audio technology will transform the immense space into a vehicle for a spectacular immersive voyage to our closest celestial neighbour.\nHanks himself will provide the voiceover, accompanied by a spectacular original score by Anne Nikitin whose previous work includes the Apple TV+ hit series HIJACK starring Idris Elba and the cult heist movie American Animals starring Evan Peters and Barry Keoghan.\nBook your THE MOONWALKERS – A JOURNEY WITH TOM HANKS tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2024/02/MW_Image_Resize_TTLR_Logo_Assets4_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/yv4IB8w3LswbxRN-W17tg7XIUktE8n22EHTPFrvTGcg/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/yv4IB8w3LswbxRN-W17tg7XIUktE8n22EHTPFrvTGcg/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/yv4IB8w3LswbxRN-W17tg7XIUktE8n22EHTPFrvTGcg/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/yv4IB8w3LswbxRN-W17tg7XIUktE8n22EHTPFrvTGcg/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/yv4IB8w3LswbxRN-W17tg7XIUktE8n22EHTPFrvTGcg/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

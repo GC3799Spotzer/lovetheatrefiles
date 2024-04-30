@@ -1,0 +1,54 @@
+{
+  "$id": "171714",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 30mins (incl. interval)",
+    "c_showType": "Musical",
+    "c_tags": [
+      "limited run",
+      "musicals"
+    ],
+    "c_venueAddress": "103 The Cut, South Bank, London SE1 8NB",
+    "c_venueName": "The Old Vic",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/just-for-one-day-tickets/",
+    "name": "Just For One Day",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "156"
+    },
+    "primaryPhoto": {
+      "description": "Relive the day music brought the world together with brand new musical JUST FOR ONE DAY at The Old Vic, performing a limited run from 26 January to 30 March 2024.\nA cast of 26 star in the world premiere of JUST FOR ONE DAY, a new musical written by John O’Farrell (Mrs Doubtfire, Something Rotten) and directed by Luke Sheppard (\u0026 Juliet, The Little Big Things). \nFeaturing the songs of Bob Dylan, David Bowie, The Who, U2, Queen, The Police, Elton John, Paul McCartney, The Pretenders, The Cars, Status Quo, Sade, The Boomtown Rats, Diana Ross, Ultravox and more, this is the story of Live Aid and the people united by it.  \nBook your JUST FOR ONE DAY theatre tickets with LOVEtheatre today!\n ",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/10/JFOD_Lovetheatre_1080x1080-2.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/Vxnq_zVQbnVdDvCy09rrNe4bRh_ViSt0CbVNpHHhqPQ/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/Vxnq_zVQbnVdDvCy09rrNe4bRh_ViSt0CbVNpHHhqPQ/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/Vxnq_zVQbnVdDvCy09rrNe4bRh_ViSt0CbVNpHHhqPQ/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/Vxnq_zVQbnVdDvCy09rrNe4bRh_ViSt0CbVNpHHhqPQ/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/Vxnq_zVQbnVdDvCy09rrNe4bRh_ViSt0CbVNpHHhqPQ/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

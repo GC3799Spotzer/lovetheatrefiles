@@ -1,0 +1,16 @@
+{
+  "$id": "1516783",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Age guidance for this show is 12+years old.",
+    "c_show": [
+      "151678"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Long Day’s Journey Into Night?",
+    "question": "What is the age guidance for Long Day’s Journey Into Night?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "360015938499",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eWhen you receive confirmation that your refund has been complete, it can take between 7 to 14 business days for the funds to reach your account, depending on your payment/bank provider.\u003c/p\u003e\n\u003cp\u003eIf you still haven\u0027t had your refund here\u0027s what you need to do: \u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eMake sure it\u0027s been 7 to 14\u003cspan class\u003d\"wysiwyg-color-black70\"\u003e business days.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003eCheck your junk emails for an email from us.\u003c/li\u003e\n\u003cli\u003eCheck whether your payment card has expired or been deactivated.\u003c/li\u003e\n\u003cli\u003e\u003cspan class\u003d\"wysiwyg-color-black70\"\u003eContact your bank to check whether there is a pending transaction on your account.\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIf you have followed the checklist above and still haven\u0027t had your refund you can\u003cspan class\u003d\"wysiwyg-color-black\"\u003e\u003cstrong\u003e \"\u003c/strong\u003e\u003ca href\u003d\"https://help.lovetheatre.com/hc/en-gb/requests/new?ticket_form_id\u003d360000866459\" target\u003d\"_self\"\u003e\u003cstrong\u003eSubmit a request\u003c/strong\u003e\u003c/a\u003e\u003cstrong\u003e\"\u003c/strong\u003e. Select \"I would like help with an existing booking\", enter your details and a member of the team will contact you.\u003c/span\u003e\u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/360015938499-I-haven-t-had-my-refund-yet-what-should-I-do",
+    "name": "I haven\u0027t had my refund yet, what should I do?",
+    "promoted": false,
+    "voteCount": 29,
+    "voteSum": -7
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

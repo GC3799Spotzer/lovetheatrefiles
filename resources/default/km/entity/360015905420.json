@@ -1,0 +1,17 @@
+{
+  "$id": "360015905420",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eWherever possible, we would be happy to look into an exchange to another date of the same show at the same venue. However, please note that as LOVEtheatre is a third-party ticketing agency, all exchanges as subject to availability and the venue’s own terms and conditions, which can be found on the venue’s website. \u003c/p\u003e\n\u003cp\u003eOur dedicated LOVEtheatre team would be happy to advise whether an exchange is possible, and if so, check the current availability for the best seats. Simply \u003cstrong\u003e\u003ca href\u003d\"https://help.lovetheatre.com/hc/en-gb/requests/new\" target\u003d\"_self\"\u003eSubmit a request\u003c/a\u003e\u003c/strong\u003e via our Help Centre and provide up to 3 potential dates you would like to exchange your booking to. \u003c/p\u003e\n\u003cp\u003ePlease note that not all theatres allow exchanges. \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/360015905420-Can-I-have-an-exchange",
+    "name": "Can I have an exchange?",
+    "promoted": true,
+    "voteCount": 203,
+    "voteSum": -93
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

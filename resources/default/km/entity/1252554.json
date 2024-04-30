@@ -1,0 +1,16 @@
+{
+  "$id": "1252554",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "My Neighbour Totoro is written by Tom Morton\\-Smith and is directed by Phelim McDermott.",
+    "c_show": [
+      "125255"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote My Neighbour Totoro?",
+    "question": "Who wrote My Neighbour Totoro?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

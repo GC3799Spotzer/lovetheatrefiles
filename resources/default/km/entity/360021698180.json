@@ -1,0 +1,17 @@
+{
+  "$id": "360021698180",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eLOVEtheatre is proudly owned and operated by The Ticket Machine Group Ltd, a multi award winning, London based ticket agency, recently acquired by The Ambassador Theatre Group Ltd (ATG), the world’s number one live-theatre group.\u003c/p\u003e\n\u003cp\u003eSince its creation in 1991, The Ticket Machine Group Ltd has grown to be one of the most highly respected ticket agencies in the UK, selling over 750,000 tickets each year through its extensive, top quality allocations. The company also owns other famous ticketing brands such as Group Line, Show Pairs, Lashmars and New York based, Leisure Connect.\u003c/p\u003e\n\u003cp\u003eFamed for its approach to customer service, LOVEtheatre customers can always be assured of a safe, secure and relaxed ticket buying experience. \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/360021698180-Who-are-LOVEtheatre",
+    "name": "Who are LOVEtheatre?",
+    "promoted": true,
+    "voteCount": 4,
+    "voteSum": 2
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

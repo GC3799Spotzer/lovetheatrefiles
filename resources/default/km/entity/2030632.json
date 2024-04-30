@@ -1,0 +1,16 @@
+{
+  "$id": "2030632",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Believe: My Life on Stage is 2 hours including an interval.",
+    "c_show": [
+      "203063"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Believe: My Life on Stage and when does it finish?",
+    "question": "How long is Believe: My Life on Stage and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

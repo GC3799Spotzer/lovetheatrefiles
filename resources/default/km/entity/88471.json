@@ -1,0 +1,59 @@
+{
+  "$id": "88471",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 45mins (incl. interval)",
+    "c_showType": "Musical",
+    "c_tags": [
+      "a list star",
+      "award winning",
+      "christmas",
+      "critically acclaimed",
+      "hot tickets",
+      "valentines",
+      "musicals"
+    ],
+    "c_venueAddress": "Northumberland Avenue, London, WC2N 5DE",
+    "c_venueName": "Kit Kat Club at the Playhouse Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/cabaret-tickets/",
+    "name": "Cabaret",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "34.2"
+    },
+    "primaryPhoto": {
+      "description": "Winner of Best Takeover Performance (Aimee Lou Wood) and Best West End Show at the WhatsOnStage Awards 2024\nThe Kit Kat Club has taken over the Playhouse Theatre while it has been standing empty, making way for the electrifying musical, CABARET. The marginalised have staked a claim, the artists have taken over, filled their container and found their community.\nThe role of Sally Bowles is played by Cara Delevingne and the role of The Emcee is played by Luke Treadaway, with Michael Ahomka-Lindsay in the role of Clifford Bradshaw, Beverley Klein as Fraulein Schneider and Teddy Kempner as Herr Schultz.\nOne of the most successful musicals of all time, CABARET features the songs Wilkommen, Don’t Tell Mama, Mein Herr, Maybe This Time, Money and the title number. It has music by John Kander, lyrics by Fred Ebb, book by Joe Masteroff, based on the play by John Van Druten and stories by Christopher Isherwood.\nHere we sing, we dance, we love, we live, we drink, we forget. Come hear the music play.\nReady to immerse yourself in the electrifying Kit Kat Club and see the stars in London’s West End? Book your CABARET theatre tickets with LOVEtheatre today!\nRehearsal photography by Marc Brenner",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2021/05/Love-Theatre_1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/1uvkcEhs-8CPRaqYBO2NoVhERnz7fGbCkPHLODqVaG4/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/1uvkcEhs-8CPRaqYBO2NoVhERnz7fGbCkPHLODqVaG4/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/1uvkcEhs-8CPRaqYBO2NoVhERnz7fGbCkPHLODqVaG4/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/1uvkcEhs-8CPRaqYBO2NoVhERnz7fGbCkPHLODqVaG4/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/1uvkcEhs-8CPRaqYBO2NoVhERnz7fGbCkPHLODqVaG4/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "4423973641618",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003ePartnerize will pay you directly every month. No invoicing is required. \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/4423973641618-How-do-Affiliates-get-paid",
+    "name": "How do Affiliates get paid?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

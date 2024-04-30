@@ -1,0 +1,16 @@
+{
+  "$id": "3838",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Lion King is directed by Julie Taymor with music by Elton John and lyrics by Tim Rice.",
+    "c_show": [
+      "383"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote The Lion King?",
+    "question": "Who wrote The Lion King?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

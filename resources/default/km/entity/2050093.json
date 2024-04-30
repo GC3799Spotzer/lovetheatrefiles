@@ -1,0 +1,16 @@
+{
+  "$id": "2050093",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The People, Places and Things age guidance is 14+",
+    "c_show": [
+      "205009"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for People, Places and Things?",
+    "question": "What is the age guidance for People, Places and Things?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

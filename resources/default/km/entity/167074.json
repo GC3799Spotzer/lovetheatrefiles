@@ -1,0 +1,55 @@
+{
+  "$id": "167074",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Event",
+    "c_tags": [
+      "concert",
+      "events",
+      "limited run",
+      "sunday shows"
+    ],
+    "c_venueAddress": "268-269 Tottenham Court Rd, Fitzrovia, London W1T 7AQ",
+    "c_venueName": "Dominion Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/uk-pink-floyd-experience-tickets/",
+    "name": "UK Pink Floyd Experience",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "30"
+    },
+    "primaryPhoto": {
+      "description": "Due to popular demand, UK PINK FLOYD EXPERIENCE make their return to the West End’s Dominion Theatre for one night only on the 18th August 2024.\nIt promises to be a true tribute to all things Floyd. Expect a carefully curated setlist featuring tracks from legendary albums, played by world class musicians, such as The Dark Side of The Moon, Animals, Wish you Were Here, The Wall and the highly-requested 2023 masterpiece, Echoes!\nA highly authentic production featuring over two hours of incredible music, complimented by a light show spectacular, UK PINK FLOYD EXPERIENCE recreates the iconic atmosphere of Floyd live in concert.\nBass player and vocalist David Power enthuses, “We’re beyond excited to be playing at the prestigious West End venue – we are always pleased with the positive reaction to the show, it seems we leave audiences on a Pink Floyd high!”\nBook your UK PINK FLOYD EXPERIENCE tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/06/1080-x-1080.png",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/4BvLW2pET8eEcadyZgFPAi-6VK_OfH6_jsOLfIwQVZg/1080x1080.png",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/4BvLW2pET8eEcadyZgFPAi-6VK_OfH6_jsOLfIwQVZg/619x619.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/4BvLW2pET8eEcadyZgFPAi-6VK_OfH6_jsOLfIwQVZg/450x450.png",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/4BvLW2pET8eEcadyZgFPAi-6VK_OfH6_jsOLfIwQVZg/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/4BvLW2pET8eEcadyZgFPAi-6VK_OfH6_jsOLfIwQVZg/1080x1080.png",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

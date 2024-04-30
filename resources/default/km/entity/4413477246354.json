@@ -1,0 +1,17 @@
+{
+  "$id": "4413477246354",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eAll payment information will be provided on your invoice. We accept Card, BACS and Cheque Payments. Please note cheques must be sent with at least 3 weeks before the performance date and before your payment due date. Any cheques received after this time may be declined.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFor a card payment\u003c/strong\u003e please call us on the number on your invoice, we are open Monday-Friday 9am-5.30pm closed weekends and bank holidays.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFor a Bank Transfer\u003c/strong\u003e please see the below details: \u003c/p\u003e\n\u003cp\u003eBranch Sort Code: 60-40-05\u003cbr\u003eAccount No: 41481844\u003cbr\u003eNational Westminster Bank PLC\u003cbr\u003eReference: *your order number*\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePlease ensure you include your order number as the reference.\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFor Cheque payment\u003c/strong\u003e please check your invoice for the correct address.\u003c/p\u003e\n\u003cp\u003eOur VAT Number is: GB 689 2780 71\u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/4413477246354-How-do-I-pay-for-my-Group-Booking",
+    "name": "How do I pay for my Group Booking?",
+    "promoted": false,
+    "voteCount": 1,
+    "voteSum": 1
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

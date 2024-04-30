@@ -1,0 +1,16 @@
+{
+  "$id": "5664",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Everybody\u0027s Talking About Jamie is written by Tom McCrae and directed by Jonathan Butterell, with music by Dan Gillespie Sells.",
+    "c_show": [
+      "566"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Everybody\u0027s Talking About Jamie?",
+    "question": "Who wrote Everybody\u0027s Talking About Jamie?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

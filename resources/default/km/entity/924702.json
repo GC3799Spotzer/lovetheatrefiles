@@ -1,0 +1,16 @@
+{
+  "$id": "924702",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "LOVEtheatre has not been made aware of a running time for this show.",
+    "c_show": [
+      "92470"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Pippin and when does it finish?",
+    "question": "How long is Pippin and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

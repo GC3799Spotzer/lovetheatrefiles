@@ -1,0 +1,16 @@
+{
+  "$id": "2093474",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "With All Our Hearts is co\\-conceived by Adam Blanshay and Matthew Brind.",
+    "c_show": [
+      "209347"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote With All Our Hearts?",
+    "question": "Who wrote With All Our Hearts?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

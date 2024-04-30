@@ -1,0 +1,57 @@
+{
+  "$id": "137142",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "a list star",
+      "drama",
+      "hot tickets",
+      "limited run",
+      "matinee",
+      "plays"
+    ],
+    "c_venueAddress": "Haymarket, London, SW1Y 4HT",
+    "c_venueName": "Theatre Royal Haymarket",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/a-view-from-the-bridge-tickets/",
+    "name": "A View From the Bridge",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "27"
+    },
+    "primaryPhoto": {
+      "description": "The Theatre Royal Bath production of Arthur Miller’s A VIEW FROM THE BRIDGE will transfer to Theatre Royal Haymarket later this spring. \nBAFTA award winner Dominic West, star of The Affair, The Wire, and The Crown, stars as Eddie Carbone in Arthur Miller’s timeless masterpiece of illicit and barely repressed sexual passion. He is joined by Olivier and Tony Award nominee Kate Fleetwood (Harry Potter and the Deathly Hallows, Macbeth, London Road) and BAFTA Cymru award winner Callum Scott Howells, star of Channel 4’s It’s A Sin and West End phenomenon Cabaret.\nBook your A VIEW FROM THE BRIDGE theatre tickets with LOVEtheatre today!\n\n ",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2022/11/AVFTB-1080x1080-2.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/iybJwyLWpExVPJGGcgR34bczzRMLGfG8d8k_Ia3zw1k/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/iybJwyLWpExVPJGGcgR34bczzRMLGfG8d8k_Ia3zw1k/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/iybJwyLWpExVPJGGcgR34bczzRMLGfG8d8k_Ia3zw1k/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/iybJwyLWpExVPJGGcgR34bczzRMLGfG8d8k_Ia3zw1k/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/iybJwyLWpExVPJGGcgR34bczzRMLGfG8d8k_Ia3zw1k/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

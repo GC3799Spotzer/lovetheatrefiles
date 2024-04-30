@@ -1,0 +1,16 @@
+{
+  "$id": "1784974",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Next to Normal has music by Tom Kitt and book \\\u0026 lyrics by Brian Yorkey, and is directed by Michael Longhurst.",
+    "c_show": [
+      "178497"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Next to Normal?",
+    "question": "Who wrote Next to Normal?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

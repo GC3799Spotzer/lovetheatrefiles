@@ -1,0 +1,58 @@
+{
+  "$id": "171485",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_offer": "Save up to 49%",
+    "c_showType": "Musical",
+    "c_tags": [
+      "comedy",
+      "limited run",
+      "matinee",
+      "special offers",
+      "sunday shows",
+      "musicals"
+    ],
+    "c_venueAddress": "The Arches, Villiers St, London WC2N 6NL",
+    "c_venueName": "Charing Cross Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/bronco-billy-the-musical-tickets/",
+    "name": "Bronco Billy The Musical",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "15.5"
+    },
+    "primaryPhoto": {
+      "description": "This new wild west show BRONCO BILLY – THE MUSICAL is heading to Charing Cross Theatre.\nThis rollicking new musical comedy stars West End favourites Tarinn Callendar (Hamilton) as Bronco Billy, Victoria Hamilton-Barritt (Hex) as Constance and Emily Benjamin (Cabaret) as Antoinette.\nSo begins a wild, zany ride in this thrillingly upbeat musical about love, reinvention, family and living your dream.\nIt’s 1979 and life is tough for a group of romantic fast-drawing, trick-riding, disco-dancing Wild West roustabouts and their travelling show, but things take an unexpected turn…\nBook your BRONCO BILLY THE MUSICAL tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/09/0000_00_BB_Social_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/H_grMiXiSNO-XxDMogSeFYfzDu-thqiOcy6M6WPgR6o/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/H_grMiXiSNO-XxDMogSeFYfzDu-thqiOcy6M6WPgR6o/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/H_grMiXiSNO-XxDMogSeFYfzDu-thqiOcy6M6WPgR6o/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/H_grMiXiSNO-XxDMogSeFYfzDu-thqiOcy6M6WPgR6o/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/H_grMiXiSNO-XxDMogSeFYfzDu-thqiOcy6M6WPgR6o/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

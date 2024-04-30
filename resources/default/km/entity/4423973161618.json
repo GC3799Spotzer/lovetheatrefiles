@@ -1,0 +1,17 @@
+{
+  "$id": "4423973161618",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eOur generous commission structure rewards you for every sale a customer makes – not just the first. Levels vary as per affiliate type and we will reward high-selling publishers. \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/4423973161618-What-can-I-earn-as-an-Affiliate",
+    "name": "What can I earn as an Affiliate?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

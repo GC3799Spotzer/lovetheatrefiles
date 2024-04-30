@@ -1,0 +1,54 @@
+{
+  "$id": "202143",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Event",
+    "c_tags": [
+      "concert",
+      "events",
+      "limited run"
+    ],
+    "c_venueAddress": "411-412 Strand, London, WC2R 0NS",
+    "c_venueName": "Adelphi Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/concerts-by-candlelight-queen-tickets/",
+    "name": "Concerts by Candlelight - Queen",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "40.6"
+    },
+    "primaryPhoto": {
+      "description": "Direct from Carnegie Hall, New York and following a run of sell-out shows across the UK and Australia, CONCERTS BY CANDLELIGHT – QUEEN comes to the Adelphi Theatre, in London’s West End.\nThis one night only performance features a cast of West End Singers performing some of the most iconic Queen songs of all time, including Bohemian Rhapsody, It’s a Kind of Magic, We Are The Champions, Who Wants to Live Forever and many more.\nThe Show Must Go On! So, join us for this unforgettable experience guaranteed to Rock You!\nBook your CONCERTS BY CANDLELIGHT – QUEEN tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1081,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2024/02/Q-1080-1080.png",
+        "thumbnails": [
+          {
+            "height": 1081,
+            "url": "http://a.mktgcdn.com/p-sandbox/aO4FNimisTAAWvbFavYGWufwZGvviaC99uylj-ouvCw/1081x1081.png",
+            "width": 1081
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/aO4FNimisTAAWvbFavYGWufwZGvviaC99uylj-ouvCw/619x619.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/aO4FNimisTAAWvbFavYGWufwZGvviaC99uylj-ouvCw/450x450.png",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/aO4FNimisTAAWvbFavYGWufwZGvviaC99uylj-ouvCw/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/aO4FNimisTAAWvbFavYGWufwZGvviaC99uylj-ouvCw/1081x1081.png",
+        "width": 1081
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

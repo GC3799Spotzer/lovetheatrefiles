@@ -1,0 +1,16 @@
+{
+  "$id": "4566",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Mamma Mia cast contains a variety of star performers including Meg Hateley as Sophie, Miles Henderson as Sky, Mazz Murray as Donna Sheridan, Hadyn Oakley as Sam Carmichael, Christopher Dickins as Harry Bright, Olivia Brookes as Lisa.",
+    "c_show": [
+      "456"
+    ],
+    "c_type": "SHOW",
+    "name": "Who is in the Mamma Mia! Cast?",
+    "question": "Who is in the Mamma Mia! Cast?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

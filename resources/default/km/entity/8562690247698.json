@@ -1,0 +1,17 @@
+{
+  "$id": "8562690247698",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003e\u003ca href\u003d\"https://www.lovetheatre.com/shows/moulin-rouge-the-musical-tickets/\" target\u003d\"_self\"\u003e\u003cspan class\u003d\"wysiwyg-underline\"\u003e\u003cem\u003eMoulin Rouge! The Musical\u003c/em\u003e\u003c/span\u003e\u003c/a\u003e is 2 hours 45 minutes (incl. interval). Performances starting at 2:30pm finish at approx. 5:15pm, and performances starting at 7:30pm finish at approx. 10:15pm. \u003c/p\u003e\n\u003cdiv class\u003d\"wysiwyg-text-align-center\"\u003e\u003ca class\u003d\"btn\" href\u003d\"https://www.lovetheatre.com/shows/moulin-rouge-the-musical-tickets/?utm_source\u003dzendesk\u0026amp;utm_medium\u003dMR\u0026amp;utm_campaign\u003dbook_tickets\"\u003eBook Tickets\u003c/a\u003e\u003c/div\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/8562690247698-How-long-is-Moulin-Rouge-The-Musical-and-when-does-it-finish",
+    "name": "How long is Moulin Rouge! The Musical and when does it finish?",
+    "promoted": false,
+    "voteCount": 13,
+    "voteSum": 13
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

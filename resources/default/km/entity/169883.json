@@ -1,0 +1,53 @@
+{
+  "$id": "169883",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "critically acclaimed",
+      "drama",
+      "limited run",
+      "shakespeare",
+      "plays"
+    ],
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/othello-tickets/",
+    "name": "Othello",
+    "price": {
+      "currencyCode": "GBP"
+    },
+    "primaryPhoto": {
+      "description": "Nominated for the WhatsOnStage Awards 2024 for Best Off-West End Production\nEnter the intimate confines of the Sam Wanamaker Playhouse as Shakespeare’s blistering tragedy, OTHELLO, is laid bare by candlelight this winter as part of the venue’s 10th anniversary season.\nFollowing 2021’s Romeo \u0026 Juliet (★★★★ ‘bold, clever, energetic’, The Guardian) in the Globe Theatre, Director Ola Ince debuts in the Sam Wanamaker Playhouse with Shakespeare’s confronting look at the destructive impact of racism that asks: How do we respond to Black success? And what does it mean for accomplished Black men to be torn down by the society that initially lauded them?\n‘But I will wear my heart upon my sleeve For daws to peck at: I am not what I am.’ Act I, scene 1\nBook your OTHELLO theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/08/OTHELLO_LoveTheatre3.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/iNp458hJfAeNtZlz5Vrd4sRafkzJUfmVPwKbfZzA8mI/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/iNp458hJfAeNtZlz5Vrd4sRafkzJUfmVPwKbfZzA8mI/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/iNp458hJfAeNtZlz5Vrd4sRafkzJUfmVPwKbfZzA8mI/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/iNp458hJfAeNtZlz5Vrd4sRafkzJUfmVPwKbfZzA8mI/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/iNp458hJfAeNtZlz5Vrd4sRafkzJUfmVPwKbfZzA8mI/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

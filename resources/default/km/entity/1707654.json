@@ -1,0 +1,16 @@
+{
+  "$id": "1707654",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "An Enemy of the People is created by Henrik Ibsen and directed by Thomas Ostermeier.",
+    "c_show": [
+      "170765"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote An Enemy of the People?",
+    "question": "Who wrote An Enemy of the People?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

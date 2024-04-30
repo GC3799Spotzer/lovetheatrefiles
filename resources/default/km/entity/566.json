@@ -1,0 +1,59 @@
+{
+  "$id": "566",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 40mins (incl. interval)",
+    "c_showType": "Musical",
+    "c_tags": [
+      "award winning",
+      "comedy",
+      "critically acclaimed",
+      "hot tickets",
+      "last minute theatre tickets",
+      "matinee",
+      "sunday shows",
+      "musicals"
+    ],
+    "c_venueAddress": "Portugal St, Holborn, London WC2A 2HT",
+    "c_venueName": "Peacock Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/everybodys-talking-about-jamie-tickets/",
+    "name": "Everybody\u0027s Talking About Jamie",
+    "price": {
+      "currencyCode": "GBP"
+    },
+    "primaryPhoto": {
+      "description": "Following a record-breaking three-year West End residency, sold-out UK \u0026 Ireland Tour and Amazon studios award-winning film, the smash-hit and critically acclaimed musical EVERYBODY’S TALKING ABOUT JAMIE will return to London’s West End at the Peacock Theatre in February 2024!\nSixteen: the edge of possibility. Time to make your dreams come true.\nSet to an original score of catchy pop tunes that will ‘blow the roof of the Theatre’ (Mail on Sunday) by lead singer-songwriter of The Feeling, Dan Gillespie Sells and writer Tom MacRae (Doctor Who) and choregraphed by Sadler’s Wells Associate Artist Kate Prince (Into The Hoods, Some Like It Hip Hop, SYLVIA, Message In A Bottle), this ‘sparking coming-of-age musical’ (The Times) will have everybody talking about Jamie for years to come!\nThis ‘Funny, outrageous, touching’ (Daily Telegraph), musical sensation is to be experienced by all the family and not to be missed!\nBook your EVERYBODY’S TALKING ABOUT JAMIE theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/02/230323-Jamie-1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/yc0b_kHtcRfQr9swTOfj-s97wi9I8Fg_1FMwjIpTQCE/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/yc0b_kHtcRfQr9swTOfj-s97wi9I8Fg_1FMwjIpTQCE/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/yc0b_kHtcRfQr9swTOfj-s97wi9I8Fg_1FMwjIpTQCE/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/yc0b_kHtcRfQr9swTOfj-s97wi9I8Fg_1FMwjIpTQCE/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/yc0b_kHtcRfQr9swTOfj-s97wi9I8Fg_1FMwjIpTQCE/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "4561",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Mamma Mia! the stage show is a musical based on the songs composed by former band members Benny Andersson and Bjorn Ulvaeus as part of the super\\-group ABBA. The show was written by Catherine Johnson and takes its name from the group\u0027s 1975 No.1 hit \u0027Mamma Mia\u0027. Both Anderson and Ulvaeus were involved in the development of the show, while singer Anni\\-Frid Lyngstad has been a financial participant in the long running theatre show.",
+    "c_show": [
+      "456"
+    ],
+    "c_type": "SHOW",
+    "name": "What is Mamma Mia! based on?",
+    "question": "What is Mamma Mia! based on?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

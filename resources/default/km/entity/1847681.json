@@ -1,0 +1,16 @@
+{
+  "$id": "1847681",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Your Lie in April is playing at the West End\u0027s Theatre Royal Drury Lane.",
+    "c_show": [
+      "184768"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Your Lie in April playing?",
+    "question": "Where is Your Lie in April playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

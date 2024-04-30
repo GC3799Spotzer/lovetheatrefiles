@@ -1,0 +1,16 @@
+{
+  "$id": "1849011",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "State Ballet of Georgia \\- Swan Lake is playing at the London Coliseum",
+    "c_show": [
+      "184901"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Swan Lake playing?",
+    "question": "Where is Swan Lake playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

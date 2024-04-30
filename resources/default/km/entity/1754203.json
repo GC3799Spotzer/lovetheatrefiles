@@ -1,0 +1,16 @@
+{
+  "$id": "1754203",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Cruel Intentions: The \u002790s Musical age guidance is 14+",
+    "c_show": [
+      "175420"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Cruel Intentions: The ’90s Musical?",
+    "question": "What is the age guidance for Cruel Intentions: The ’90s Musical?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

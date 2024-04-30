@@ -1,0 +1,16 @@
+{
+  "$id": "2030454",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Slave Play is written by Jeremy O.Harris and directed by Robert O\u0027Hara",
+    "c_show": [
+      "203045"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Slave Play?",
+    "question": "Who wrote Slave Play?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

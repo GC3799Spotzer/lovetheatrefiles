@@ -1,0 +1,16 @@
+{
+  "$id": "12495",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The epic nature of this new Harry Potter story means that the show has been created in two parts. Each part is equally crucial to the overall story and so it is encouraged that both parts are seen together. It is recommended that both parts are seen consecutively but if this is not practical you can book separate Parts across different days of the week. Please note that weekend performances must be booked as consecutive performances.",
+    "c_show": [
+      "1249"
+    ],
+    "c_type": "SHOW",
+    "name": "Is Harry Potter and the Cursed Child play in 2 parts?",
+    "question": "Is Harry Potter and the Cursed Child play in 2 parts?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

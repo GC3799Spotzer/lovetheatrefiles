@@ -1,0 +1,16 @@
+{
+  "$id": "1616411",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Giselle is playing at the London Coliseum.",
+    "c_show": [
+      "161641"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Giselle showing?",
+    "question": "Where is Giselle showing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

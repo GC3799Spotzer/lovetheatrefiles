@@ -1,0 +1,16 @@
+{
+  "$id": "12491",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Harry Potter and the Cursed Child is currently playing at the Palace Theatre. Palace Theatre is located on Shaftesbury Avenue in the heart of London\u0027s West End",
+    "c_show": [
+      "1249"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Harry Potter and the Cursed Child playing?",
+    "question": "Where is Harry Potter and the Cursed Child playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

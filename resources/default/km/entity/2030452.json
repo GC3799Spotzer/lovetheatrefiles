@@ -1,0 +1,16 @@
+{
+  "$id": "2030452",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Slave Play running time is 2 hours, no interval.",
+    "c_show": [
+      "203045"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Slave Play and when does it finish?",
+    "question": "How long is Slave Play and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

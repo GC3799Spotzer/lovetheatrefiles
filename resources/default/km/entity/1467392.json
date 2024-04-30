@@ -1,0 +1,16 @@
+{
+  "$id": "1467392",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "LOVEtheatre has not been made aware of a run time for this show.",
+    "c_show": [
+      "146739"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Mind Mangler: Member of the Tragic Circle and when does it finish?",
+    "question": "How long is Mind Mangler: Member of the Tragic Circle and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

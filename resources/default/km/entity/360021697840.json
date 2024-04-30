@@ -1,0 +1,17 @@
+{
+  "$id": "360021697840",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003e\u003cspan data-contrast\u003d\"none\"\u003eLOVEtheatre\u003c/span\u003e\u003cspan data-contrast\u003d\"none\"\u003e offer a wide range of promotional prices on lots of shows from all over Lond\u003c/span\u003e\u003cspan data-contrast\u003d\"none\"\u003eon and the\u003c/span\u003e\u003cspan data-contrast\u003d\"none\"\u003e West End.\u003c/span\u003e\u003cspan data-ccp-props\u003d\u0027{\"201341983\":0,\"335559739\":160,\"335559740\":259}\u0027\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan data-contrast\u003d\"none\"\u003eFor more information, visit the \u003c/span\u003e\u003cspan class\u003d\"wysiwyg-underline\"\u003e\u003ca href\u003d\"https://www.lovetheatre.com/special-offers/\"\u003eSpecial Offers\u003c/a\u003e\u003c/span\u003e\u003cspan data-contrast\u003d\"none\"\u003e page on the \u003c/span\u003e\u003cspan data-contrast\u003d\"none\"\u003eLOVEtheatre\u003c/span\u003e\u003cspan data-contrast\u003d\"none\"\u003e website.\u003c/span\u003e\u003cspan data-ccp-props\u003d\u0027{\"201341983\":0,\"335559739\":160,\"335559740\":259}\u0027\u003e  \u003c/span\u003e\u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/360021697840-Do-LOVEtheatre-offer-deals-and-discounts",
+    "name": "Do LOVEtheatre offer deals and discounts?",
+    "promoted": false,
+    "voteCount": 11,
+    "voteSum": -11
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "2030451",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Slave Play is playing at the Noel Coward Theatre.",
+    "c_show": [
+      "203045"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Slave Play playing?",
+    "question": "Where is Slave Play playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

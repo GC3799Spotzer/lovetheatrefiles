@@ -1,0 +1,53 @@
+{
+  "$id": "166666",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2 hours 55 minutes incl. interval",
+    "c_showType": "Dance \u0026 Opera",
+    "c_tags": [
+      "dance opera",
+      "limited run"
+    ],
+    "c_venueAddress": "St Martin\u0027s Ln, Charing Cross, London WC2N 4ES",
+    "c_venueName": "London Coliseum",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-magic-flute-tickets/",
+    "name": "The Magic Flute",
+    "price": {
+      "currencyCode": "GBP"
+    },
+    "primaryPhoto": {
+      "description": "Simon McBurney’s five-star production of THE MAGIC FLUTE returns to the ENO at the London Coliseum, promising an evening of magic, romance and timeless music from February 2024!\nThe cast includes Norman Reinhardt making his ENO debut as Tamino alongside David Stout as Papageno. They are joined by former ENO Harewood Artist Soraya Mafi as Pamina and the fiery coloratura of ENO debutante Rainelle Krause as the manipulative Queen of Night. The ENO Chorus and Orchestra are conducted for the first time by Erina Yashima.\nBook your THE MAGIC FLUTE tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/06/1080x1080_flute.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/OHn1xEfj_NoSUvTOt63znhZgeVyuPmXe0YzGoZyRTAQ/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/OHn1xEfj_NoSUvTOt63znhZgeVyuPmXe0YzGoZyRTAQ/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/OHn1xEfj_NoSUvTOt63znhZgeVyuPmXe0YzGoZyRTAQ/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/OHn1xEfj_NoSUvTOt63znhZgeVyuPmXe0YzGoZyRTAQ/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/OHn1xEfj_NoSUvTOt63znhZgeVyuPmXe0YzGoZyRTAQ/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

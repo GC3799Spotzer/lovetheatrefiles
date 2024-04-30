@@ -1,0 +1,16 @@
+{
+  "$id": "1840921",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Wild About You is playing at the West End\u0027s Theatre Royal, Drury Lane.",
+    "c_show": [
+      "184092"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Wild About You playing?",
+    "question": "Where is Wild About You playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

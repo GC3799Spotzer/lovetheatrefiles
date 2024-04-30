@@ -1,0 +1,55 @@
+{
+  "$id": "169909",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "drama",
+      "limited run",
+      "sunday shows",
+      "plays"
+    ],
+    "c_venueAddress": "Bankside, London SE1 9DT",
+    "c_venueName": "Sam Wanamaker Playhouse",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-duchess-of-malfi-tickets/",
+    "name": "The Duchess of Malfi",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "70.8"
+    },
+    "primaryPhoto": {
+      "description": "Ten years after opening the Sam Wanamaker Playhouse in 2014, John Webster’s seminal revenge tragedy, THE DUCHESS OF MALFI, returns to London’s only indoor candlelit theatre from February 2024.\nAward-winning Director Rachel Bagshaw (Midnight Movie, Royal Court) makes her Globe directorial debut with this ground-breaking anniversary production of Webster’s violent tale of misogyny and deceit. THE DUCHESS OF MALFI is part of the Sam Wanamaker Playhouse 10th anniversary season.\n‘I account this world a tedious theatre, For I do play a part in’t ‘gainst my will.’ Act IV, scene 1\nBook your THE DUCHESS OF MALFI theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/08/Globe_DoM_LoveTheatre_1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/GQgbfhCy0g3tSlOWJnsTb3VMLwZJptpB2zVdBR42C8Q/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/GQgbfhCy0g3tSlOWJnsTb3VMLwZJptpB2zVdBR42C8Q/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/GQgbfhCy0g3tSlOWJnsTb3VMLwZJptpB2zVdBR42C8Q/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/GQgbfhCy0g3tSlOWJnsTb3VMLwZJptpB2zVdBR42C8Q/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/GQgbfhCy0g3tSlOWJnsTb3VMLwZJptpB2zVdBR42C8Q/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

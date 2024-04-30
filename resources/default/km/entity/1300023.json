@@ -1,0 +1,16 @@
+{
+  "$id": "1300023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Stranger Things: The First Shadow is recommended for ages 12+. Please note that children under 5 will not be admitted into the theatre.",
+    "c_show": [
+      "130002"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Stranger Things: The First Shadow?",
+    "question": "What is the age guidance for Stranger Things: The First Shadow?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "5661",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Everybody\u0027s Talking About Jamie is playing at the Peacock Theatre",
+    "c_show": [
+      "566"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Everybody\u0027s Talking About Jamie playing?",
+    "question": "Where is Everybody\u0027s Talking About Jamie playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

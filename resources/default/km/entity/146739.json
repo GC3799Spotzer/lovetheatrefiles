@@ -1,0 +1,54 @@
+{
+  "$id": "146739",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Event",
+    "c_tags": [
+      "comedy",
+      "limited run",
+      "sunday shows"
+    ],
+    "c_venueAddress": "Shaftesbury Ave, Soho, London W1D 7EZ",
+    "c_venueName": "Apollo Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/mind-mangler-member-of-the-tragic-circle-tickets/",
+    "name": "Mind Mangler: Member of the Tragic Circle",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "25.65"
+    },
+    "primaryPhoto": {
+      "description": "MIND MANGLER will be playing at the Apollo Theatre in 2024 for a limited time only!\nHenry Lewis and Jonathan Sayer, the multi award-winning team behind the sold-out global smash hit The Play That Goes Wrong and BBC TV series The Goes Wrong Show star in this hilarious new comedy by Mischief.\nJoin the ‘Mind Mangler’ as he returns to the stage following a reasonably good two-night run at the Luton Holiday Inn conference centre, suite 2b. His new solo spectacular is predicted to spiral into chaos as he attempts to read your mind..\nMIND MANGLER is a guaranteed night of ‘laugh filled, mind-bending silliness’ (Broadway World) that will leave you gasping for breath. Not to be missed!\nBook your MIND MANGLER theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2022/12/MM24001_Lovetheatre_1080x1080pxls.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/5ekmsYpSGjcrW04_cXf7D5xYU4bPaXqkXGf0Xm7RlZo/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/5ekmsYpSGjcrW04_cXf7D5xYU4bPaXqkXGf0Xm7RlZo/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/5ekmsYpSGjcrW04_cXf7D5xYU4bPaXqkXGf0Xm7RlZo/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/5ekmsYpSGjcrW04_cXf7D5xYU4bPaXqkXGf0Xm7RlZo/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/5ekmsYpSGjcrW04_cXf7D5xYU4bPaXqkXGf0Xm7RlZo/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

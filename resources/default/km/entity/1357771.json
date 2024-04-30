@@ -1,0 +1,16 @@
+{
+  "$id": "1357771",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Guys \\\u0026 Dolls is playing at the Bridge Theatre.",
+    "c_show": [
+      "135777"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Guys \u0026 Dolls playing?",
+    "question": "Where is Guys \u0026 Dolls playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

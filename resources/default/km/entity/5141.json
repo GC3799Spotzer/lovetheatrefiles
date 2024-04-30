@@ -1,0 +1,16 @@
+{
+  "$id": "5141",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Sister Act The Musical is playing at the Dominion Theatre",
+    "c_show": [
+      "514"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Sister Act The Musical playing?",
+    "question": "Where is Sister Act The Musical playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

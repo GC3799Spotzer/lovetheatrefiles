@@ -1,0 +1,16 @@
+{
+  "$id": "1850941",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "An Officer and a Gentleman The Musical is currently embarking on a UK tour.",
+    "c_show": [
+      "185094"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is An Officer and a Gentleman The Musical playing?",
+    "question": "Where is An Officer and a Gentleman The Musical playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

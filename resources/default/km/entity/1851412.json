@@ -1,0 +1,16 @@
+{
+  "$id": "1851412",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Globe Story and Guided Tours running time is 2hrs (incl. 50min guided tour \\\u0026 self\\-guided exhibition space)",
+    "c_show": [
+      "185141"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Globe Story and Guided Tours and when does it finish?",
+    "question": "How long is Globe Story and Guided Tours and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

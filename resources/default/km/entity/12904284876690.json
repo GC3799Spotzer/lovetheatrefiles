@@ -1,0 +1,17 @@
+{
+  "$id": "12904284876690",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eYou were all set to join us and see one of our amazing shows, but now you can make it, which we are sure you must be disappointed about. Not to worry, read on to see what can be done to help…\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cspan class\u003d\"wysiwyg-underline\"\u003eExchanging to a different date\u003c/span\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eWherever possible, we would be happy to look into an exchange to another date of the same show at the same venue. However, please note that as LOVEtheatre is a third-party ticketing agency, all exchanges as subject to availability and the venue’s own terms and conditions, which can be found on the venue’s website. \u003c/p\u003e\n\u003cp\u003eTo find our more, please see \u003cstrong\u003e“\u003ca href\u003d\"https://help.lovetheatre.com/hc/en-gb/articles/360015905420-Can-I-have-an-exchange-\" target\u003d\"_blank\" rel\u003d\"noopener\"\u003eCan I exchange my tickets\u003c/a\u003e” \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cspan class\u003d\"wysiwyg-underline\"\u003eGifting the tickets\u003c/span\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eIf you are unable to attend any other performance of the show, or there are no alternative dates to move your tickets to, you are welcome to pass your tickets onto family members or friends to use in your place, unless otherwise stated at the point of purchase. \u003c/p\u003e\n\u003cp\u003eThere is nothing further for you to do, simply forward your eTickets to the recipient to use on the day. \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cspan class\u003d\"wysiwyg-underline\"\u003eTicket Refund Protection\u003c/span\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eDid you know that you can protect your tickets by opting into the TicketPlan ticket refund protection program and you\u0027ll get a full refund in the event of;\u003cspan style\u003d\"color: #000644; background-color: #ffffff;\"\u003e \u003c/span\u003eincapacity through accident, illness or sickness, severe weather preventing travel to the theatre, or delays due to vehicle breakdowns, plus much more. \u003c/p\u003e\n\u003cp\u003eTo find our more, please see \u003cstrong\u003e“\u003ca href\u003d\"https://help.lovetheatre.com/hc/en-gb/articles/12903950901010-Can-I-have-a-refund-\" target\u003d\"_blank\" rel\u003d\"noopener\"\u003eCan I have a refund?\u003c/a\u003e”\u003c/strong\u003e\u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/12904284876690-Can-t-make-it-to-the-show",
+    "name": "Can’t make it to the show?",
+    "promoted": false,
+    "voteCount": 1,
+    "voteSum": 1
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

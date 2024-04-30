@@ -1,0 +1,42 @@
+{
+  "$id": "127364",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/symphony-of-sorrowful-songs-tickets/",
+    "name": "Symphony Of Sorrowful Songs",
+    "primaryPhoto": {
+      "description": "As part of the English National Opera\u0026#8217;s 2022/23 season, SYMPHONY OF SORROWFUL SONGS is coming to the London Coliseum for a limited time only.\nHenryk Górecki’s Symphony No. 3 (SYMPHONY OF SORROWFUL SONGS) broke records upon its release in 1992 and became a critical sensation, becoming the best selling contemporary work of our time and cementing itself as one of modern classical music’s finest compositions.\nIsabelle Bywater, designer of ENO’s beloved production of La bohème, returns to direct this unprecedented staged production of Górecki’s beloved work.\nRussian-American conductor Lidiya Yankovskaya makes her ENO debut to conduct the full force of the ENO Orchestra in performing this transitional work in Henryk Górecki’s catalogue of works: striking a delicate balance between his roots in serialism and the emotional vulnerability of his later compositions.\nDon\u0026#8217;t miss one of contemporary music’s finest works: Henryk Górecki’s SYMPHONY OF SORROWFUL SONGS, reimagined for the London Coliseum stage.\nBook your SYMPHONY OF SORROWFUL SONGS theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/05/1080x1080_symphony.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/wHn2F_JR-GRdF45L4-SdSjfNbihMD-yEy4sJBasF5_0/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/wHn2F_JR-GRdF45L4-SdSjfNbihMD-yEy4sJBasF5_0/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/wHn2F_JR-GRdF45L4-SdSjfNbihMD-yEy4sJBasF5_0/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/wHn2F_JR-GRdF45L4-SdSjfNbihMD-yEy4sJBasF5_0/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/wHn2F_JR-GRdF45L4-SdSjfNbihMD-yEy4sJBasF5_0/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

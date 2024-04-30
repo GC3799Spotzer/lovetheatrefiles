@@ -1,0 +1,17 @@
+{
+  "$id": "12904048861458",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eWe are unable to accept ATG Gift Vouchers; these can only be redeemed directly with ATG Tickets. \u003c/p\u003e\n\u003cp\u003eHowever, if you want to surprise someone with a trip to the theatre as a gift, you can buy our own \u003cstrong\u003e\u003ca href\u003d\"https://www.lovetheatre.com/gift-vouchers/\" target\u003d\"_blank\" rel\u003d\"noopener\"\u003eLOVEtheatre vouchers\u003c/a\u003e\u003c/strong\u003e that are exclusively for our LOVEtheatre website. These vouchers are redeemable up to a year from purchase and can be redeemed by entering the unique voucher code into the Promo Code field. \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/12904048861458-Do-you-accept-ATG-Gift-Vouchers",
+    "name": "Do you accept ATG Gift Vouchers?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

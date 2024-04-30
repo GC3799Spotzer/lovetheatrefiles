@@ -1,0 +1,16 @@
+{
+  "$id": "1206853",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The age guidance for Operation Mincemeat is 6+",
+    "c_show": [
+      "120685"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Operation Mincemeat?",
+    "question": "What is the age guidance for Operation Mincemeat?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

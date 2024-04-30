@@ -1,0 +1,16 @@
+{
+  "$id": "1706932",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Most visitors spend around 90 minutes at the exhibition, but you\u0027re welcome to enjoy Frameless at your own pace.",
+    "c_show": [
+      "170693"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Frameless and when does it finish?",
+    "question": "How long is Frameless and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

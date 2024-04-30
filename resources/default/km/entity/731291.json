@@ -1,0 +1,16 @@
+{
+  "$id": "731291",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Hadestown is playing at the Lyric Theatre.",
+    "c_show": [
+      "73129"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Hadestown playing?",
+    "question": "Where is Hadestown playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

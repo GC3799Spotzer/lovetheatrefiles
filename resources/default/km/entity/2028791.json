@@ -1,0 +1,16 @@
+{
+  "$id": "2028791",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Government Inspector is at London\u0027s Marylebone Theatre.",
+    "c_show": [
+      "202879"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is The Government Inspector playing?",
+    "question": "Where is The Government Inspector playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

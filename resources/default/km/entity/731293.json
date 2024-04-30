@@ -1,0 +1,16 @@
+{
+  "$id": "731293",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Hadestown age guidance is 8+",
+    "c_show": [
+      "73129"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Hadestown?",
+    "question": "What is the age guidance for Hadestown?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

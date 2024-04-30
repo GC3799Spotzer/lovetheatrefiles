@@ -1,0 +1,55 @@
+{
+  "$id": "178183",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 45mins",
+    "c_showType": "Event",
+    "c_tags": [
+      "events",
+      "limited run",
+      "sunday shows"
+    ],
+    "c_venueAddress": "HERE at Outernet, Charing Cross Rd, London WC2H 8LH",
+    "c_venueName": "HERE at Outernet",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/priscilla-the-party-tickets/",
+    "name": "Priscilla The Party!",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "52.2"
+    },
+    "primaryPhoto": {
+      "description": "First an Oscar-winning film, then a Tony Award and Olivier Award-winning musical,  PRISCILLA THE PARTY! is now a Party you’ll never forget  – Opening in March 2024 at HERE at Outernet Tottenham Court Road.\nNext year we are celebrating 30 years since the film burst onto our screens and 18 years since London first welcomed the stage musical, so the time couldn’t be more perfect to announce the world premiere of  PRISCILLA THE PARTY! \nThe original West End creative team are reuniting to take you back to the Australian outback where you will enjoy a dazzling array of eye-popping costumes, and dance along to a gyrating hit parade of dance floor classics. \nSo, dust off your wigs and heels, brush up your disco moves and cover yourself in all the glitter you can find, PRISCILLA THE PARTY! opens in March 2024. \nBook your PRISCILLA THE PARTY! theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/11/PTP_LoveTheatre-GL_1080-x-1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/kgDeEvrHDgX8ZDjtHW2cqBI3ApkSDfmV94Kiyo98HDs/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/kgDeEvrHDgX8ZDjtHW2cqBI3ApkSDfmV94Kiyo98HDs/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/kgDeEvrHDgX8ZDjtHW2cqBI3ApkSDfmV94Kiyo98HDs/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/kgDeEvrHDgX8ZDjtHW2cqBI3ApkSDfmV94Kiyo98HDs/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/kgDeEvrHDgX8ZDjtHW2cqBI3ApkSDfmV94Kiyo98HDs/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

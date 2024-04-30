@@ -1,0 +1,16 @@
+{
+  "$id": "1666063",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The age guidance for Plaza Suite is 13+.",
+    "c_show": [
+      "166606"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Plaza Suite?",
+    "question": "What is the age guidance for Plaza Suite?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

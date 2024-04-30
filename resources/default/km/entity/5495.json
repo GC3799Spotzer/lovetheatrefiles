@@ -1,0 +1,16 @@
+{
+  "$id": "5495",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Since 2004, Les Misérables has played at the Sondheim Theatre, formerly the Queen\u0027s Theatre. The theatre first opened its doors in 1907, and since then has hosted the talents of Fred Astaire, Kenneth Branagh, Noël Coward, Douglas Fairbanks, Jr., Stephen Fry, John Gielgud, Alec Guinness, Nick Jonas, Ramin Karimloo, Michael Redgrave, Margaret Rutherford, Fiona Shaw, Maggie Smith, and Gene Wilder, to name a few.",
+    "c_show": [
+      "549"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Les Misérables showing?",
+    "question": "Where is Les Misérables showing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

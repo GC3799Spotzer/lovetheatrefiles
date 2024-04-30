@@ -1,0 +1,57 @@
+{
+  "$id": "647",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 15mins (incl. interval)",
+    "c_showType": "Play",
+    "c_tags": [
+      "award winning",
+      "critically acclaimed",
+      "drama",
+      "sunday shows",
+      "plays"
+    ],
+    "c_venueAddress": "County Hall, Belvedere Rd, South Bank, London SE1 7GP",
+    "c_venueName": "London County Hall",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/witness-for-the-prosecution-tickets/",
+    "name": "Witness for the Prosecution",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "17.4"
+    },
+    "primaryPhoto": {
+      "description": "Now in its sixth year, a unique courtroom staging of WITNESS FOR THE PROSECUTION by Agatha Christie, directed by Lucy Bailey has captured the imagination of thousands; enthralled by the case of Leonard Vole\nStep inside the magnificent surroundings of The Chamber at London County Hall and experience the intensity and drama of Agatha Christie’s gripping story of justice, passion and betrayal in a unique courtroom setting. Majestic foyer and bar areas and a spacious auditorium offer excellent ventilation and space for audiences to relax and enjoy this classic thriller.\nThe audience are thrillingly placed in the thick of the action, as Agatha Christie’s story of justice, passion and betrayal unfolds around them. The twists and turns of the case are played out in a spectacular courtroom setting, as prosecution battles defence, and witnesses take to the stand to give their shocking testimonies.\nBenjamin Westerby (Macbeth, Imitating The Dog – UK Tour) plays the accused, Leonard Vole opposite Katie Buchholz (Lemons Lemons Lemons Lemons Lemons, West End) as his wife Romaine Vole. Stephen Hogan (Napoli, Brooklyn, Park Theatre) plays Sir Wilfrid Robarts QC, Paul Ansdell (When the Rain Stops Falling, Old Fire Station Oxford) joins the cast as Mr Mayhew, David Shaw-Parker (My Fair Lady, West End) as Mr Justice Wainwright and John Mackay (The Doctor, West End) as Mr Myers QC.\nThe company is completed by Melissa Aduke-James, Aamira Challenger, Tom Espiner, Sam Flint, Mackenzie Heynes, Damian Lynch, Matthew Mellalieu, Blair Robertson, Nicola Sanderson, Andrew Tuku JR, Rosamund Williams and William Donaldson.\nDon’t miss this landmark stage production on London’s Southbank.\nSee you in court. Book your WITNESS FOR THE PROSECUTION theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/02/7308_56_WFTP_LT_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/_EsF8m8iAJnFdLFfQPKCUpuKxTI7JyRUUr7OSmq8wbo/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/_EsF8m8iAJnFdLFfQPKCUpuKxTI7JyRUUr7OSmq8wbo/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/_EsF8m8iAJnFdLFfQPKCUpuKxTI7JyRUUr7OSmq8wbo/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/_EsF8m8iAJnFdLFfQPKCUpuKxTI7JyRUUr7OSmq8wbo/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/_EsF8m8iAJnFdLFfQPKCUpuKxTI7JyRUUr7OSmq8wbo/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

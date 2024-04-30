@@ -1,0 +1,16 @@
+{
+  "$id": "1707653",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "An Enemy of the People is recommended for those aged 12+.",
+    "c_show": [
+      "170765"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for An Enemy of the People?",
+    "question": "What is the age guidance for An Enemy of the People?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

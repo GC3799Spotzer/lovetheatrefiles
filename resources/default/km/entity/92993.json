@@ -1,0 +1,56 @@
+{
+  "$id": "92993",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "drama",
+      "limited run",
+      "matinee",
+      "shakespeare",
+      "plays"
+    ],
+    "c_venueAddress": "21 New Globe Walk, London SE1 9DT",
+    "c_venueName": "Globe Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-comedy-of-errors-tickets/",
+    "name": "The Comedy of Errors",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "12"
+    },
+    "primaryPhoto": {
+      "description": "Back by popular demand, get ready to experience ‘the Globe at its most joyous’ (WhatsOnStage) as our ★★★★ production of THE COMEDY OF ERRORS makes a triumphant return to Shakespeare’s Globe Theatre this summer.\nOur ‘rib-tickling’ (The Times) production of Shakespeare’s hilarious tale of long-lost siblings and mistaken identities triumphantly returns to the Globe this summer. Globe Associate Artistic Director Sean Holmes and 2023 Globe Associate Director Naeem Hayat (King Lear, 2022) return to co-direct.\n‘One of these men is Genius to the other;\nAnd so, of these, which is the natural man\nAnd which the spirit? who deciphers them?’\nAct V, scene 1\nBook your THE COMEDY OF ERRORS theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2021/07/Globe_Comedy-of-Errors_LoveTheatre_AW_1080-x-1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/UROxDltq9kCQ85whRKgBHhO9T54ek76GXysirJ1EoL4/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/UROxDltq9kCQ85whRKgBHhO9T54ek76GXysirJ1EoL4/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/UROxDltq9kCQ85whRKgBHhO9T54ek76GXysirJ1EoL4/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/UROxDltq9kCQ85whRKgBHhO9T54ek76GXysirJ1EoL4/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/UROxDltq9kCQ85whRKgBHhO9T54ek76GXysirJ1EoL4/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

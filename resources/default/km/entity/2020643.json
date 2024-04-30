@@ -1,0 +1,16 @@
+{
+  "$id": "2020643",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "This show is recommended for ages 12+. Anyone under the age of 16 must be accompanied by a guardian",
+    "c_show": [
+      "202064"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Kathy \u0026 Stella Solve a Murder!?",
+    "question": "What is the age guidance for Kathy \u0026 Stella Solve a Murder!?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

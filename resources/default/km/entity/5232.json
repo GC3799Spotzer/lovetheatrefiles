@@ -1,0 +1,16 @@
+{
+  "$id": "5232",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Only Fools and Horses The Musical is 2 hours 30 minutes (incl. interval). Performances starting at 2:30pm finish at approx. 5pm, and performances starting at 7:30pm finish at approx. 10pm",
+    "c_show": [
+      "523"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Only Fools and Horses The Musical and when does it finish?",
+    "question": "How long is Only Fools and Horses The Musical and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

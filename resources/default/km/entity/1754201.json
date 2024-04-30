@@ -1,0 +1,16 @@
+{
+  "$id": "1754201",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Cruel Intentions: The \u002790s Musical is playing at The Other Palace.",
+    "c_show": [
+      "175420"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Cruel Intentions: The ’90s Musical playing?",
+    "question": "Where is Cruel Intentions: The ’90s Musical playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

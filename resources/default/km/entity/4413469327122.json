@@ -1,0 +1,17 @@
+{
+  "$id": "4413469327122",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eA group booking is usually for 10 or more tickets.\u003c/p\u003e\n\u003cp\u003eWhen there is a specific group discount for 6+ or 8+ we can also book these in. Any bookings under 10 which are full price tickets can be booked online. \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/4413469327122-What-is-a-Group-Booking",
+    "name": "What is a Group Booking?",
+    "promoted": false,
+    "voteCount": 1,
+    "voteSum": 1
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

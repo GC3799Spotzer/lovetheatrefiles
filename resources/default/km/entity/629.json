@@ -1,0 +1,58 @@
+{
+  "$id": "629",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 20mins (incl. interval)",
+    "c_showType": "Play",
+    "c_tags": [
+      "critically acclaimed",
+      "drama",
+      "family friendly",
+      "kids",
+      "matinee",
+      "plays"
+    ],
+    "c_venueAddress": "26 West St, London WC2H 9NA",
+    "c_venueName": "St Martins Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-mousetrap-tickets/",
+    "name": "The Mousetrap",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "20"
+    },
+    "primaryPhoto": {
+      "description": "Agatha Christie’s THE MOUSETRAP has been at home at St. Martins Theatre in the West End for an incredible 70 years and is still keeping millions of people from every corner of the globe on the edge of their seats.\nTHE MOUSETRAP first entered the record books in 1958 when it became the longest running show of any kind in the history of British theatre. The incredible show continues to attract audiences from all over the world. In her own inimitable style, Dame Agatha Christie has created an atmosphere of shuddering suspense and a brilliantly intricate plot where murder lurks around every corner.\nBe part of history. Book your THE MOUSETRAP theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/02/Mousetrap-JAN24-BBs-ATG-1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/iWDjvxbm_8eWlFx_XEuNzCuN6T_eaO3PXqPk7aq5PCs/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/iWDjvxbm_8eWlFx_XEuNzCuN6T_eaO3PXqPk7aq5PCs/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/iWDjvxbm_8eWlFx_XEuNzCuN6T_eaO3PXqPk7aq5PCs/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/iWDjvxbm_8eWlFx_XEuNzCuN6T_eaO3PXqPk7aq5PCs/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/iWDjvxbm_8eWlFx_XEuNzCuN6T_eaO3PXqPk7aq5PCs/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

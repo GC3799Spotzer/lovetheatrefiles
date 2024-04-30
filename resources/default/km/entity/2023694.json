@@ -1,0 +1,16 @@
+{
+  "$id": "2023694",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Power of Sail is written by Paul Grellong.",
+    "c_show": [
+      "202369"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Power of Sail?",
+    "question": "Who wrote Power of Sail?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

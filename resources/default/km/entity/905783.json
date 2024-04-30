@@ -1,0 +1,16 @@
+{
+  "$id": "905783",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The age guidance for Choir of Man is 6+",
+    "c_show": [
+      "90578"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for The Choir of Man?",
+    "question": "What is the age guidance for The Choir of Man?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

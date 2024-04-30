@@ -1,0 +1,16 @@
+{
+  "$id": "1863123",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Two Strangers (Carry A Cake Across New York) is suitable for those aged 12+.",
+    "c_show": [
+      "186312"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Two Strangers (Carry A Cake Across New York)?",
+    "question": "What is the age guidance for Two Strangers (Carry A Cake Across New York)?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

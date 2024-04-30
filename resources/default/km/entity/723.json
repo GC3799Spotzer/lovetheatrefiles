@@ -1,0 +1,56 @@
+{
+  "$id": "723",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "drama",
+      "limited run",
+      "matinee",
+      "shakespeare",
+      "plays"
+    ],
+    "c_venueAddress": "21 New Globe Walk, London SE1 9DT",
+    "c_venueName": "Globe Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-taming-of-the-shrew-tickets/",
+    "name": "The Taming Of The Shrew",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "12"
+    },
+    "primaryPhoto": {
+      "description": "Step inside an absurd carnival this summer as Shakespeare’s vicious comedy THE TAMING OF THE SHREW arrives in Shakespeare’s Globe Theatre.\nBianca isn’t allowed to marry until her older sister Katherina is wedded. But what will it take for a man to mould this fiercely independent woman into a wife? Following 2022’s ‘brilliantly provocative’ ★★★★ (The Guardian) Titus Andronicus, Jude Christian debuts in the Globe Theatre directing Shakespeare’s cutting, provocative exploration of gender stereotypes and expectations, asking us where we draw the line between entertainment and complicity, reality and the absurd?\n‘For I am born to tame you, Kate,\nAnd bring you from a wild Kate to a Kate\nComfortable as other household Kates.’\n– Act II, scene 1\nBook your THE TAMING OF THE SHREW theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/02/Globe_The-Taming-Of-The-Shrew_LoveTheatre_1080-x-1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/xcfGxfVvAJPBnK_pjNyPN_bv0ZgQrboXPX63rf6BLCw/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/xcfGxfVvAJPBnK_pjNyPN_bv0ZgQrboXPX63rf6BLCw/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/xcfGxfVvAJPBnK_pjNyPN_bv0ZgQrboXPX63rf6BLCw/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/xcfGxfVvAJPBnK_pjNyPN_bv0ZgQrboXPX63rf6BLCw/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/xcfGxfVvAJPBnK_pjNyPN_bv0ZgQrboXPX63rf6BLCw/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

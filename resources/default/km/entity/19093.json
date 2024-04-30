@@ -1,0 +1,42 @@
+{
+  "$id": "19093",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-pillowman-tickets/",
+    "name": "The Pillowman",
+    "primaryPhoto": {
+      "description": "THE PILLOWMAN will play at the Duke of York\u0026#8217;s Theatre, and star Lily Allen and Steve Pemberton.\n“The Pillowman is a spellbinding stunner of a play.” Ben Brantley, New York Times\nMartin McDonagh’s Olivier Award-winning play THE PILLOWMAN makes its eagerly anticipated West End Premiere following its London debut at the National Theatre.\nTHE PILLOWMAN is a black comedy known as one of the greatest plays of the last 25 years. It explores the artist and asks, what is the real price to pay for freedom of expression?\nBook your THE PILLOWMAN theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2020/02/thepillowman-black-1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/eNyWlQOw4x8sdKUaMkSL5DAH9CaKsAERlgvAWSinJUM/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/eNyWlQOw4x8sdKUaMkSL5DAH9CaKsAERlgvAWSinJUM/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/eNyWlQOw4x8sdKUaMkSL5DAH9CaKsAERlgvAWSinJUM/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/eNyWlQOw4x8sdKUaMkSL5DAH9CaKsAERlgvAWSinJUM/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/eNyWlQOw4x8sdKUaMkSL5DAH9CaKsAERlgvAWSinJUM/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

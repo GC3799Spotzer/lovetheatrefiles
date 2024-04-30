@@ -1,0 +1,16 @@
+{
+  "$id": "797512",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Magic Mike Live is 1 hour 30 minutes, with no interval. Performances starting at 4pm finish at approx. 5.30pm, performances starting at 7pm finish at approx. 8.30pm, and performances starting at 9.30pm finish at approx. 11pm.",
+    "c_show": [
+      "79751"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Magic Mike Live and when does it finish?",
+    "question": "How long is Magic Mike Live and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

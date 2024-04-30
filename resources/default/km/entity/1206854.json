@@ -1,0 +1,16 @@
+{
+  "$id": "1206854",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Operation Mincemeat is written by David Cumming, Felix Hagan, Natasha Hodgson and Zoe Roberts. The production is directed by Donnacadh O\u0027Briain, with music and lyrics by Felix Hagan.",
+    "c_show": [
+      "120685"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Operation Mincemeat?",
+    "question": "Who wrote Operation Mincemeat?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

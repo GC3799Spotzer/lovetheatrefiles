@@ -1,0 +1,16 @@
+{
+  "$id": "929931",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Comedy of Errors is playing at the Globe Theatre.",
+    "c_show": [
+      "92993"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is The Comedy of Errors playing?",
+    "question": "Where is The Comedy of Errors playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

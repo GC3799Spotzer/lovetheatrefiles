@@ -1,0 +1,16 @@
+{
+  "$id": "5497",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Les Misérables is one of the longest\\-running musicals in the West\\-End for a reason; the score is full of some of the greatest songs in musical history. Some of the most well\\-known are: \"I Dreamed a Dream\", \"One Day More\", \"On My Own\", \"Bring Him Home\", \"Do You Hear the People Sing?\", \"Who Am I?\", \"Empty Chairs at Empty Tables\", \"Stars\", and \"A Heart Full of Love\".",
+    "c_show": [
+      "549"
+    ],
+    "c_type": "SHOW",
+    "name": "What are the best-known songs in Les Misérables?",
+    "question": "What are the best-known songs in Les Misérables?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

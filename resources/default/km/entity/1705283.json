@@ -1,0 +1,16 @@
+{
+  "$id": "1705283",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "LOVEtheatre has not been made aware of age guidance for this show.",
+    "c_show": [
+      "170528"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for The Elvis Years?",
+    "question": "What is the age guidance for The Elvis Years?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

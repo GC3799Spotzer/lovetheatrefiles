@@ -1,0 +1,42 @@
+{
+  "$id": "128660",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-smartest-giant-in-town-tickets/",
+    "name": "The Smartest Giant in Town",
+    "primaryPhoto": {
+      "description": "Based on the bestselling book by Julia Donaldson and Axel Scheffler, THE SMARTEST GIANT IN TOWN is playing at St Martin\u0026#8217;s Theatre this winter.\nThis heart-warming tale about friendship and helping those in need is brought to life in a musical, puppet-filled adventure. Little Angel Theatre’s previous bestselling adaptations of Julia Donaldson’s picture books include The Singing Mermaid and The Everywhere Bear; and now the much-loved story of THE SMARTEST GIANT IN TOWN.\nBook your THE SMARTEST GIANT IN TOWN theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/06/TSGIT-Love-Theatre-1080x1080-Web.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/rZAXJIPwMr3_W1tMlzrHA1cwCJw21w7qWNTns9rZ3P0/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/rZAXJIPwMr3_W1tMlzrHA1cwCJw21w7qWNTns9rZ3P0/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/rZAXJIPwMr3_W1tMlzrHA1cwCJw21w7qWNTns9rZ3P0/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/rZAXJIPwMr3_W1tMlzrHA1cwCJw21w7qWNTns9rZ3P0/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/rZAXJIPwMr3_W1tMlzrHA1cwCJw21w7qWNTns9rZ3P0/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

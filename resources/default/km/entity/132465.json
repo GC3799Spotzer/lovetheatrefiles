@@ -1,0 +1,42 @@
+{
+  "$id": "132465",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-time-travelers-wife-tickets/",
+    "name": "The Time Traveler\u0027s Wife",
+    "primaryPhoto": {
+      "description": "Currently booking for a two week run at Storyhouse, Chester, THE TIME TRAVELER\u0026#8217;S WIFE is rumoured for a West End transfer at a later date.\nBased on the story by Audrey Niffenegger, and influenced by the 2009 movie of the same name, THE TIME TRAVELER\u0026#8217;S WIFE follows the lives of a man who travels through time and his wife who\u0026#8217;s left to continue on each time he disappears.\nThe Storyhouse production will be led by David Hunter (Waitress) in the role of Henry and Joanna Woodward (Pretty Woman) as his wife Clare. With a book by Lauren Gunderson (I and You), direction by Bill Buckhurst, and music by award-winning singer Joss Stone and Eurythmics\u0026#8217; Dave Stewart, this will be an unmissable musical for any romance fan!\nSign up to hear the latest news about THE TIME TRAVELER\u0026#8217;S WIFE with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/08/comingsoonshowtile_1080x1080-3.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/I2nqoh6VCI7CLZD-YNk_pFShRuJfzJT2LLmMqoK3-P8/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/I2nqoh6VCI7CLZD-YNk_pFShRuJfzJT2LLmMqoK3-P8/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/I2nqoh6VCI7CLZD-YNk_pFShRuJfzJT2LLmMqoK3-P8/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/I2nqoh6VCI7CLZD-YNk_pFShRuJfzJT2LLmMqoK3-P8/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/I2nqoh6VCI7CLZD-YNk_pFShRuJfzJT2LLmMqoK3-P8/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

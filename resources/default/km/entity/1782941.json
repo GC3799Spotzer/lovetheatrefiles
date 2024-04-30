@@ -1,0 +1,16 @@
+{
+  "$id": "1782941",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "A Mirror is playing at the West End\u0027s Trafalgar Theatre.",
+    "c_show": [
+      "178294"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is A Mirror playing?",
+    "question": "Where is A Mirror playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

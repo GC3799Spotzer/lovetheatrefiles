@@ -1,0 +1,16 @@
+{
+  "$id": "6473",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Witness for the Prosecution is recommended for those 10+. We do not admit babes in arms and all children must be accompanied by an adult.",
+    "c_show": [
+      "647"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Witness for the Prosecution?",
+    "question": "What is the age guidance for Witness for the Prosecution?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

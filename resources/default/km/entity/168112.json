@@ -1,0 +1,59 @@
+{
+  "$id": "168112",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "a list star",
+      "critically acclaimed",
+      "drama",
+      "hot tickets",
+      "last minute theatre tickets",
+      "limited run",
+      "matinee",
+      "plays"
+    ],
+    "c_venueAddress": "Haymarket, London, SW1Y 4HT",
+    "c_venueName": "Theatre Royal Haymarket",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-picture-of-dorian-gray-tickets/",
+    "name": "The Picture of Dorian Gray",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "117"
+    },
+    "primaryPhoto": {
+      "description": "Nominated for Best Actress and Best Costume Design at the Olivier Awards 2024\nOlivier nominated, Emmy and Golden Globe-winner Sarah Snook returns to London in THE PICTURE OF DORIAN GRAY at Theatre Royal Haymarket for a limited run of 12 weeks only.\nStar of Succession, The Dressmaker, Pieces of a Woman and The Master Builder (The Old Vic), Sarah Snook takes on every role in this gripping, witty and vibrantly contemporary production that breathes new life into Oscar Wilde’s classic tale.\nThis ground-breaking production – adapted and directed by multi award-winning Kip Williams, Artistic Director of the acclaimed Sydney Theatre Company – delivers an explosive interplay of live performance and video in an astonishing collision of form.\nDon’t miss this “astonishing piece of theatre” (Financial Times) –  book your THE PICTURE OF DORIAN GRAY theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/07/DG24_Q1_032_Love-Theatre-Buttons-For-ATG_1080x1080px_V1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/dCaNpywBNGj-2qRnFIb13YXdLG3QeGWFZtm7HCpXIZY/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/dCaNpywBNGj-2qRnFIb13YXdLG3QeGWFZtm7HCpXIZY/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/dCaNpywBNGj-2qRnFIb13YXdLG3QeGWFZtm7HCpXIZY/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/dCaNpywBNGj-2qRnFIb13YXdLG3QeGWFZtm7HCpXIZY/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/dCaNpywBNGj-2qRnFIb13YXdLG3QeGWFZtm7HCpXIZY/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

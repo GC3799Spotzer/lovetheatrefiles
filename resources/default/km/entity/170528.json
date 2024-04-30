@@ -1,0 +1,53 @@
+{
+  "$id": "170528",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Event",
+    "c_tags": [
+      "events",
+      "sunday shows"
+    ],
+    "c_venueAddress": "268-269 Tottenham Court Rd, Fitzrovia, London W1T 7AQ",
+    "c_venueName": "Dominion Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-elvis-years-tickets/",
+    "name": "The Elvis Years",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "30"
+    },
+    "primaryPhoto": {
+      "description": "The hugely popular production of THE ELVIS YEARS has toured nationally and internationally ever since, and is delighted to be back in town at London’s Dominion Theatre for one very special night to celebrate a huge milestone in the ongoing story of THE ELVIS YEARS.\nUndoubtedly the UK’s premier Elvis theatre event, this stunning production takes the audience on a fantastic journey through all the years the King ruled the airwaves. With a full cast of West End talent, a spectacular set, breathtaking lights and awesome video content, Mario and the cast deliver over 50 golden greats, charting the rise and rise of the boy from Tupelo – from the early hits ‘That’s Alright Mama’, ‘Don’t Be Cruel’ and ‘I Got Stung’ all the way through to the iconic Las Vegas concerts with ‘In The Ghetto’, ‘The Wonder Of You’  and of course ‘Suspicious Minds’.\nWith more than 12 costume changes, Mario brings the essence of Elvis to every song from every era – The Ed Sullivan Show featuring ‘A Fool Such As I’, The Frank Sinatra TV special including ‘It’s Now Or Never’, the Hollywood years with ‘Return To Sender’ and ‘Viva Las Vegas’, and the legendary ’68 comeback special concluding with ‘If I Can Dream’.\nIn the words of Elvis’s first cousin Donna Presley – ‘The Best Elvis Since Elvis’\nBook your THE ELVIS YEARS theatre tickets with LOVEtheatre today.",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/09/1080-x-1080-copy.png",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/1EnPzNMHUcsCnO002HQVow44KYRYyjmZGa1Qf1vyEf4/1080x1080.png",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/1EnPzNMHUcsCnO002HQVow44KYRYyjmZGa1Qf1vyEf4/619x619.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/1EnPzNMHUcsCnO002HQVow44KYRYyjmZGa1Qf1vyEf4/450x450.png",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/1EnPzNMHUcsCnO002HQVow44KYRYyjmZGa1Qf1vyEf4/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/1EnPzNMHUcsCnO002HQVow44KYRYyjmZGa1Qf1vyEf4/1080x1080.png",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

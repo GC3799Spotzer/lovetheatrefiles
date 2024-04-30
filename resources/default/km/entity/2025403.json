@@ -1,0 +1,16 @@
+{
+  "$id": "2025403",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Why Am I So Single? \\- A Big Fancy Musical age guidance is 14+",
+    "c_show": [
+      "202540"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Why Am I So Single? - A Big Fancy Musical?",
+    "question": "What is the age guidance for Why Am I So Single? - A Big Fancy Musical?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

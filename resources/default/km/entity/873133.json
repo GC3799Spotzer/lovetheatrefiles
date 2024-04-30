@@ -1,0 +1,16 @@
+{
+  "$id": "873133",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Over 100 dancers and musicians bring Nutcracker to life with exquisite dancing, beautiful sets and Tchaikovsky\u0027s popular score played live.",
+    "c_show": [
+      "87313"
+    ],
+    "c_type": "SHOW",
+    "name": "Who is in Nutcracker?",
+    "question": "Who is in Nutcracker?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

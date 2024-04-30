@@ -1,0 +1,16 @@
+{
+  "$id": "2050092",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The People, Places and Things running time is 2 hours 20 minutes, including interval.",
+    "c_show": [
+      "205009"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is People, Places and Things and when does it finish?",
+    "question": "How long is People, Places and Things and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

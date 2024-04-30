@@ -1,0 +1,16 @@
+{
+  "$id": "1531691",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "A Chorus Line is playing at Sadler Well\u0027s Theatre.",
+    "c_show": [
+      "153169"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is A Chorus Line playing?",
+    "question": "Where is A Chorus Line playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

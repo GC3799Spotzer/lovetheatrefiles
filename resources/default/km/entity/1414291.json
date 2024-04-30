@@ -1,0 +1,16 @@
+{
+  "$id": "1414291",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Wizard of Oz is playing at the Gillian Lynne Theatre.",
+    "c_show": [
+      "141429"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is The Wizard of Oz playing?",
+    "question": "Where is The Wizard of Oz playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

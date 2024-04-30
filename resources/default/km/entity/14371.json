@@ -1,0 +1,57 @@
+{
+  "$id": "14371",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "drama",
+      "limited run",
+      "matinee",
+      "shakespeare",
+      "sunday shows",
+      "plays"
+    ],
+    "c_venueAddress": "21 New Globe Walk, London SE1 9DT",
+    "c_venueName": "Globe Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/antony-cleopatra-tickets/",
+    "name": "Antony \u0026 Cleopatra",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "12"
+    },
+    "primaryPhoto": {
+      "description": "For the first time in ten years, ANTONY \u0026 CLEOPATRA, Shakespeare’s epic story of love, duty, and power unfolds in Shakespeare’s Globe Theatre in a ground-breaking bilingual production using Spoken English and British Sign Language.\nWhen Roman general Antony falls for Egyptian queen Cleopatra, the future of their two countries hangs in the balance… Blanche McIntyre (Measure for Measure; Twelfth Night: For One Night Only, Globe) directs Shakespeare’s blockbuster clash of cultures, with Charlotte Arrowsmith as Associate Director and Nadia Nadarajah as Cleopatra in a ground-breaking bilingual production using Spoken English and British Sign Language.\n‘Eternity was in our lips and eyes’ Act I, scene 3\nAll performances of ANTONY \u0026 CLEOPATRA will be captioned. The creative team of deaf and hearing artists and consultants will begin the creation process for the production in the spring. The Globe will therefore be able to provide further information on the creative integration of both British Sign Language and Spoken English in due course.\nBook your ANTONY \u0026 CLEOPATRA theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/02/Globe_Antony-Cleopatra_LoveTheatre_1080-x-1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/tOUgcuK7aV-JuTKMXIqZjX01oipGDntEh1fpQDG69jo/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/tOUgcuK7aV-JuTKMXIqZjX01oipGDntEh1fpQDG69jo/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/tOUgcuK7aV-JuTKMXIqZjX01oipGDntEh1fpQDG69jo/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/tOUgcuK7aV-JuTKMXIqZjX01oipGDntEh1fpQDG69jo/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/tOUgcuK7aV-JuTKMXIqZjX01oipGDntEh1fpQDG69jo/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

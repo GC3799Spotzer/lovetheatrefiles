@@ -1,0 +1,16 @@
+{
+  "$id": "4094",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Six is written by Toby Marlow and Lucy Moss, and is directed by Lucy Moss and Jamie Armitage.",
+    "c_show": [
+      "409"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Six?",
+    "question": "Who wrote Six?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

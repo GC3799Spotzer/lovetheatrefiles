@@ -1,0 +1,17 @@
+{
+  "$id": "4423971281554",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eAll our affiliates run on the Industry Leading Partnerize Platform. There are just a few simple clicks to apply. Once you are accepted you can start referring and selling straight away!\u003c/p\u003e\n\u003cp\u003eVisit our \u003ca href\u003d\"https://www.atgtickets.com/help/affiliates/\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e\u003cstrong\u003eAffiliates page\u003c/strong\u003e\u003c/a\u003e to learn more.  \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/4423971281554-How-do-I-apply-to-become-an-Affiliate",
+    "name": "How do I apply to become an Affiliate?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

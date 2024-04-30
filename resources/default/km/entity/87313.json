@@ -1,0 +1,55 @@
+{
+  "$id": "87313",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs (incl. interval)",
+    "c_showType": "Dance \u0026 Opera",
+    "c_tags": [
+      "dance opera",
+      "matinee",
+      "sunday shows"
+    ],
+    "c_venueAddress": "St Martin\u0027s Ln, Charing Cross, London WC2N 4ES",
+    "c_venueName": "London Coliseum",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/nutcracker-tickets/",
+    "name": "Nutcracker",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "20.7"
+    },
+    "primaryPhoto": {
+      "description": "A magical Christmas tradition for all the family – in a brand-new production for 2024\nThis festive season, join Clara on a fantastical adventure where anything is possible. Embark on a journey full of colour and wonder as English National Ballet brings NUTCRACKER to life with over 100 dancers and musicians at the London Coliseum.\nChoreographed by English National Ballet’s Artistic Director, Aaron S. Watkin, and Olivier Award-winner Arielle Smith, this new re-telling of the classic festive ballet combines exquisite dancing with spectacular sets and costumes designed by Dick Bird. English National Ballet Philharmonic perform Tchaikovsky’s iconic score live.\nFrom the orchestra warming up, to the final bows and applause, English National Ballet’s new NUTCRACKER is an unforgettable treat for audiences of all ages. Be amongst the first to see it at the London Coliseum this festive season.\nBuy your NUTCRACKER tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2021/04/ENB_Nutcracker2024_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/0_jfVBpMzvCFoH-0owtC5xXWnDymCQURV49Yj9JxIDQ/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/0_jfVBpMzvCFoH-0owtC5xXWnDymCQURV49Yj9JxIDQ/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/0_jfVBpMzvCFoH-0owtC5xXWnDymCQURV49Yj9JxIDQ/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/0_jfVBpMzvCFoH-0owtC5xXWnDymCQURV49Yj9JxIDQ/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/0_jfVBpMzvCFoH-0owtC5xXWnDymCQURV49Yj9JxIDQ/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

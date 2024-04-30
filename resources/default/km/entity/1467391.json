@@ -1,0 +1,16 @@
+{
+  "$id": "1467391",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Mind Mangler: Member of the Tragic Circle is playing at the Apollo Theatre.",
+    "c_show": [
+      "146739"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Mind Mangler: Member of the Tragic Circle playing?",
+    "question": "Where is Mind Mangler: Member of the Tragic Circle playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

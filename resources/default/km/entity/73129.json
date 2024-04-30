@@ -1,0 +1,57 @@
+{
+  "$id": "73129",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 30mins (incl. interval)",
+    "c_showType": "Musical",
+    "c_tags": [
+      "award winning",
+      "critically acclaimed",
+      "matinee",
+      "sunday shows",
+      "musicals"
+    ],
+    "c_venueAddress": "29 Shaftesbury Ave, Soho, London W1D 7ES",
+    "c_venueName": "Lyric Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/hadestown-tickets/",
+    "name": "Hadestown",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "25"
+    },
+    "primaryPhoto": {
+      "description": "Nominated for Best Musical Revival at the Olivier Awards 2024\nWELCOME TO HADESTOWN, WHERE A SONG CAN CHANGE YOUR FATE.\nHADESTOWN, the record-breaking sensation by singer-songwriter Anaïs Mitchell and director Rachel Chavkin is now playing to critical acclaim at the Lyric Theatre, London.\n‘Big, beautiful and emotionally blasting’ (The Guardian), HADESTOWN  is the winner of 8 Tony Awards including Best Musical and the Grammy Award for Best Musical Theatre Album. Seen by three million, streamed by over 350 million and adored by fans around the world, this sensational musical is ‘the most exhilarating ride’ (WhatsOnStage).\nThe London production of HADESTOWN stars Dónal Finn as Orpheus, Grace Hodgett Young as Eurydice, Zachary James as Hades, Melanie La Barrie as Hermes, Gloria Onitiri as Persephone, and Bella Brown, Madeline Charlemagne and Allie Daniel as the Fates.\nA deeply resonant and defiantly hopeful theatrical experience, HADESTOWN invites you to imagine how the world could be.\nBook your HADESTOWN theatre tickets with LOVEtheatre today! ",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/09/Hades24_Post_1080x1080_R2_2.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/lzYX22yzjag4WgcE-I5QIbsSAfxWZBktj6Q9FPw4w6o/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/lzYX22yzjag4WgcE-I5QIbsSAfxWZBktj6Q9FPw4w6o/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/lzYX22yzjag4WgcE-I5QIbsSAfxWZBktj6Q9FPw4w6o/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/lzYX22yzjag4WgcE-I5QIbsSAfxWZBktj6Q9FPw4w6o/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/lzYX22yzjag4WgcE-I5QIbsSAfxWZBktj6Q9FPw4w6o/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

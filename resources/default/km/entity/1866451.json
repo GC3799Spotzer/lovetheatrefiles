@@ -1,0 +1,16 @@
+{
+  "$id": "1866451",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Harry Clarke is playing at the Ambassadors Theatre.",
+    "c_show": [
+      "186645"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Harry Clarke playing?",
+    "question": "Where is Harry Clarke playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

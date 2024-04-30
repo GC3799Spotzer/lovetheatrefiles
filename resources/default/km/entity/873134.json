@@ -1,0 +1,16 @@
+{
+  "$id": "873134",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Only children aged 5+ are allowed in the auditorium.",
+    "c_show": [
+      "87313"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Nutcracker?",
+    "question": "What is the age guidance for Nutcracker?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

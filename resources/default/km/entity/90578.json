@@ -1,0 +1,56 @@
+{
+  "$id": "90578",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "1hr 20mins (no interval)",
+    "c_showType": "Musical",
+    "c_tags": [
+      "critically acclaimed",
+      "special offers",
+      "sunday shows",
+      "musicals"
+    ],
+    "c_venueAddress": "6-7 Great Newport Street, Leicester Square, London, WC2H 7JB",
+    "c_venueName": "Arts Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-choir-of-man-tickets/",
+    "name": "The Choir of Man",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "30"
+    },
+    "primaryPhoto": {
+      "description": "The smash-hit, Olivier nominated show THE CHOIR OF MAN has returned to The Arts Theatre until September 2024 due to phenomenal demand!\nThe multi-talented cast of nine guys combine beautiful harmonies and foot-stomping singalongs with world-class tap dance and poetic meditations on the power of community. This is a riotously feel-good homage to that gathering place we all love: the pub. With a real working bar on stage, come ready to drink in the action!\nBook your THE CHOIR OF MAN tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2021/06/7487_09_CoM_agent_1080x1080px_v2.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/HDlla2k1C-swzuHem8LQQat4WBmwXPvWURnJg0kqZS4/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/HDlla2k1C-swzuHem8LQQat4WBmwXPvWURnJg0kqZS4/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/HDlla2k1C-swzuHem8LQQat4WBmwXPvWURnJg0kqZS4/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/HDlla2k1C-swzuHem8LQQat4WBmwXPvWURnJg0kqZS4/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/HDlla2k1C-swzuHem8LQQat4WBmwXPvWURnJg0kqZS4/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

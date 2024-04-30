@@ -1,0 +1,42 @@
+{
+  "$id": "132882",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/tammy-faye-tickets/",
+    "name": "Tammy Faye",
+    "primaryPhoto": {
+      "description": "The Almeida Theatre production of TAMMY FAYE is coming to London this winter.\nThis new musical by Elton John, with lyrics by Scissor Sisters\u0026#8217; Jake Shears, will be directed by Almeida Artistic Director Rupert Goold. Based on the book by award-winning writer James Graham (Ink, BBC’s Sherwood), TAMMY FAYE will showcase the acting talents of Olivier Award-winning actress Katie Brayben (Beautiful) in the titular role of Tammy Faye, and Tony Award-nominated actor Andrew Rannells (The Book of Mormon, Girls) as Jim Bakker.\nSee religion revolutionised in this true story about faith, resilience, and staying true to what\u0026#8217;s in your heart. God bless Tammy Faye!\nSign up to hear more about TAMMY FAYE theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/08/comingsoonshowtile_1080x1080-6.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/vbCi14C6nfmv3hpW90OCG42Ep61PA_F4CWaf1lEnp9w/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/vbCi14C6nfmv3hpW90OCG42Ep61PA_F4CWaf1lEnp9w/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/vbCi14C6nfmv3hpW90OCG42Ep61PA_F4CWaf1lEnp9w/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/vbCi14C6nfmv3hpW90OCG42Ep61PA_F4CWaf1lEnp9w/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/vbCi14C6nfmv3hpW90OCG42Ep61PA_F4CWaf1lEnp9w/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

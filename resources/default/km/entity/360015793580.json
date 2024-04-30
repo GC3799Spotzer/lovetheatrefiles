@@ -1,0 +1,17 @@
+{
+  "$id": "360015793580",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eFor most shows, you will receive your tickets attached to the confirmation email that is usually sent within 24 hours of your purchase. \u003c/p\u003e\n\u003cp\u003eOn the confirmation email, there will be the option to download your eTickets by clicking the pink \"Download Tickets\" button under your booking details. This will then open your eTickets in a separate file with the unique barcode to be scanned for entry. \u003c/p\u003e\n\u003cp\u003eIf you don\u0027t have your tickets within 48 hours of your purchase, please \u003cstrong\u003e\u003ca href\u003d\"https://help.lovetheatre.com/hc/en-gb/requests/new?ticket_form_id\u003d360000861259\" target\u003d\"_blank\" rel\u003d\"noreferrer noopener\"\u003eContact Us. \u003c/a\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003ePlease note that if you have purchased tickets for one of the Nimax Theatres listed below, your eTickets will be issued in a separate email 48 hours prior to the show by the venue directly. \u003c/p\u003e\n\u003cp\u003eApollo Theatre\u003c/p\u003e\n\u003cp\u003eDuchess Theatre\u003c/p\u003e\n\u003cp\u003eGarrick Theatre\u003c/p\u003e\n\u003cp\u003eLyric Theatre\u003c/p\u003e\n\u003cp\u003ePalace Theatre\u003c/p\u003e\n\u003cp\u003eVaudeville Theatre\u003c/p\u003e\n\u003cp\u003eIf you have not received your eTickets prior to the performance, please go to the venues box office with your booking reference, where their team will be able to help re-issue your tickets. \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/360015793580-When-will-I-receive-my-tickets",
+    "name": "When will I receive my tickets?",
+    "promoted": false,
+    "voteCount": 46,
+    "voteSum": 6
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

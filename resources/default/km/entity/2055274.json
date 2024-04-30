@@ -1,0 +1,16 @@
+{
+  "$id": "2055274",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "LOVEtheatre has not been informed of the writer of this show.",
+    "c_show": [
+      "205527"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Jonathan Pie: Heroes and Villains?",
+    "question": "Who wrote Jonathan Pie: Heroes and Villains?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

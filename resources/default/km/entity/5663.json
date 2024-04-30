@@ -1,0 +1,16 @@
+{
+  "$id": "5663",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Everybody\u0027s Talking About Jamie is recommended for ages 12+. This performance contains haze, flashing lights, some strong language and adult themes including bullying and discrimination (parental discretion advised).",
+    "c_show": [
+      "566"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Everybody\u0027s Talking About Jamie?",
+    "question": "What is the age guidance for Everybody\u0027s Talking About Jamie?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

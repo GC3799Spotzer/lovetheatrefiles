@@ -1,0 +1,16 @@
+{
+  "$id": "731292",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Hadestown running time is 2 hours 30 minutes, including interval.",
+    "c_show": [
+      "73129"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Hadestown and when does it finish?",
+    "question": "How long is Hadestown and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

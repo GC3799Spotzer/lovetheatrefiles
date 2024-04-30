@@ -1,0 +1,16 @@
+{
+  "$id": "1781831",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Priscilla The Party! is playing at HERE at Outernet.",
+    "c_show": [
+      "178183"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Priscilla The Party! playing?",
+    "question": "Where is Priscilla The Party! playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

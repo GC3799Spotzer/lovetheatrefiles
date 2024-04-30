@@ -1,0 +1,16 @@
+{
+  "$id": "905782",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Choir of Man is 1 hour 20 minutes, with no interval.",
+    "c_show": [
+      "90578"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is The Choir of Man and when does it finish?",
+    "question": "How long is The Choir of Man and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

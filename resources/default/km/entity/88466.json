@@ -1,0 +1,42 @@
+{
+  "$id": "88466",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-cher-show-tickets/",
+    "name": "The Cher Show",
+    "primaryPhoto": {
+      "description": "To book tickets for THE CHER SHOW through our friends at ATG Tickets, click here.\nSix decades of stardom, over a hundred million records sold. Legend, icon, Queen. She is Cher and this is her show.\nGoddess warrior of pop turned Hollywood royalty, the Grammy®, Oscar®, Emmy® and Golden Globe® award-winning Queen of re-invention has conquered it all. It’s now time to turn back time with this fiercely fabulous kick-ass new musical, from the writer of Jersey Boys, to honour the original Queen of sass – the inimitable Cher.\nWritten by Tony award-winning Rick Elice (Jersey Boys), this brand new UK production is directed by Arlene Phillips (Grease, Starlight Express), choreographed by Oti Mabuse (double Strictly winner) with costumes by Gabriella Slade (Spice World Tour, SIX).\nSign up to hear the latest THE CHER SHOW news from LOVEtheatre today! ",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2021/05/TheCherShow_Title1_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/6xS8qN5y7LVazYNjyxHEXV8JpuBqWMJN0Dw0v1cEQn0/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/6xS8qN5y7LVazYNjyxHEXV8JpuBqWMJN0Dw0v1cEQn0/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/6xS8qN5y7LVazYNjyxHEXV8JpuBqWMJN0Dw0v1cEQn0/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/6xS8qN5y7LVazYNjyxHEXV8JpuBqWMJN0Dw0v1cEQn0/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/6xS8qN5y7LVazYNjyxHEXV8JpuBqWMJN0Dw0v1cEQn0/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

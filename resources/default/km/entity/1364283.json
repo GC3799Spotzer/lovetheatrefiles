@@ -1,0 +1,16 @@
+{
+  "$id": "1364283",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The age guidance for QUEENZ: The Show with BALLS! is 14+",
+    "c_show": [
+      "136428"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for QUEENZ: The Show with BALLS!?",
+    "question": "What is the age guidance for QUEENZ: The Show with BALLS!?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

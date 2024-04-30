@@ -1,0 +1,16 @@
+{
+  "$id": "1516784",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Long Day\u0027s Journey Into Night is written by Eugene O\u0027Neill",
+    "c_show": [
+      "151678"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Long Day’s Journey Into Night?",
+    "question": "Who wrote Long Day’s Journey Into Night?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

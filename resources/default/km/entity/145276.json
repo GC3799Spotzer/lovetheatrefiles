@@ -1,0 +1,42 @@
+{
+  "$id": "145276",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/witches-of-oz-tickets/",
+    "name": "Witches of Oz",
+    "primaryPhoto": {
+      "description": "Following the success of Mulan Rouge, ShayShay invites you to join another immersive theatre experience at The Vaults until January 2023. Enjoy a cabaret and feast inspired by L. Frank Baum\u0026#8217;s classic world of witches, rainbows and magical slippers.\nIt\u0026#8217;s Good vs. Wicked in The Emerald City. A fierce battle is about to take place to decide who will be crowned the next Witch of Oz. As a citizen of the Emerald City you have been invited to cast your vote and join us at the Wonderful Feast of Oz.\nBook your WITCHES OF OZ theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/12/MicrosoftTeams-image.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/pVjEgQrrlh0Mh3IV_tFcWDEvENcj2HlGVzA4g8KcBQM/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/pVjEgQrrlh0Mh3IV_tFcWDEvENcj2HlGVzA4g8KcBQM/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/pVjEgQrrlh0Mh3IV_tFcWDEvENcj2HlGVzA4g8KcBQM/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/pVjEgQrrlh0Mh3IV_tFcWDEvENcj2HlGVzA4g8KcBQM/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/pVjEgQrrlh0Mh3IV_tFcWDEvENcj2HlGVzA4g8KcBQM/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

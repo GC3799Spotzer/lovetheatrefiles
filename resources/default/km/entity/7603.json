@@ -1,0 +1,16 @@
+{
+  "$id": "7603",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The ROMEO \\\u0026 JULIET age guidance is 12+. This production contains scenes that some members may find upsetting.",
+    "c_show": [
+      "760"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for ROMEO \u0026 JULIET?",
+    "question": "What is the age guidance for ROMEO \u0026 JULIET?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

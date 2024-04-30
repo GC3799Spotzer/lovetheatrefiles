@@ -1,0 +1,16 @@
+{
+  "$id": "4673",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The age guidance for Matilda The Musical is 6+. Please note that Babes\\-in\\-arms will not be admitted to the auditorium",
+    "c_show": [
+      "467"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Matilda The Musical?",
+    "question": "What is the age guidance for Matilda The Musical?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

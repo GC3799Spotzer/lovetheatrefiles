@@ -1,0 +1,42 @@
+{
+  "$id": "90853",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-snowman-tickets/",
+    "name": "The Snowman",
+    "primaryPhoto": {
+      "description": "Delighting audiences for 25 years, this magical stage adaption of Raymond Briggs’ much-loved book THE SNOWMAN, and the film directed by Dianne Jackson and produced by John Coates, has transported a generation of children and their families into the wintery wonderland of a boy and a snowman that comes to life.\nWith music and lyrics by Howard Blake, including Walking in the Air, choreography by Robert North, directed by Bill Alexander, alongside Ruari Murchison’s enchanting design combined with Tim Mitchell’s spectacular lighting, THE SNOWMAN continues to enchant audiences with a captivating mix of dance, live music, storytelling, spectacle and magic.\nBook your THE SNOWMAN theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2021/06/swp_agentassets_lovetheatre_thesnowman_2022_1080x1080_v1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/FP4pIXalVYVYUZbD-W93UidJ8fkXJoF0CvJ6VWyR_Xc/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/FP4pIXalVYVYUZbD-W93UidJ8fkXJoF0CvJ6VWyR_Xc/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/FP4pIXalVYVYUZbD-W93UidJ8fkXJoF0CvJ6VWyR_Xc/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/FP4pIXalVYVYUZbD-W93UidJ8fkXJoF0CvJ6VWyR_Xc/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/FP4pIXalVYVYUZbD-W93UidJ8fkXJoF0CvJ6VWyR_Xc/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

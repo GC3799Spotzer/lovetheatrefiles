@@ -1,0 +1,16 @@
+{
+  "$id": "2023692",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "LOVEtheatre has not been informed of a running time for this show.",
+    "c_show": [
+      "202369"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Power of Sail and when does it finish?",
+    "question": "How long is Power of Sail and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

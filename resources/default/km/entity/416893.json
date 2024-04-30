@@ -1,0 +1,16 @@
+{
+  "$id": "416893",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "LOVEtheatre has not been advised of age guidance for this exhibition.",
+    "c_show": [
+      "41689"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for The Art of Banksy?",
+    "question": "What is the age guidance for The Art of Banksy?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

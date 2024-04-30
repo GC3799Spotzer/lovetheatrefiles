@@ -1,0 +1,54 @@
+{
+  "$id": "90132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "1 hour 15 minutes",
+    "c_showType": "Event",
+    "c_tags": [
+      "comedy",
+      "events",
+      "limited run"
+    ],
+    "c_venueAddress": "6 Walker\u0027s Ct, London W1F 0BT",
+    "c_venueName": "Underbelly Boulevard Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/london-comedy-allstars-tickets/",
+    "name": "London Comedy Allstars",
+    "price": {
+      "currencyCode": "GBP"
+    },
+    "primaryPhoto": {
+      "description": "Join us at Underbelly Boulevard for a huge line up of the best comedy talent on offer. LONDON COMEDY ALLSTARS is your one-stop shop for the biggest laughs, the best location and your new favourite summer night out.\nPrevious performers have included: Ed Gamble, Jamali Maddix, Sophie Duker, Rachel Fairburn, Ahir Shah, Sindhu Vee, Kae Kurd, Fern Brady, Nina Conti, Phil Wang, Kiri Pritchard- McClean, Dane Baptiste and Stuart Goldsmith.\nBook your LONDON COMEDY ALLSTARS tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2021/06/London_Comedy_Allstars_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/hEpgPttsfpUMvxgv-08sf_B32gIKWNXK9PCApIzd7Fg/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/hEpgPttsfpUMvxgv-08sf_B32gIKWNXK9PCApIzd7Fg/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/hEpgPttsfpUMvxgv-08sf_B32gIKWNXK9PCApIzd7Fg/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/hEpgPttsfpUMvxgv-08sf_B32gIKWNXK9PCApIzd7Fg/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/hEpgPttsfpUMvxgv-08sf_B32gIKWNXK9PCApIzd7Fg/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

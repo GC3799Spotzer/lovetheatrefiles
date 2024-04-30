@@ -1,0 +1,53 @@
+{
+  "$id": "168517",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Event",
+    "c_tags": [
+      "concert",
+      "events"
+    ],
+    "c_venueAddress": "411-412 Strand, London, WC2R 0NS",
+    "c_venueName": "Adelphi Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/go-your-own-way-tickets/",
+    "name": "Go Your Own Way",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "37.44"
+    },
+    "primaryPhoto": {
+      "description": "Following sold out performances across the UK, GO YOUR OWN WAY, the spellbinding show featuring the music from the legendary multiple Grammy Award Winning Fleetwood Mac – will debut in the West End at the Adelphi Theatre for the very first time this December!\nTheir rock ‘n’ roll legacy is beautifully performed in this popular touring show, by a highly talented and acclaimed ensemble of musicians who will take audiences on a powerful journey through their incredible song book.\nWith hits including Dreams, Don’t Stop, Everywhere, Rhiannon, Songbird, Little Lies, Big Love and many more.\nBook your GO YOUR OWN WAY theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/07/comingsoonshowtile_1080x1080_Go-Your-Own-Way.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/bS4Wzr_wJ8M2U5-J9Pes49OHsEzJHiD8plH0ocIfcgU/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/bS4Wzr_wJ8M2U5-J9Pes49OHsEzJHiD8plH0ocIfcgU/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/bS4Wzr_wJ8M2U5-J9Pes49OHsEzJHiD8plH0ocIfcgU/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/bS4Wzr_wJ8M2U5-J9Pes49OHsEzJHiD8plH0ocIfcgU/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/bS4Wzr_wJ8M2U5-J9Pes49OHsEzJHiD8plH0ocIfcgU/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

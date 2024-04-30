@@ -1,0 +1,16 @@
+{
+  "$id": "191203",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The age guidance for Frozen The Musical is 6+. Children under the age of 4, this includes babes in arms, will not be admitted into the theatre.",
+    "c_show": [
+      "19120"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Frozen The Musical?",
+    "question": "What is the age guidance for Frozen The Musical?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

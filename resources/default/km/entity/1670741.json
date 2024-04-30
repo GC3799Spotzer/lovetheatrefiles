@@ -1,0 +1,16 @@
+{
+  "$id": "1670741",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "UK Pink Floyd Experience is playing at the Dominion Theatre.",
+    "c_show": [
+      "167074"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is UK Pink Floyd Experience playing?",
+    "question": "Where is UK Pink Floyd Experience playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

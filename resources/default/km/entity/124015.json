@@ -1,0 +1,42 @@
+{
+  "$id": "124015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/swan-lake-tickets/",
+    "name": "Swan Lake",
+    "primaryPhoto": {
+      "description": "The world’s most famous ballet returns to cast its spell in English National Ballet’s stunning production of SWAN LAKE at the London Coliseum.\nBeloved for its superb dancing, beautiful sets and Tchaikovsky’s glorious music, played live by English National Ballet Philharmonic, Derek Deane’s SWAN LAKE is a thrill for the dedicated fan or first-time ballet-goer.\nThe magical Christmas tradition for all the family \u0026#8211; book your SWAN LAKE tickets now through LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/04/Swan-Lake-1080x1080-1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/KSvfvLEnBSnKQhu4TdjISXOojakIjO_HjpNE-cPNbgY/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/KSvfvLEnBSnKQhu4TdjISXOojakIjO_HjpNE-cPNbgY/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/KSvfvLEnBSnKQhu4TdjISXOojakIjO_HjpNE-cPNbgY/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/KSvfvLEnBSnKQhu4TdjISXOojakIjO_HjpNE-cPNbgY/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/KSvfvLEnBSnKQhu4TdjISXOojakIjO_HjpNE-cPNbgY/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

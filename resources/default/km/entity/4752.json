@@ -1,0 +1,16 @@
+{
+  "$id": "4752",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Book of Mormon has a run time of 2 hours and 30 minutes, including a 15 minute interval. For a 7:30PM performance, the show will finish at roughly 10:00PM. For a 2:30PM performance, the show will finish at roughly 5:00PM.",
+    "c_show": [
+      "475"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is The Book of Mormon and when does it finish?",
+    "question": "How long is The Book of Mormon and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

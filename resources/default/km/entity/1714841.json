@@ -1,0 +1,16 @@
+{
+  "$id": "1714841",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Dr. Strangelove is playing at the Noel Coward Theatre",
+    "c_show": [
+      "171484"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Dr. Strangelove playing?",
+    "question": "Where is Dr. Strangelove playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

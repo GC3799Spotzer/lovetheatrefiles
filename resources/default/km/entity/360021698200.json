@@ -1,0 +1,17 @@
+{
+  "$id": "360021698200",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eLOVEtheatre is proudly owned and operated by The Ticket Machine Group Ltd, a multi award winning, London based ticket agency, acquired by The Ambassador Theatre Group Ltd (ATG), the world’s number one live-theatre group.\u003c/p\u003e\n\u003cp\u003eSince our company’s creation in 1991, we have grown to be one of the most highly respected ticket agencies in the UK, selling over 750,000 tickets each year through our extensive, top-quality allocations. We are an official agent for booking London theatre tickets, featuring exclusive ticket allocations for each major venue and for the most popular London shows, events and attractions.\u003c/p\u003e\n\u003cp\u003eWe are a full board member of STAR (The Society of Ticket Agents and Retailers).\u003c/p\u003e\n\u003cp\u003eFamed for our approach to customer service, LOVEtheatre customers can always be assured of a safe, secure, and relaxed ticket buying experience.\u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/360021698200-Are-LOVEtheatre-legit",
+    "name": "Are LOVEtheatre legit?",
+    "promoted": false,
+    "voteCount": 5,
+    "voteSum": 1
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

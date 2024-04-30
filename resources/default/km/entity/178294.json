@@ -1,0 +1,55 @@
+{
+  "$id": "178294",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "a list star",
+      "limited run",
+      "matinee",
+      "plays"
+    ],
+    "c_venueAddress": "14 Whitehall, Charing Cross, London SW1A 2DY",
+    "c_venueName": "Trafalgar Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/a-mirror-tickets/",
+    "name": "A Mirror",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "28.5"
+    },
+    "primaryPhoto": {
+      "description": "Nominated for Best Actress in a Supporting Role (Tanya Reynolds) at the Olivier Awards 2024\nSam Holcroft‘s unmissable and darkly comic play A MIRROR is playing at the West End’s Trafalgar Theatre for a strictly limited season!\nDirected by Jeremy Herrin, award-winning actors Jonny Lee Miller (Trainspotting) and Tanya Reynolds (Sex Education) star in the “extraordinary and mesmeric” A MIRROR, now playing on London’s West End following an acclaimed sell-out run at the Almeida Theatre.\n\nDon’t miss this thrilling and “brilliantly mischievous” new play at the Trafalgar Theatre. Performances must end on the 20th April.\nBook your A MIRROR theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/11/1080-x-1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/vtez87LvfECYir0BSi6IYpq2uE6s0ZBOqY7s4kWhdiA/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/vtez87LvfECYir0BSi6IYpq2uE6s0ZBOqY7s4kWhdiA/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/vtez87LvfECYir0BSi6IYpq2uE6s0ZBOqY7s4kWhdiA/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/vtez87LvfECYir0BSi6IYpq2uE6s0ZBOqY7s4kWhdiA/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/vtez87LvfECYir0BSi6IYpq2uE6s0ZBOqY7s4kWhdiA/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "3855",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The composer for Wicked is Stephen Schwartz. He has also written the music for Godspell, Pippin, and the lyrics for the films of Pocahontas, The Hunchback of Notre Dame, Prince of Egypt, and Enchanted. Schwartz has won the Drama Desk Award for Outstanding Lyrics, three Grammy Awards, three Academy Awards, and has been nominated for six Tony Awards.",
+    "c_show": [
+      "385"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote the music for Wicked?",
+    "question": "Who wrote the music for Wicked?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

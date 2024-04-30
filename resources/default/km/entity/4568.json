@@ -1,0 +1,16 @@
+{
+  "$id": "4568",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The age guidance for Mamma Mia! is 5+.",
+    "c_show": [
+      "456"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Mamma Mia!?",
+    "question": "What is the age guidance for Mamma Mia!?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

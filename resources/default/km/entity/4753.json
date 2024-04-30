@@ -1,0 +1,16 @@
+{
+  "$id": "4753",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Book of Mormon is currently playing an open\\-ended run.",
+    "c_show": [
+      "475"
+    ],
+    "c_type": "SHOW",
+    "name": "How long will The Book of Mormon play in London?",
+    "question": "How long will The Book of Mormon play in London?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

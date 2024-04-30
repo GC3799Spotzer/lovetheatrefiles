@@ -1,0 +1,17 @@
+{
+  "$id": "4414525663634",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eYou will receive your eVoucher via the email you use in the checkout process. Please make sure to check your spam/junk folders if the email doesn’t arrive in your inbox. \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/4414525663634-How-do-I-receive-my-gift-voucher",
+    "name": "How do I receive my gift voucher?",
+    "promoted": false,
+    "voteCount": 2,
+    "voteSum": 2
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

@@ -1,0 +1,55 @@
+{
+  "$id": "202879",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2 hours, incl interval",
+    "c_showType": "Play",
+    "c_tags": [
+      "comedy",
+      "limited run",
+      "plays"
+    ],
+    "c_venueAddress": "35 Park Rd, London NW1 6XT",
+    "c_venueName": "Marylebone Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-government-inspector-tickets/",
+    "name": "The Government Inspector",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "24.71"
+    },
+    "primaryPhoto": {
+      "description": "Don’t miss Nikolai Gogol‘s masterful comedy THE GOVERNMENT INSPECTOR at London’s Marylebone Theatre for a limited time in 2024!\nTHE GOVERNMENT INSPECTOR is a comedy about hypocrites, hysterics and hustlers, exploring how corrupt power destroys itself, exposing the tragi-comic consequences of collective delusion and the swindlers who would exploit it.\n“There’s no money in honesty!”\nBook your THE GOVERNMENT INSPECTOR theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2024/02/1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/JFYIAYRqmXeVgthKicweM9BPGMF-JLH4-ILB_cpl9Wc/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/JFYIAYRqmXeVgthKicweM9BPGMF-JLH4-ILB_cpl9Wc/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/JFYIAYRqmXeVgthKicweM9BPGMF-JLH4-ILB_cpl9Wc/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/JFYIAYRqmXeVgthKicweM9BPGMF-JLH4-ILB_cpl9Wc/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/JFYIAYRqmXeVgthKicweM9BPGMF-JLH4-ILB_cpl9Wc/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

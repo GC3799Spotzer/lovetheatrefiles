@@ -1,0 +1,16 @@
+{
+  "$id": "884712",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Cabaret is 2 hours 45 minutes (inl. interval). Performances starting at 2:00pm finish at approx. 4:45pm, and performances starting at 7:30pm finish at approx. 10:15pm.",
+    "c_show": [
+      "88471"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Cabaret and when does it finish?",
+    "question": "How long is Cabaret and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

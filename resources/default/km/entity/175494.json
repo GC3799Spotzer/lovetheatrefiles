@@ -1,0 +1,55 @@
+{
+  "$id": "175494",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Event",
+    "c_tags": [
+      "concert",
+      "events",
+      "limited run",
+      "sunday shows"
+    ],
+    "c_venueAddress": "268-269 Tottenham Court Rd, Fitzrovia, London W1T 7AQ",
+    "c_venueName": "Dominion Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/some-guys-have-all-the-luck-tickets/",
+    "name": "Some Guys Have All The Luck",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "23.75"
+    },
+    "primaryPhoto": {
+      "description": "Rod Stewart tribute act SOME GUYS HAVE ALL THE LUCK is coming to the Dominion Theatre for one night only in April.\nFrom his early rock anthems like Maggie May and Stay With Me to the smooth ballads such as Have I Told You Lately and You’re in My Heart, every song is performed with phenomenal showmanship alongside authentic costumes, dynamic live musicians and insane vocals.\nIn the words of Rod Stewart’s brother, Don Stewart – “I’ve seen some Rods in my time, but this is the best show I’ve ever seen.”\nBook your SOME GUYS HAVE ALL THE LUCK theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/10/SomeGuysHaveAllTheLuck_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/aHAbN-MxEZM9k-ZVdD4tR6Ejw2ibFUmhrU5pMH9bykg/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/aHAbN-MxEZM9k-ZVdD4tR6Ejw2ibFUmhrU5pMH9bykg/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/aHAbN-MxEZM9k-ZVdD4tR6Ejw2ibFUmhrU5pMH9bykg/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/aHAbN-MxEZM9k-ZVdD4tR6Ejw2ibFUmhrU5pMH9bykg/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/aHAbN-MxEZM9k-ZVdD4tR6Ejw2ibFUmhrU5pMH9bykg/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

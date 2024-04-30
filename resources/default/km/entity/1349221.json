@@ -1,0 +1,16 @@
+{
+  "$id": "1349221",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Best In Stand Up is playing at London\u0027s Comedy Store.",
+    "c_show": [
+      "134922"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is The Best In Stand Up playing?",
+    "question": "Where is The Best In Stand Up playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

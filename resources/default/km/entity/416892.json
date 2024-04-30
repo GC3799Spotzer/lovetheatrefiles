@@ -1,0 +1,16 @@
+{
+  "$id": "416892",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "LOVEtheatre has not been advised of a time for this exhibition.",
+    "c_show": [
+      "41689"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is The Art of Banksy and when does it finish?",
+    "question": "How long is The Art of Banksy and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

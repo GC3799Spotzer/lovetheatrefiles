@@ -1,0 +1,16 @@
+{
+  "$id": "1847771",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Red Pitch is playing at @sohoplace",
+    "c_show": [
+      "184777"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Red Pitch playing?",
+    "question": "Where is Red Pitch playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

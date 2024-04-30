@@ -1,0 +1,54 @@
+{
+  "$id": "203063",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "Approx 2 hours, incl interval",
+    "c_showType": "Dance \u0026 Opera",
+    "c_tags": [
+      "dance opera",
+      "limited run"
+    ],
+    "c_venueAddress": "Portugal St, Holborn, London WC2A 2HT",
+    "c_venueName": "Peacock Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/believe-my-life-on-stage-tickets/",
+    "name": "Believe: My Life on Stage",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "29"
+    },
+    "primaryPhoto": {
+      "description": "See Strictly Come Dancing‘s professional dancer Graziano di Prima in BELIEVE: MY LIFE ON STAGE as it comes to London’s Peacock Theatre for two performances only this spring!\nBefore the sequins and sparkles of Strictly, Sicily’s very own Billy Elliot grew up working in the vineyards with his father, dreaming that one day, he would become a dancer.\nBELIEVE: MY LIFE ON STAGE – tells Graziano’s incredible story.\nBrace yourself for an electrifying evening of Latin and Ballroom dance as he pays tribute to his Italian heritage and honours the unwavering support of his family, who never doubted his dreams. This is Graziano’s life story, told with heart and passion, and it’s happening live on stage!\nDon’t miss this breath-taking new show and book your BELIEVE: MY LIFE ON STAGE tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2024/03/BelieveMyLifeOnStage_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/Za6KynuZnfMjosZHX0N2u8UyuA5bGLXd-sjKk0uouGE/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/Za6KynuZnfMjosZHX0N2u8UyuA5bGLXd-sjKk0uouGE/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/Za6KynuZnfMjosZHX0N2u8UyuA5bGLXd-sjKk0uouGE/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/Za6KynuZnfMjosZHX0N2u8UyuA5bGLXd-sjKk0uouGE/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/Za6KynuZnfMjosZHX0N2u8UyuA5bGLXd-sjKk0uouGE/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

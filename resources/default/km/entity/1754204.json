@@ -1,0 +1,16 @@
+{
+  "$id": "1754204",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Cruel Intentions: The \u002790s Musical is created by Jordan Ross, Lindsey Rosin and Roger Kumble, and directed by Jonathan O\u0027Boyle.",
+    "c_show": [
+      "175420"
+    ],
+    "c_type": "SHOW",
+    "name": "Who wrote Cruel Intentions: The ’90s Musical?",
+    "question": "Who wrote Cruel Intentions: The ’90s Musical?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

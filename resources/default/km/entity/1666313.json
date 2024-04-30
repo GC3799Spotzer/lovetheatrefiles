@@ -1,0 +1,16 @@
+{
+  "$id": "1666313",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The age guidance for Duke Bluebeard\u0027s Castle is 12+",
+    "c_show": [
+      "166631"
+    ],
+    "c_type": "SHOW",
+    "name": "What is the age guidance for Duke Bluebeard\u0027s Castle?",
+    "question": "What is the age guidance for Duke Bluebeard\u0027s Castle?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

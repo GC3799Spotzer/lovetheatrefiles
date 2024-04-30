@@ -1,0 +1,16 @@
+{
+  "$id": "1666312",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The running time for Duke Bluebeard\u0027s Castle is 1 hour and 5 minutes.",
+    "c_show": [
+      "166631"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Duke Bluebeard\u0027s Castle and when does it finish?",
+    "question": "How long is Duke Bluebeard\u0027s Castle and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

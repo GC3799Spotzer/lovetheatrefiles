@@ -1,0 +1,42 @@
+{
+  "$id": "136580",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-jive-aces-not-quite-christmas-show-tickets/",
+    "name": "The Jive Aces NOT Quite Christmas Show",
+    "primaryPhoto": {
+      "description": "After the success of the their West End debut show in 2019, THE JIVE ACES are back with a brand new big swingin’ extravaganza at Aldwych Theatre that is their almost, but NOT QUITE CHRISTMAS SHOW! \nOn 12 December, the UK’s No.1 jive and swing band once again descend upon London\u0026#8217;s West End for an night of classic cool swing and rockin’ rhythm and blues with a few festive favourites thrown in for good measure.\nThey’ll be joined by several special guests for one almighty party channelling everything vintage cool from the Vegas showrooms to 52nd Street jazz joints and from Dean Martin to Elvis Presley.\nWhether performing for Her Majesty the Queen, selling out the Royal Albert Hall, becoming the first band to reach the finals of Britain’s Got Talent or just entertaining at one of their 250 live shows a year, they continue to prove that they are the UK’s No.1 Jive \u0026amp; Swing band!\nBook your THE JIVE ACES NOT QUITE CHRISTMAS SHOW theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/10/JiveAces_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/Vi9sa6IqxDxmk_KAdQ3rr8Eh98KGFC8_cZwSMgyU7Tg/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/Vi9sa6IqxDxmk_KAdQ3rr8Eh98KGFC8_cZwSMgyU7Tg/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/Vi9sa6IqxDxmk_KAdQ3rr8Eh98KGFC8_cZwSMgyU7Tg/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/Vi9sa6IqxDxmk_KAdQ3rr8Eh98KGFC8_cZwSMgyU7Tg/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/Vi9sa6IqxDxmk_KAdQ3rr8Eh98KGFC8_cZwSMgyU7Tg/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "5662",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Everybody\u0027s Talking About Jamie is 2 hours 40 minutes (incl. interval).",
+    "c_show": [
+      "566"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Everybody\u0027s Talking About Jamie and when does it finish?",
+    "question": "How long is Everybody\u0027s Talking About Jamie and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

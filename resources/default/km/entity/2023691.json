@@ -1,0 +1,16 @@
+{
+  "$id": "2023691",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Power of Sail is playing at Menier Chocolate Factory.",
+    "c_show": [
+      "202369"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Power of Sail playing?",
+    "question": "Where is Power of Sail playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

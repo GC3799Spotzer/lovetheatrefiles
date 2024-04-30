@@ -1,0 +1,59 @@
+{
+  "$id": "716",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 5mins (incl. interval)",
+    "c_showType": "Play",
+    "c_tags": [
+      "award winning",
+      "comedy",
+      "critically acclaimed",
+      "family friendly",
+      "kids",
+      "sunday shows",
+      "plays"
+    ],
+    "c_venueAddress": "3-5 Catherine St, Covent Garden, London WC2B 5LA",
+    "c_venueName": "Duchess Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-play-that-goes-wrong-tickets/",
+    "name": "The Play That Goes Wrong",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "25.6"
+    },
+    "primaryPhoto": {
+      "description": "The hilarious multi award-winning disaster THE PLAY THAT GOES WRONG WRONG is the longest running comedy in the West End and continues to tickle audiences after 9 smashing years at the Duchess Theatre!\nYou all know the classic whodunnit story, there has been a murder at a country manor and an inspector is set on the case to find who the culprit is. However, when this plot is given to the accident-prone thespians at The Cornley Drama Society, everything that can go wrong… does!\nThe actors and crew battle against all odds to make it through to their final curtain call, with hilarious consequences! Do you ever find out who murdered Charles Haversham? You’ll have to see for yourself!\nHailed “a gut-busting hit” by the New York Times, Mischief’s THE PLAY THAT GOES WRONG is stumbling through its eighth chaotic year and has unexpectedly received a host of celebrity endorsements from the likes of Joanna Lumley “We laughed until the tears ran down our faces, it has to be seen” to Ant \u0026 Dec “The funniest show we’ve seen! If you can get a ticket, go!”\nExperience total mayhem and enjoy the perfect slice of escapist comedy, guaranteed to leave you aching with laughter.\nDon’t miss this brilliantly funny comedy, guaranteed to leave you aching with laughter.\nBook THE PLAY THAT GOES WRONG theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/02/PT22104_Lovetheatre_Groupline_1080x1080pxls.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/5BjtU3YCmM71leXosiRt70qiU7RHIlTQOtc0UAxRHqg/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/5BjtU3YCmM71leXosiRt70qiU7RHIlTQOtc0UAxRHqg/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/5BjtU3YCmM71leXosiRt70qiU7RHIlTQOtc0UAxRHqg/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/5BjtU3YCmM71leXosiRt70qiU7RHIlTQOtc0UAxRHqg/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/5BjtU3YCmM71leXosiRt70qiU7RHIlTQOtc0UAxRHqg/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "c_show",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Show",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "maxLength": 1,
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "ce_show"
+          ],
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

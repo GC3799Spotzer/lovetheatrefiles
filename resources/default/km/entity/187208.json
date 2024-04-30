@@ -1,0 +1,54 @@
+{
+  "$id": "187208",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_showType": "Play",
+    "c_tags": [
+      "drama",
+      "limited run",
+      "plays"
+    ],
+    "c_venueAddress": "21 New Globe Walk, London SE1 9DT",
+    "c_venueName": "Globe Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/princess-essex-tickets/",
+    "name": "Princess Essex",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "12"
+    },
+    "primaryPhoto": {
+      "description": "Discover the world of Edwardian seaside beauty pageants at Shakespeare’s Globe Theatre this summer, as PRINCESS ESSEX, a new play by Anne Odeke, bursts into our iconic open-air theatre.\nA fast-paced, music-filled, empowering comedy based on the incredible true story of the first woman of colour to enter a beauty pageant in the UK. Writer and performer Anne Odeke (A Midsummer Night’s Dream, Globe) makes her Globe playwriting debut, celebrating unapologetic authenticity, audacity, and challenging the stereotypes that we still cling to.\nRobin Belfield (Twelfth Night, RSC) makes his debut at The Globe directing this inspiring story of bravery, beauty and belonging.\n‘Shall I tell you a secret? Anyone can be a Queen, but a real Queen doesn’t let the crown wear her, she wears the crown.’\nBook your PRINCESS ESSEX theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2024/01/Globe_Princess-Essex_LoveTheatre_AW_1080-x-1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/vxbzW2KZmnoywIBb7KcNS1Fq90P0qRRBe7z22D0caQI/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/vxbzW2KZmnoywIBb7KcNS1Fq90P0qRRBe7z22D0caQI/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/vxbzW2KZmnoywIBb7KcNS1Fq90P0qRRBe7z22D0caQI/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/vxbzW2KZmnoywIBb7KcNS1Fq90P0qRRBe7z22D0caQI/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/vxbzW2KZmnoywIBb7KcNS1Fq90P0qRRBe7z22D0caQI/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "360016034099",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eNo, that will not be a problem. The name of the attendee does not need to match the name printed on the ticket.\u003c/p\u003e\n\u003cp\u003eYou can forward on your eTicket to someone else, for example you purchased tickets as a gift for someone, they will have no issues with getting in, unless it has been mentioned explicitly for a specific event. \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/360016034099-My-name-is-on-the-tickets-but-someone-else-is-going-to-the-event-Will-that-be-a-problem",
+    "name": "My name is on the tickets, but someone else is going to the event. Will that be a problem?",
+    "promoted": false,
+    "voteCount": 8,
+    "voteSum": 2
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

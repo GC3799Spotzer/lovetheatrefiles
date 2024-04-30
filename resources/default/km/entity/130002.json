@@ -1,0 +1,60 @@
+{
+  "$id": "130002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "3hrs (incl. interval)",
+    "c_showType": "Play",
+    "c_tags": [
+      "critically acclaimed",
+      "drama",
+      "family friendly",
+      "half term",
+      "hot tickets",
+      "matinee",
+      "sunday shows",
+      "plays"
+    ],
+    "c_venueAddress": "Charing Cross Road, London, WC2h 0JP",
+    "c_venueName": "Phoenix Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/stranger-things-the-first-shadow-tickets/",
+    "name": "Stranger Things: The First Shadow",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "24"
+    },
+    "primaryPhoto": {
+      "description": "Nominated for Best New Entertainment or Comedy Play, Best Sound Design, Best Set Design, Best Lighting Design and Best Director at the Olivier Awards 2024\nA play based on Netflix sensation Stranger Things, STRANGER THINGS: THE FIRST SHADOW is now playing at the Phoenix Theatre in London’s West End!\nBrought to life by a multi-award-winning creative team featuring the Duffer Brothers, Kate Trefry, Jack Thorne, and direction from Stephen Daldry, this Sonia Friedman and Netflix production takes theatrical storytelling and stagecraft to a whole new level.\nSet in the fictional town of Hawkins, Indiana, STRANGER THINGS: THE FIRST SHADOW takes audiences back to the beginning of the Stranger Things story (and may hold the key to the end…)\nBook your STRANGER THINGS: THE FIRST SHADOW theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2022/07/PRJONE23_Q2_005_Groupline-1080px1080px.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/VVHMFkV4DNLywiIJwvjdtNxGWOUap6GvBLeXLAutdbw/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/VVHMFkV4DNLywiIJwvjdtNxGWOUap6GvBLeXLAutdbw/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/VVHMFkV4DNLywiIJwvjdtNxGWOUap6GvBLeXLAutdbw/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/VVHMFkV4DNLywiIJwvjdtNxGWOUap6GvBLeXLAutdbw/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/VVHMFkV4DNLywiIJwvjdtNxGWOUap6GvBLeXLAutdbw/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

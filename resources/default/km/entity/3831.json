@@ -1,0 +1,16 @@
+{
+  "$id": "3831",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Disney\u0027s The Lion King is a stage musical based on the 1994 movie of the same name. The original London production opened in 1999, and 24 years later it remains a staple of the West End.",
+    "c_show": [
+      "383"
+    ],
+    "c_type": "SHOW",
+    "name": "Is The Lion King a musical?",
+    "question": "Is The Lion King a musical?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

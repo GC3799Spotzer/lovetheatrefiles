@@ -1,0 +1,16 @@
+{
+  "$id": "4671",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Matilda The Musical is currently playing at the Cambridge Theatre. The theatre is located on Earlham Street in Covent Garden London.",
+    "c_show": [
+      "467"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Matilda The Musical playing?",
+    "question": "Where is Matilda The Musical playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

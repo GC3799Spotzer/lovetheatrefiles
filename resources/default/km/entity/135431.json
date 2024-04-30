@@ -1,0 +1,42 @@
+{
+  "$id": "135431",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/sylvia-tickets/",
+    "name": "Sylvia",
+    "primaryPhoto": {
+      "description": "SYLVIA is playing at the Old Vic Theatre from February 2023!\n\u0026#8216;Be the change that you want to see\nBe the change for you and me’\nFollowing its 2018 run as a work-in-progress, Kate Prince’s SYLVIA is back where it all began for its world premiere, uniting dance, hip hop, funk and soul to shine a light on a remarkable moment in history.\nStarring the sensational Beverley Knight as Emmeline Pankhurst and Sharon Rose as titular Sylvia Pankhurst, the world premiere of SYLVIA will showcase original music from Josh Cohen and DJ Walde, with lyrics, book, direction and choreography by Kate Prince.\nThis uplifting show is set to be a fun and energetic slice of history not to be missed!\nBook your SYLVIA theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/10/Sylvia_LoveTheatre_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/PsvZZcRigbDyG1x5Frf1Ik6vzitBj2UMwpNJ2-YBBTw/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/PsvZZcRigbDyG1x5Frf1Ik6vzitBj2UMwpNJ2-YBBTw/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/PsvZZcRigbDyG1x5Frf1Ik6vzitBj2UMwpNJ2-YBBTw/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/PsvZZcRigbDyG1x5Frf1Ik6vzitBj2UMwpNJ2-YBBTw/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/PsvZZcRigbDyG1x5Frf1Ik6vzitBj2UMwpNJ2-YBBTw/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

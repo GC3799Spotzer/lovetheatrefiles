@@ -1,0 +1,16 @@
+{
+  "$id": "6472",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Witness for the Prosecution is 2 hours 15 minutes (incl. interval). Performances starting at 2:30pm finish at approx. 4:45pm, performances starting at 3pm finish at approx. 5:15pm, and performances starting at 7:30pm finish at approx. 9:45pm.",
+    "c_show": [
+      "647"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Witness for the Prosecution and when does it finish?",
+    "question": "How long is Witness for the Prosecution and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

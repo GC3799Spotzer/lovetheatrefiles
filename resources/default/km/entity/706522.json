@@ -1,0 +1,16 @@
+{
+  "$id": "706522",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Back to the Future The Musical is currently playing at the Adelphi Theatre.",
+    "c_show": [
+      "70652"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is Back to the Future The Musical playing?",
+    "question": "Where is Back to the Future The Musical playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

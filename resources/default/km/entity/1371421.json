@@ -1,0 +1,16 @@
+{
+  "$id": "1371421",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Venue information is not currently available.",
+    "c_show": [
+      "137142"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is A View From the Bridge playing?",
+    "question": "Where is A View From the Bridge playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

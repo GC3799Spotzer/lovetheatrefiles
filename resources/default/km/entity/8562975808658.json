@@ -1,0 +1,17 @@
+{
+  "$id": "8562975808658",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003e\u003ca href\u003d\"https://www.lovetheatre.com/shows/mamma-mia-tickets/\" target\u003d\"_self\"\u003e\u003cspan class\u003d\"wysiwyg-underline\"\u003e\u003cem\u003eMamma Mia!\u003c/em\u003e\u003c/span\u003e\u003c/a\u003e The musical show ends at approximately 10.20pm Monday – Saturday, there are no performances on Sunday. Matinee performances are held on Tuesday, Thursday and Saturday. These begin at 3pm and finish at roughly 5.35pm. \u003c/p\u003e\n\u003cdiv class\u003d\"wysiwyg-text-align-center\"\u003e\u003ca class\u003d\"btn\" href\u003d\"https://www.lovetheatre.com/shows/mamma-mia-tickets/?utm_source\u003dzendesk\u0026amp;utm_medium\u003dMM\u0026amp;utm_campaign\u003dbook_tickets\"\u003eBook Tickets\u003c/a\u003e\u003c/div\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/8562975808658-What-time-does-Mamma-Mia-The-musical-end",
+    "name": "What time does Mamma Mia! The musical end?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

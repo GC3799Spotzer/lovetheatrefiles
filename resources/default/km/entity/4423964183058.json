@@ -1,0 +1,17 @@
+{
+  "$id": "4423964183058",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "\u003cp\u003eYes, you will have access to a clear and simple Publisher Portal to see what shows are selling best, so you can optimise your site. \u003c/p\u003e"
+    },
+    "landingPageUrl": "https://help.lovetheatre.com/hc/en-gb/articles/4423964183058-Can-Affiliates-see-how-they-re-performing",
+    "name": "Can Affiliates see how they\u0027re performing?",
+    "promoted": false,
+    "voteCount": 0,
+    "voteSum": 0
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

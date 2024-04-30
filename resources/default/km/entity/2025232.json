@@ -1,0 +1,16 @@
+{
+  "$id": "2025232",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "Each show lasts approximately 50 minutes but you are welcome to stay for longer.",
+    "c_show": [
+      "202523"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is The Moonwalkers - A Journey with Tom Hanks and when does it finish?",
+    "question": "How long is The Moonwalkers - A Journey with Tom Hanks and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

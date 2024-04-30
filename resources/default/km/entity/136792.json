@@ -1,0 +1,42 @@
+{
+  "$id": "136792",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-spongebob-musical-tickets/",
+    "name": "The SpongeBob Musical",
+    "primaryPhoto": {
+      "description": "THE SPONGEBOB MUSICAL is playing at the Queen Elizabeth Hall as part of its upcoming UK tour!\nBased on the series by Stephen Hillenburg, THE SPONGEBOB MUSICAL, written by Kyle Jarrow and conceived by Tina Landau, features a tidal wave of original songs by the world’s most iconic rock and pop artists, including Yolanda Adams, Steven Tyler and Joe Perry of Aerosmith, Sara Bareilles, Jonathan Coulton, Alex Ebert of Edward Sharpe \u0026amp; The Magnetic Zeros, The Flaming Lips, Lady A, Cyndi Lauper, John Legend, Panic! At the Disco, Plain White T’s, They Might Be Giants and T.I., and songs  by David Bowie, Tom Kenny and Andy Paley. Additional lyrics by Jonathan Coulton. Additional music by Tom Kitt.    \nBook your THE SPONGEBOB MUSICAL theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/10/Spongebob_1080x1080px.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/IZYZZeSfYFA6HjBsW4E4QR50WVz8JytncIARR0SKhNQ/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/IZYZZeSfYFA6HjBsW4E4QR50WVz8JytncIARR0SKhNQ/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/IZYZZeSfYFA6HjBsW4E4QR50WVz8JytncIARR0SKhNQ/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/IZYZZeSfYFA6HjBsW4E4QR50WVz8JytncIARR0SKhNQ/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/IZYZZeSfYFA6HjBsW4E4QR50WVz8JytncIARR0SKhNQ/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

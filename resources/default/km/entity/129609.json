@@ -1,0 +1,42 @@
+{
+  "$id": "129609",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/the-great-british-bake-off-musical-tickets/",
+    "name": "The Great British Bake Off Musical",
+    "primaryPhoto": {
+      "description": "After its world premiere in Cheltenham THE GREAT BRITISH BAKE OFF MUSICAL is transferring to the Noel Coward Theatre for a limited run!\nThe nations favourite TV show is now a brand-new Great British Musical. Written by Jake Brunger and Pippa Cleary and produced by West End producer Mark Goucher THE GREAT BRITISH BAKE OFF MUSICAL  turns the highly popular The Great British Bake Off into a brilliant new musical-comedy! WhatsOnStage described the show as \u0026#8216;hilarious, deeply touching and an utterly joyous feast of fun’ with The Times exclaiming that the musical comedy ‘serves up a hearty sugar and spice recipe.’\nThe cast will be led by John Owen-Jones (Les Miserables, The Phantom of the Opera) so audiences can expect a scrumptious signature slice of humour, heart, and abundant joy, with sixteen wonderful new memorable songs played by a live orchestra.\nSo dust off your aprons and get your whisks at the ready for a show that\u0026#8217;ll be as much a staple of British culture as Bake Off itself!\nBook your THE GREAT BRITISH BAKE OFF MUSICAL  theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://lovetheatre.akaagencies.com/content/uploads/2022/07/GBBO_LT_GLS_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/e7NEvKSYvNefYMfL2Jq75cTA4uPCLcc9VNSnUIaAJ5o/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/e7NEvKSYvNefYMfL2Jq75cTA4uPCLcc9VNSnUIaAJ5o/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/e7NEvKSYvNefYMfL2Jq75cTA4uPCLcc9VNSnUIaAJ5o/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/e7NEvKSYvNefYMfL2Jq75cTA4uPCLcc9VNSnUIaAJ5o/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/e7NEvKSYvNefYMfL2Jq75cTA4uPCLcc9VNSnUIaAJ5o/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

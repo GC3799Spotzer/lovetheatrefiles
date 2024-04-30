@@ -1,0 +1,58 @@
+{
+  "$id": "171181",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_offer": "Save up to 40%",
+    "c_runningTime": "2hrs 20mins (incl. interval)",
+    "c_showType": "Musical",
+    "c_tags": [
+      "family friendly",
+      "kids",
+      "limited run",
+      "special offers",
+      "musicals"
+    ],
+    "c_venueAddress": "45 Queen Caroline St, Hammersmith, London W6 9QH",
+    "c_venueName": "Eventim Apollo",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/shrek-the-musical-tickets/",
+    "name": "Shrek The Musical",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "24"
+    },
+    "primaryPhoto": {
+      "description": "For 6 weeks only the West End and Broadway hit, SHREK THE MUSICAL, returns to London at the Eventim Apollo.\nThis award-winning musical brings to life the world of Shrek live on stage in an unforgettable production to melt hearts of all ages. Dreamwork’s spectacular musical is based on their much-loved Oscar winning animated film.\nFrom an award-winning creative team and with astonishing visual effects, SHREK THE MUSICAL is a hilarious and heart-warming musical sensation.\nEnchantingly irreverent and monstrously clever, SHREK THE MUSICAL is one whirlwind adventure not to be missed.\nDon’t miss the magical event of the summer. Book your SHREK THE MUSICAL theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2023/09/Shrek_1080x1080.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/d5tZ7ffqq_yvWFOf9Lsj29hC9FVym4fN2Vl9jj9vwu4/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/d5tZ7ffqq_yvWFOf9Lsj29hC9FVym4fN2Vl9jj9vwu4/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/d5tZ7ffqq_yvWFOf9Lsj29hC9FVym4fN2Vl9jj9vwu4/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/d5tZ7ffqq_yvWFOf9Lsj29hC9FVym4fN2Vl9jj9vwu4/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/d5tZ7ffqq_yvWFOf9Lsj29hC9FVym4fN2Vl9jj9vwu4/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

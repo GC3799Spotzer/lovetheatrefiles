@@ -1,0 +1,61 @@
+{
+  "$id": "467",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_runningTime": "2hrs 40mins (incl. interval)",
+    "c_showType": "Musical",
+    "c_tags": [
+      "award winning",
+      "critically acclaimed",
+      "family friendly",
+      "half term",
+      "kids",
+      "matinee",
+      "sunday shows",
+      "valentines",
+      "musicals"
+    ],
+    "c_venueAddress": "Earlham Street, London, WC2 9HU",
+    "c_venueName": "Cambridge Theatre",
+    "landingPageUrl": "https://lovetheatre.akaagencies.com/shows/matilda-tickets/",
+    "name": "Matilda The Musical",
+    "price": {
+      "currencyCode": "GBP",
+      "value": "24"
+    },
+    "primaryPhoto": {
+      "description": "Winner of over 100 international awards, including 24 for Best Musical, MATILDA THE MUSICAL continues to delight audiences of all ages at London’s Cambridge Theatre.\nMATILDA THE MUSICAL tells the story of an extraordinary girl who, armed with a vivid imagination and a sharp mind, dares to take a stand and change her own destiny. The critically-acclaimed production is based on the beloved story by the incomparable Roald Dahl, with a book by Dennis Kelly and original songs by composer lyricist Tim Minchin.\nProduced by the Royal Shakespeare Company, this box office smash-hit is now in its tenth year in London.\nBook your MATILDA THE MUSICAL theatre tickets with LOVEtheatre today!",
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://www.lovetheatre.com/content/uploads/2020/02/MAT24_Q1_007-New-Concept-Ticket-Agent-Buttons-LoveTheatre-Groupline-1080x1080-AW.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/EaA8zm8vng__hDugjHDjUcTzNHji2_qboWtJj9gcXfc/1080x1080.jpg",
+            "width": 1080
+          },
+          {
+            "height": 619,
+            "url": "http://a.mktgcdn.com/p-sandbox/EaA8zm8vng__hDugjHDjUcTzNHji2_qboWtJj9gcXfc/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/EaA8zm8vng__hDugjHDjUcTzNHji2_qboWtJj9gcXfc/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p-sandbox/EaA8zm8vng__hDugjHDjUcTzNHji2_qboWtJj9gcXfc/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/EaA8zm8vng__hDugjHDjUcTzNHji2_qboWtJj9gcXfc/1080x1080.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_show",
+  "labels": []
+}

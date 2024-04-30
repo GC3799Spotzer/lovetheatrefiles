@@ -1,0 +1,16 @@
+{
+  "$id": "1371382",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The running time for Macbeth is 2 hours 30 minutes, including an interval.",
+    "c_show": [
+      "137138"
+    ],
+    "c_type": "SHOW",
+    "name": "How long is Macbeth and when does it finish?",
+    "question": "How long is Macbeth and when does it finish?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

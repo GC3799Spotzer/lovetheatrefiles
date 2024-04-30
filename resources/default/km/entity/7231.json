@@ -1,0 +1,16 @@
+{
+  "$id": "7231",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_answer2": "The Taming Of The Shrew is playing at Shakespeare\u0027s Globe Theatre.",
+    "c_show": [
+      "723"
+    ],
+    "c_type": "SHOW",
+    "name": "Where is The Taming Of The Shrew playing?",
+    "question": "Where is The Taming Of The Shrew playing?"
+  },
+  "entityType": "faq",
+  "labels": []
+}
